@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:29:29.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BjjZp2p3rwNmraBGB88Q" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T05:32:46.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MvkxqrsgXOYWlzHc4hkP" version="24.4.13" type="github">
   <diagram name="第 1 页" id="IrYBh-we4-hO0y2d7JYK">
     <mxGraphModel dx="2193" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,11 +241,23 @@
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-93" value="評估，導入，工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="630" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-98" target="txEXzCPCH6nZ4rqp-_Vv-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-98" target="txEXzCPCH6nZ4rqp-_Vv-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-98" value="是否符合敏捷開發適用情境&lt;div&gt;有沒有違反１２條準則&lt;/div&gt;&lt;div&gt;（非強制性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="740" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-100" value="gitlab 也有 scrum 工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="350" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-102" value="為什麼&lt;div&gt;如何做&lt;/div&gt;&lt;div&gt;做什麼&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="830" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-104" value="&lt;div&gt;敏捷宣言和十二項原則&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="740" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
