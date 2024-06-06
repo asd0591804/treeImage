@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:32:46.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MvkxqrsgXOYWlzHc4hkP" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T05:58:13.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HJ0G_B-eo1d9b_9Rou5O" version="24.4.13" type="github">
   <diagram name="第 1 页" id="IrYBh-we4-hO0y2d7JYK">
     <mxGraphModel dx="2193" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
             <mxPoint x="380" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-47" target="txEXzCPCH6nZ4rqp-_Vv-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-47" value="列出需求清單&lt;div&gt;排出優先順序&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="10" width="130" height="60" as="geometry" />
         </mxCell>
@@ -168,6 +171,9 @@
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-48" value="根據優先順序及負荷認領" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="105" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-49" target="txEXzCPCH6nZ4rqp-_Vv-108">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-49" value="daily meeting&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;昨天做了什麼&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;遇到什麼問題&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;今天要做什麼&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="150" height="60" as="geometry" />
@@ -178,11 +184,17 @@
             <mxPoint x="420" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-54" target="txEXzCPCH6nZ4rqp-_Vv-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-54" value="sprint review&amp;nbsp;&lt;div&gt;查看進度&lt;/div&gt;&lt;div&gt;提出需求更新&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-56" value="不直接參與開發" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-58" target="txEXzCPCH6nZ4rqp-_Vv-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-58" value="通常一個週期是1~4週" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="860" y="110" width="150" height="50" as="geometry" />
@@ -258,6 +270,42 @@
         </mxCell>
         <mxCell id="txEXzCPCH6nZ4rqp-_Vv-104" value="&lt;div&gt;敏捷宣言和十二項原則&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-100" y="740" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-106" target="txEXzCPCH6nZ4rqp-_Vv-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-106" value="列出巨細彌遺的需求&lt;div&gt;整理出使用者故事&lt;/div&gt;&lt;div&gt;根據變動，修改使用者故事及需求，並在下次溝通提出&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-10" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-107" target="txEXzCPCH6nZ4rqp-_Vv-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-107" value="高度自治力&lt;div&gt;根據需求整理出合理的任務&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="87.5" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-108" target="txEXzCPCH6nZ4rqp-_Vv-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-108" value="&lt;div&gt;排除外在干擾，避免開發團隊直接面對需求更改&lt;/div&gt;&lt;div&gt;提倡敏捷開發精神&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="182.5" width="280" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-113" value="排除 scrum 所遇到難題&lt;div&gt;尊重scrum&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial; color: rgb(0, 0, 0); --darkreader-inline-bgcolor: initial; --darkreader-inline-color: #e3e1de;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%E6%8E%92%E9%99%A4%E5%A4%96%E5%9C%A8%E5%B9%B2%E6%93%BE%EF%BC%8C%E9%81%BF%E5%85%8D%E9%96%8B%E7%99%BC%E5%9C%98%E9%9A%8A%E7%9B%B4%E6%8E%A5%E9%9D%A2%E5%B0%8D%E9%9C%80%E6%B1%82%E6%9B%B4%E6%94%B9%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%E6%8F%90%E5%80%A1%E6%95%8F%E6%8D%B7%E9%96%8B%E7%99%BC%E7%B2%BE%E7%A5%9E%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22shape%3Dnote%3Bsize%3D20%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22730%22%20y%3D%22182.5%22%20width%3D%22280%22%20height%3D%2295%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="352.5" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-115" value="成員需要跨職能&lt;div&gt;人數最好在 5~9人之間&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="87.5" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-117" value="最大化投資回報&lt;div&gt;不斷更新代辦事項&lt;/div&gt;&lt;div&gt;經常與客戶互動&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1.25" width="200" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-120" value="不能兼任產品負責&lt;div&gt;適度調整開發項目大小&lt;/div&gt;&lt;div&gt;鼓勵團隊溝通&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="191.25" width="160" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-127" value="雖然敏捷能應付變動，但也不是隨時都可以變動，&lt;div&gt;需從產品負責人接收開始，在更新使用者故事及需求&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="277.5" width="280" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="txEXzCPCH6nZ4rqp-_Vv-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="txEXzCPCH6nZ4rqp-_Vv-108" target="txEXzCPCH6nZ4rqp-_Vv-127">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
