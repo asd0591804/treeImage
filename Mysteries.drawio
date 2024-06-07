@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T13:49:00.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wrtpE3_zHz29UIvf59js" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T14:01:41.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="r9BsqXaYUCF8_kd9RZKF" version="24.4.13" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2261" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="560" />
-              <mxPoint x="540" y="560" />
+              <mxPoint x="660" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,18 +170,25 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="K-KHmR-dtGEfEEJEGf6L-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="780" />
-              <mxPoint x="400" y="780" />
+              <mxPoint x="590" y="705" />
+              <mxPoint x="590" y="780" />
+              <mxPoint x="490" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="K-KHmR-dtGEfEEJEGf6L-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-5" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="625" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="625" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="K-KHmR-dtGEfEEJEGf6L-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="K-KHmR-dtGEfEEJEGf6L-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="K-KHmR-dtGEfEEJEGf6L-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-8" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -190,14 +197,14 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-11" value="&lt;div&gt;第五章：儀式&lt;/div&gt;&lt;div&gt;訓獸師占卜&lt;/div&gt;&lt;div&gt;兩顆紅星&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="730" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-13" target="K-KHmR-dtGEfEEJEGf6L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-13" value="魯恩王國首都&lt;div&gt;貝克蘭德&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="745" width="100" height="70" as="geometry" />
+          <mxGeometry x="60" y="720" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-15" value="古代所羅門帝國&lt;div&gt;鏡子&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="745" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="K-KHmR-dtGEfEEJEGf6L-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="60" y="825" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-21" value="祈禱祭祀專用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="160" width="120" height="60" as="geometry" />
@@ -206,10 +213,16 @@
           <mxGeometry x="-370" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-27" value="觀眾" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="愚者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="&lt;div&gt;塔羅會&lt;/div&gt;愚者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-36" value="&lt;div&gt;塔羅會&lt;/div&gt;正義" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-38" value="&lt;div&gt;塔羅會&lt;/div&gt;&lt;div&gt;倒吊人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
