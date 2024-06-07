@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T17:07:53.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="0tES9rqlz2ElyV5f7G_8" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T18:01:54.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NZkc5toKjGKPC5kRgapc" version="24.4.13" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2253" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,6 +55,20 @@
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-64">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="260" />
+              <mxPoint x="320" y="730" />
+              <mxPoint x="210" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-73" value="入夢" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K-KHmR-dtGEfEEJEGf6L-72">
+          <mxGeometry x="0.5457" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IismxTwG9UXXeM0H7G9D-1" value="克萊恩．莫雷蒂" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="120" height="80" as="geometry" />
@@ -332,8 +346,14 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-64" value="廷根" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-66" target="K-KHmR-dtGEfEEJEGf6L-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-66" value="三位警察" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-70" value="鄧恩。史密斯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="830" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
