@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T14:01:41.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="r9BsqXaYUCF8_kd9RZKF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T16:11:34.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Q1AjuSVdz02wQduV9_0T" version="24.4.13" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2261" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,13 +27,31 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="560" />
-              <mxPoint x="660" y="560" />
+              <mxPoint x="400" y="960" />
+              <mxPoint x="660" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="690" />
+              <mxPoint x="400" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="K-KHmR-dtGEfEEJEGf6L-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="260" />
+              <mxPoint x="610" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IismxTwG9UXXeM0H7G9D-1" value="克萊恩．莫雷蒂" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="120" height="80" as="geometry" />
@@ -48,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-1" value="&lt;div&gt;第一章：緋紅&lt;/div&gt;紅月，拮据，左輪，血跡，大腦傷口&lt;br&gt;“所有人都會死，包括我”" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="340" width="240" height="100" as="geometry" />
+          <mxGeometry x="-630" y="330" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-3" value="兄" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="360" width="120" height="80" as="geometry" />
@@ -72,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-21" value="&lt;div&gt;第二章：情況&lt;/div&gt;&lt;div&gt;方術紀要，轉運儀式&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="475" width="240" height="100" as="geometry" />
+          <mxGeometry x="-630" y="465" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-23" value="梅麗莎" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="509.5" width="100" height="70" as="geometry" />
@@ -126,10 +144,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZMvVKYSNkP1_T-2Btj6-33" target="QZMvVKYSNkP1_T-2Btj6-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="190" />
+              <mxPoint x="70" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZMvVKYSNkP1_T-2Btj6-33" target="K-KHmR-dtGEfEEJEGf6L-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZMvVKYSNkP1_T-2Btj6-33" target="K-KHmR-dtGEfEEJEGf6L-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="K-KHmR-dtGEfEEJEGf6L-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="sourcePoint" />
+            <mxPoint x="-30" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="190" />
+              <mxPoint x="70" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-33" value="語言" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="150" y="170" width="100" height="40" as="geometry" />
@@ -153,16 +190,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-45" value="&lt;div&gt;第四章：占卜&lt;/div&gt;&lt;div&gt;因蒂斯共和國，帝國&lt;/div&gt;&lt;div&gt;羅賽爾，古斯塔夫&lt;/div&gt;&lt;div&gt;占卜詢問，塔羅牌&lt;/div&gt;&lt;div&gt;穿越者&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="605" width="240" height="100" as="geometry" />
+          <mxGeometry x="-630" y="595" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-1" value="魯恩文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="-280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-2" target="K-KHmR-dtGEfEEJEGf6L-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-2" target="K-KHmR-dtGEfEEJEGf6L-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-2" target="K-KHmR-dtGEfEEJEGf6L-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-225" y="190" />
+              <mxPoint x="-225" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-2" value="赫密斯文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="150" width="120" height="80" as="geometry" />
@@ -170,17 +212,20 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="K-KHmR-dtGEfEEJEGf6L-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="705" />
-              <mxPoint x="590" y="780" />
-              <mxPoint x="490" y="780" />
+              <mxPoint x="590" y="1085" />
+              <mxPoint x="590" y="1160" />
+              <mxPoint x="490" y="1160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="K-KHmR-dtGEfEEJEGf6L-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="K-KHmR-dtGEfEEJEGf6L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-5" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="625" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="1005" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="K-KHmR-dtGEfEEJEGf6L-13">
           <mxGeometry relative="1" as="geometry" />
@@ -192,37 +237,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-8" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="625" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="1005" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-11" value="&lt;div&gt;第五章：儀式&lt;/div&gt;&lt;div&gt;訓獸師占卜&lt;/div&gt;&lt;div&gt;兩顆紅星&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="730" width="240" height="100" as="geometry" />
+          <mxGeometry x="-630" y="720" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-13" target="K-KHmR-dtGEfEEJEGf6L-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-13" value="魯恩王國首都&lt;div&gt;貝克蘭德&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="720" width="100" height="70" as="geometry" />
+          <mxGeometry x="60" y="1100" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-15" value="古代所羅門帝國&lt;div&gt;鏡子&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="825" width="100" height="70" as="geometry" />
+          <mxGeometry x="60" y="1205" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-21" value="祈禱祭祀專用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-25" value="古赫密斯文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="-410" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-27" value="觀眾" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="&lt;div&gt;塔羅會&lt;/div&gt;愚者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="&lt;div&gt;塔羅會&lt;/div&gt;愚者&lt;div&gt;四點(正方)紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-36" value="&lt;div&gt;塔羅會&lt;/div&gt;正義" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-36" value="&lt;div&gt;塔羅會&lt;/div&gt;正義&lt;div&gt;星辰紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-38" value="&lt;div&gt;塔羅會&lt;/div&gt;&lt;div&gt;倒吊人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-38" value="&lt;div&gt;塔羅會&lt;/div&gt;&lt;div&gt;倒吊人&lt;/div&gt;&lt;div&gt;雪花紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-42" value="圖鐸王朝幽靈船" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1015" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-44" value="巨人&lt;div&gt;精靈&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-47" target="K-KHmR-dtGEfEEJEGf6L-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-47" value="韋爾奇，娜亞" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-48" target="K-KHmR-dtGEfEEJEGf6L-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-48" value="翻譯第四紀筆記" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-50" target="K-KHmR-dtGEfEEJEGf6L-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-50" target="K-KHmR-dtGEfEEJEGf6L-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-50" value="索羅門帝國" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-52" target="K-KHmR-dtGEfEEJEGf6L-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-52" target="K-KHmR-dtGEfEEJEGf6L-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-52" value="安提哥努斯家族" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-54" value="霍納奇斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-56" value="圖鐸&lt;div&gt;人?王朝?&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-58" value="黑皇帝" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="575" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-62" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="465" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
