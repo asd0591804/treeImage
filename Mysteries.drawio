@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T10:34:17.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="1L0uyaN3naxYPkTMeWRp" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-09T11:11:07.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="qDcsNN4wNojVX3YsGy4t" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2253" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,11 +371,29 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-4" target="_m64BonnHY6n9VVR-yjz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-4" target="_m64BonnHY6n9VVR-yjz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-4" value="黛莉" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="930" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-6" target="_m64BonnHY6n9VVR-yjz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-6" value="非凡者起始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-8" target="_m64BonnHY6n9VVR-yjz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-8" value="黑荊棘安保公司" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-12" value="心理煉金會" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-14" value="羅珊" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1135" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
