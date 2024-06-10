@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T06:30:42.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="zlSJmh9Xw-1I_F-yo4GO" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T06:46:03.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="1DeS0dEaRY593te2Qd_-" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -601,7 +601,7 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-84" value="摩斯苦修會" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_m64BonnHY6n9VVR-yjz-87" value="占卜家" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_m64BonnHY6n9VVR-yjz-87" value="占卜家" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
