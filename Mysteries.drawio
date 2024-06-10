@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T08:01:02.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="o9uiEMYAK_UdX-BIBlCK" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T09:50:54.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Qh1VbXlKawJfjS0d5602" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,6 +273,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="_m64BonnHY6n9VVR-yjz-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-5" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1295" width="120" height="80" as="geometry" />
         </mxCell>
@@ -309,7 +316,7 @@
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-25" value="古赫密斯文" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-410" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-27" value="觀眾" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-27" value="&lt;div&gt;序列9&lt;br&gt;&lt;/div&gt;觀眾" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-31" target="K-KHmR-dtGEfEEJEGf6L-8">
@@ -676,6 +683,9 @@
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-110" value="&lt;div&gt;第37章：俱樂部&lt;/div&gt;&lt;div&gt;嘗試扮演占卜家，了解占卜俱樂部&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="960" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-113" value="&lt;div&gt;序列7&lt;/div&gt;航海家" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
