@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T06:12:36.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="s-hQqSpDdPnTtiYYBhKJ" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T06:21:28.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="k3LHmAH5iU4Zn1OLNSF4" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-70" target="_m64BonnHY6n9VVR-yjz-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="1040" />
+              <mxPoint x="50" y="1040" />
+              <mxPoint x="50" y="1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-70" value="鄧恩。史密斯" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="830" width="120" height="80" as="geometry" />
         </mxCell>
@@ -441,6 +450,9 @@
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-20" value="同源&lt;div&gt;吸收能力&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="1245" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-23" target="_m64BonnHY6n9VVR-yjz-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-23" value="尋找筆記" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1360" width="120" height="60" as="geometry" />
@@ -534,6 +546,15 @@
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-66" value="&lt;div&gt;第26章：練習&lt;/div&gt;&lt;div&gt;被跟蹤，教堂，隊長，原路返回，練槍&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="830" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-67" target="_m64BonnHY6n9VVR-yjz-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-67" value="被跟蹤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-69" value="家受入侵&lt;div&gt;夢中提醒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
