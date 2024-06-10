@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:05:00.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="IgGFanegYNTQlZvHU2fX" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:05:04.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ORyJSgJAFnLm5mTqJ2CD" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,6 +300,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-5" target="_m64BonnHY6n9VVR-yjz-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1650" />
+              <mxPoint x="1420" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-5" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1295" width="120" height="80" as="geometry" />
         </mxCell>
@@ -348,13 +356,13 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-31" target="K-KHmR-dtGEfEEJEGf6L-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="&lt;div&gt;塔羅會&lt;/div&gt;愚者&lt;div&gt;四點(正方)紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-31" value="&lt;div&gt;塔羅會&lt;/div&gt;愚者&lt;div&gt;四點(正方)紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="900" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-36" value="&lt;div&gt;塔羅會&lt;/div&gt;正義&lt;div&gt;星辰紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-36" value="&lt;div&gt;塔羅會&lt;/div&gt;正義&lt;div&gt;星辰紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="900" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K-KHmR-dtGEfEEJEGf6L-38" value="&lt;div&gt;塔羅會&lt;/div&gt;&lt;div&gt;倒吊人&lt;/div&gt;&lt;div&gt;雪花紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K-KHmR-dtGEfEEJEGf6L-38" value="&lt;div&gt;塔羅會&lt;/div&gt;&lt;div&gt;倒吊人&lt;/div&gt;&lt;div&gt;雪花紋身&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-42" value="圖鐸王朝幽靈船" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -722,6 +730,9 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-115" value="蘇茜偷喝" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-117" target="_m64BonnHY6n9VVR-yjz-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-117" value="&lt;div&gt;第41章：奧黛莉和他的蘇茜&lt;/div&gt;&lt;div&gt;黑荊棘接收到委託&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="1140" width="240" height="100" as="geometry" />
         </mxCell>
@@ -755,11 +766,23 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-139" target="_m64BonnHY6n9VVR-yjz-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-139" target="_m64BonnHY6n9VVR-yjz-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-139" value="占卜家俱樂部" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-141" value="魔鏡占卜" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-143" value="追捕&lt;div&gt;極光會&lt;/div&gt;&lt;div&gt;傾聽者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-145" value="&lt;div&gt;第53章：傾聽者&lt;/div&gt;&lt;div&gt;傑克，父親，七偽神，天使&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="1320" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-147" value="第一位客人&lt;div&gt;&lt;div&gt;未婚夫，出海，安危&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
