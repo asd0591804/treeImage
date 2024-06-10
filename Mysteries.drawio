@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:05:04.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ORyJSgJAFnLm5mTqJ2CD" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:11:13.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="vw5oAxKnYiZKe4kwjiVX" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -781,8 +781,20 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-145" value="&lt;div&gt;第53章：傾聽者&lt;/div&gt;&lt;div&gt;傑克，父親，七偽神，天使&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="1320" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-147" target="_m64BonnHY6n9VVR-yjz-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-147" value="第一位客人&lt;div&gt;&lt;div&gt;未婚夫，出海，安危&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-149" target="_m64BonnHY6n9VVR-yjz-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-149" value="&lt;div&gt;當下時間&lt;/div&gt;1349年7月" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-151" value="夢境占卜&lt;div&gt;山脈中的宮殿&lt;/div&gt;&lt;div&gt;皇座上的透明蠕蟲&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
