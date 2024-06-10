@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:27:23.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="dA5mZdtPqm_vDyVEPIM4" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:29:13.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="THB6VzgWGxx_8qidYJnU" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2321" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -893,8 +893,14 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-183" value="格拉西斯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="515" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-186" target="_m64BonnHY6n9VVR-yjz-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-186" value="羅森。達克威德" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-188" value="羅森民俗草藥店" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
