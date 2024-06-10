@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:42:21.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Cf46s71lPt54AFg8ulQI" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:52:24.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="AHCrO0L11_47gauTGD0b" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2440" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -829,7 +829,7 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-147" target="_m64BonnHY6n9VVR-yjz-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_m64BonnHY6n9VVR-yjz-147" value="第一位客人&lt;div&gt;&lt;div&gt;未婚夫，出海，安危&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_m64BonnHY6n9VVR-yjz-147" value="第一位客人&lt;div&gt;安娜&lt;br&gt;&lt;div&gt;&lt;div&gt;未婚夫，出海，安危&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-149" target="_m64BonnHY6n9VVR-yjz-151">
@@ -844,7 +844,7 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-153" target="_m64BonnHY6n9VVR-yjz-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_m64BonnHY6n9VVR-yjz-153" value="遭遇海盜&lt;div&gt;成員與船員互相殘殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_m64BonnHY6n9VVR-yjz-153" value="&lt;div&gt;苜蓿號&lt;/div&gt;遭遇海盜&lt;div&gt;成員與船員互相殘殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-155" value="特里斯先生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -878,7 +878,7 @@
           <mxGeometry x="1040" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-178" value="不屬於這個時代的愚者&lt;div&gt;灰霧之上的神祕主宰&lt;/div&gt;&lt;div&gt;執掌好運的黃黑之王&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="970" width="140" height="60" as="geometry" />
+          <mxGeometry x="890" y="1020" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-182" value="安潔莉卡" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="670" width="120" height="80" as="geometry" />
@@ -918,8 +918,26 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-195" target="_m64BonnHY6n9VVR-yjz-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-195" target="_m64BonnHY6n9VVR-yjz-199">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-195" value="邁爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-199" target="_m64BonnHY6n9VVR-yjz-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-202" value="表面正常，但有問題" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_m64BonnHY6n9VVR-yjz-201">
+          <mxGeometry x="0.2063" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-199" value="夢&lt;div&gt;尤尼斯。金&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
