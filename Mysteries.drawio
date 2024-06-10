@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T09:50:54.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Qh1VbXlKawJfjS0d5602" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T09:54:19.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZDP2kBnoPvQfFCgtRByF" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,6 +315,9 @@
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-25" value="古赫密斯文" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-410" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-27" target="_m64BonnHY6n9VVR-yjz-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-27" value="&lt;div&gt;序列9&lt;br&gt;&lt;/div&gt;觀眾" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="1550" width="120" height="60" as="geometry" />
@@ -681,11 +684,20 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-107" value="黑夜女神覆滅&lt;div&gt;安提哥努斯家族&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-110" target="_m64BonnHY6n9VVR-yjz-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-110" value="&lt;div&gt;第37章：俱樂部&lt;/div&gt;&lt;div&gt;嘗試扮演占卜家，了解占卜俱樂部&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="960" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-113" value="&lt;div&gt;序列7&lt;/div&gt;航海家" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-115" value="蘇茜偷喝" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-117" value="&lt;div&gt;第41章：奧黛莉和他的蘇茜&lt;/div&gt;&lt;div&gt;黑荊棘接收到委託&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="1140" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
