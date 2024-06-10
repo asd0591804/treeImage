@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T10:15:32.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7fYQ1nDXgL0LsCgiK57O" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T10:33:18.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="KYEH8Nd7TAaFaO3-MWvx" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2812" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,8 +711,14 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-117" value="&lt;div&gt;第41章：奧黛莉和他的蘇茜&lt;/div&gt;&lt;div&gt;黑荊棘接收到委託&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="1140" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-119" target="_m64BonnHY6n9VVR-yjz-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-119" value="委託&lt;div&gt;合作尋人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-127" value="發現安提哥努斯筆記蹤跡&lt;div&gt;自動被忽略了&lt;/div&gt;&lt;div&gt;夢中靈性提醒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1810" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
