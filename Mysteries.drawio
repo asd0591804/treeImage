@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T16:39:44.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="P88gEdBJZ4Y12QOBYDXa" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T17:40:44.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3H0coUbuLQVSvoKzlUdW" version="24.5.2" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2754" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-1" value="&lt;div&gt;第一章：緋紅&lt;/div&gt;紅月，拮据，左輪，血跡，大腦傷口&lt;br&gt;“所有人都會死，包括我”" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="310" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="300" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-3" value="兄" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="360" width="120" height="80" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-21" value="&lt;div&gt;第二章：情況&lt;/div&gt;&lt;div&gt;方術紀要，轉運儀式&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="445" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="435" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-23" value="梅麗莎" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="509.5" width="100" height="70" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-45" value="&lt;div&gt;第四章：占卜&lt;/div&gt;&lt;div&gt;因蒂斯共和國，帝國&lt;/div&gt;&lt;div&gt;羅賽爾，古斯塔夫&lt;/div&gt;&lt;div&gt;占卜詢問，塔羅牌&lt;/div&gt;&lt;div&gt;穿越者&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="575" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="565" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-1" value="魯恩文" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-280" width="120" height="80" as="geometry" />
@@ -342,7 +342,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-11" value="&lt;div&gt;第五章：儀式&lt;/div&gt;&lt;div&gt;訓獸師占卜&lt;/div&gt;&lt;div&gt;兩顆紅星&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="700" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="690" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K-KHmR-dtGEfEEJEGf6L-13" target="K-KHmR-dtGEfEEJEGf6L-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -489,6 +489,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-317" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-70" target="_m64BonnHY6n9VVR-yjz-316">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="920" />
+              <mxPoint x="-750" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-70" value="鄧恩。史密斯" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="830" width="120" height="80" as="geometry" />
         </mxCell>
@@ -593,6 +601,14 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-36" target="_m64BonnHY6n9VVR-yjz-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-36" target="_m64BonnHY6n9VVR-yjz-296">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1280" />
+              <mxPoint x="60" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-36" value="老尼爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1135" width="120" height="80" as="geometry" />
         </mxCell>
@@ -672,7 +688,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-66" value="&lt;div&gt;第26章：練習&lt;/div&gt;&lt;div&gt;被跟蹤，教堂，隊長，原路返回，練槍&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="830" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="820" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-67" target="_m64BonnHY6n9VVR-yjz-69">
           <mxGeometry relative="1" as="geometry" />
@@ -770,7 +786,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-110" value="&lt;div&gt;第37章：俱樂部&lt;/div&gt;&lt;div&gt;嘗試扮演占卜家，了解占卜俱樂部&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="960" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="950" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-113" value="&lt;div&gt;序列7&lt;/div&gt;航海家" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1550" width="120" height="60" as="geometry" />
@@ -782,13 +798,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-117" value="&lt;div&gt;第41章：奧黛莉和他的蘇茜&lt;/div&gt;&lt;div&gt;黑荊棘接收到委託&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="1140" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="1080" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-119" target="_m64BonnHY6n9VVR-yjz-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-119" value="委託&lt;div&gt;合作尋人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-127" target="_m64BonnHY6n9VVR-yjz-331">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1150" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1290" y="1840" />
+              <mxPoint x="-1290" y="325" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-127" value="發現安提哥努斯筆記蹤跡&lt;div&gt;自動被忽略了&lt;/div&gt;&lt;div&gt;夢中靈性提醒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1810" width="160" height="60" as="geometry" />
@@ -850,7 +875,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-145" value="&lt;div&gt;第53章：傾聽者&lt;/div&gt;&lt;div&gt;傑克，父親，七偽神，天使&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="1320" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="1220" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-147" target="_m64BonnHY6n9VVR-yjz-149">
           <mxGeometry relative="1" as="geometry" />
@@ -879,6 +904,9 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-155" target="_m64BonnHY6n9VVR-yjz-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-155" target="_m64BonnHY6n9VVR-yjz-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-155" value="特里斯先生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="860" width="120" height="80" as="geometry" />
         </mxCell>
@@ -897,8 +925,11 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-168" value="查拉圖先生" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-170" target="_m64BonnHY6n9VVR-yjz-333">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-170" value="&lt;div&gt;第60章：第二塊褻瀆石板&lt;/div&gt;&lt;div&gt;四大家族，支持圖鐸，血皇帝殞落&lt;/div&gt;&lt;div&gt;744整理歷史&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="1500" width="240" height="100" as="geometry" />
+          <mxGeometry x="-1650" y="1360" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-173" target="_m64BonnHY6n9VVR-yjz-176">
           <mxGeometry relative="1" as="geometry" />
@@ -1184,6 +1215,9 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-276" value="血腥祭祀" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="-856" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-278" target="_m64BonnHY6n9VVR-yjz-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-278" value="師徒傳承" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1207,6 +1241,100 @@
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-294" value="接收通訊測試" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-296" target="_m64BonnHY6n9VVR-yjz-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-296" target="_m64BonnHY6n9VVR-yjz-306">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-296" target="_m64BonnHY6n9VVR-yjz-308">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-296" value="一起前往黑市" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-315" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-298" target="_m64BonnHY6n9VVR-yjz-314">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-298" value="騷動&lt;div&gt;通緝犯曾出現&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-302" target="_m64BonnHY6n9VVR-yjz-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-302" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;途徑&lt;/span&gt;&lt;/div&gt;&lt;div&gt;怪物&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-304" value="絕對理性世界(真理)&lt;div&gt;靈的世界&lt;/div&gt;&lt;div&gt;物質世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="-1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-306" value="購買觀眾途徑魔藥之人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1960" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-308" target="_m64BonnHY6n9VVR-yjz-310">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-308" value="購買半成品護身符" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-310" target="_m64BonnHY6n9VVR-yjz-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-310" value="女孩" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2060" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-312" value="詢問護身符&lt;div&gt;贈送好友&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-314" value="回家&lt;div&gt;馬車上疑似特里斯&lt;/div&gt;&lt;div&gt;女巫&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-321" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-316" target="_m64BonnHY6n9VVR-yjz-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-316" target="_m64BonnHY6n9VVR-yjz-322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-316" target="_m64BonnHY6n9VVR-yjz-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-316" target="_m64BonnHY6n9VVR-yjz-326">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-316" value="2-049抵達" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-320" value="洛絡塔&lt;div&gt;掘墓人&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-322" value="&lt;div&gt;艾爾。哈森&lt;/div&gt;&lt;div&gt;不眠者&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B4%9B%E7%B5%A1%E5%A1%94%26lt%3Bdiv%26gt%3B%E6%8E%98%E5%A2%93%E4%BA%BA%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-990%22%20y%3D%22475%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-324" value="&lt;div&gt;博爾吉亞&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="585" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-329" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-326" target="_m64BonnHY6n9VVR-yjz-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-326" value="小丑木偶&lt;div&gt;安提哥努斯有關&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-332" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-328" target="_m64BonnHY6n9VVR-yjz-331">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-328" value="使人遲緩" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-991" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-331" value="找尋瑞爾。比伯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1191" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_m64BonnHY6n9VVR-yjz-333" value="&lt;div&gt;第73章：初戰&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="1540" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
