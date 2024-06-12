@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T03:15:52.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eg835t-f7sX7p5zeuZDC" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T03:37:18.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d7IPth_NZQlE1bG_BxhI" version="24.5.3" type="github">
   <diagram name="第 1 页" id="650_0008pZhlcv7stxL-">
-    <mxGraphModel dx="984" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,6 +11,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lIHNAKvChLtOhRkSrMmg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-1" target="lIHNAKvChLtOhRkSrMmg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-1" target="lIHNAKvChLtOhRkSrMmg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-1" target="lIHNAKvChLtOhRkSrMmg-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lIHNAKvChLtOhRkSrMmg-1" value="記憶" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,6 +96,51 @@
         </mxCell>
         <mxCell id="lIHNAKvChLtOhRkSrMmg-31" value="精緻化的複誦" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-33" target="lIHNAKvChLtOhRkSrMmg-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-33" value="遺忘" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-35" target="lIHNAKvChLtOhRkSrMmg-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-35" target="lIHNAKvChLtOhRkSrMmg-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-35" value="干擾" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-37" value="不常走的路會雜草叢生" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-39" target="lIHNAKvChLtOhRkSrMmg-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-39" value="近因現象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-41" target="lIHNAKvChLtOhRkSrMmg-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-41" value="首因現象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-43" target="lIHNAKvChLtOhRkSrMmg-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-43" value="中間的資訊容易受到一開始所講的內容影響" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="610" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lIHNAKvChLtOhRkSrMmg-45" target="lIHNAKvChLtOhRkSrMmg-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-45" value="中間的資訊容易受到最後所講的內容影響" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="610" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lIHNAKvChLtOhRkSrMmg-47" value="重要的事情放在一開始或是最後再說" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="740" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
