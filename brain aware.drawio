@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T01:51:43.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.5.2" etag="3R-ZwpdfzXkL4rzYOMXr" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T01:59:50.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KjGCc9Wx04VhSQhkQClh" version="24.5.2" type="github">
   <diagram name="第 1 页" id="k3HVxpHRC0UvP1BNlsbH">
-    <mxGraphModel>
+    <mxGraphModel dx="984" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="160" />
+              <mxPoint x="250" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="160" />
+              <mxPoint x="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-2" value="自我覺察" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-3" value="Ｏ&lt;div&gt;開放心態&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-5" value="Ｎ&lt;div&gt;思考新選擇&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="94" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-7" value="Ｅ&lt;div&gt;擁抱情緒&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="494" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-9" value="Ｗ&lt;div&gt;不要評價&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-11" value="Ｄ&lt;div&gt;耐心深入探索&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="494" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-13" value="Ｒ&lt;div&gt;真實自己&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
