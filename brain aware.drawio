@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T01:59:50.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KjGCc9Wx04VhSQhkQClh" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T02:32:51.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="W9t_xDLevCCG4ocRtm-g" version="24.5.2" type="github">
   <diagram name="第 1 页" id="k3HVxpHRC0UvP1BNlsbH">
     <mxGraphModel dx="984" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         <mxCell id="JZv0kbcZsqob-K3dk_ux-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-2" target="JZv0kbcZsqob-K3dk_ux-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JZv0kbcZsqob-K3dk_ux-2" value="自我覺察" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="120" width="120" height="80" as="geometry" />
         </mxCell>
@@ -52,6 +55,57 @@
         </mxCell>
         <mxCell id="JZv0kbcZsqob-K3dk_ux-13" value="Ｒ&lt;div&gt;真實自己&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-18" target="JZv0kbcZsqob-K3dk_ux-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-18" target="JZv0kbcZsqob-K3dk_ux-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-18" value="詮釋感受" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-20" target="JZv0kbcZsqob-K3dk_ux-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-20" value="解釋" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-22" target="JZv0kbcZsqob-K3dk_ux-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-22" value="聯想" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-24" target="JZv0kbcZsqob-K3dk_ux-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-24" value="感受" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-26" target="JZv0kbcZsqob-K3dk_ux-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-26" value="啟發" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-28" value="行動" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-30" target="JZv0kbcZsqob-K3dk_ux-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-30" value="迷惘的經歷" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZv0kbcZsqob-K3dk_ux-32" target="JZv0kbcZsqob-K3dk_ux-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-32" value="長時間的自我成長" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZv0kbcZsqob-K3dk_ux-34" value="保持開放的心態&lt;div&gt;不侷限自己&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
