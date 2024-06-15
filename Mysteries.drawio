@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T17:48:09.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="m9ucKENX954c3BnzTHdX" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T17:51:10.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="8kn0TfFAxhon9MUYrWZ6" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="3555" dy="3395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2224" dy="2655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1708,8 +1708,14 @@
         <mxCell id="ITFPo8uvCiRg6orZuz35-15" value="通知隊長&lt;div&gt;尋找線索&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2080" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ITFPo8uvCiRg6orZuz35-17" value="惡龍酒吧&lt;div&gt;買防身藥物&lt;/div&gt;&lt;div&gt;打聽&lt;/div&gt;&lt;div&gt;巧遇特里斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ITFPo8uvCiRg6orZuz35-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITFPo8uvCiRg6orZuz35-17" target="ITFPo8uvCiRg6orZuz35-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFPo8uvCiRg6orZuz35-17" value="惡龍酒吧&lt;div&gt;買防身藥物&lt;/div&gt;&lt;div&gt;打聽-圖書館&lt;/div&gt;&lt;div&gt;巧遇特里斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITFPo8uvCiRg6orZuz35-19" value="西里斯。阿瑞匹斯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
