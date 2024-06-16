@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T12:19:10.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kuaeevrBdLhnzaj6lf70" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T12:37:07.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="OKEwP8esxl9qUJ-r9rFY" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2710" dy="2925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2637" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1989,7 +1989,7 @@
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-77" target="lDFzEVMhnL8tlW_JRsLL-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lDFzEVMhnL8tlW_JRsLL-77" value="友善說服" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-77" value="參加非凡交流會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-79" value="A先生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
