@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T05:54:59.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nrzqdgaWzAjBbuqigc9l" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T06:22:17.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="jKUJ9-ohwDlm-ATOxz2D" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2637" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="3395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,6 +743,15 @@
         <mxCell id="_m64BonnHY6n9VVR-yjz-57" value="隱密&lt;div&gt;老爺爺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-59" target="lDFzEVMhnL8tlW_JRsLL-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="200" />
+              <mxPoint x="1630" y="200" />
+              <mxPoint x="1630" y="-280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-59" value="阿茲克先生" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="445" width="120" height="80" as="geometry" />
         </mxCell>
@@ -864,6 +873,9 @@
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-113" value="&lt;div&gt;序列7&lt;/div&gt;航海家" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-115" target="lDFzEVMhnL8tlW_JRsLL-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-115" value="蘇茜偷喝" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="1820" width="120" height="60" as="geometry" />
@@ -1003,6 +1015,9 @@
           <mxGeometry x="100" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s8VZZ5n0j9gyRPgVz__S-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_m64BonnHY6n9VVR-yjz-168" target="s8VZZ5n0j9gyRPgVz__S-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_m64BonnHY6n9VVR-yjz-168" target="lDFzEVMhnL8tlW_JRsLL-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_m64BonnHY6n9VVR-yjz-168" value="查拉圖先生" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1805,6 +1820,21 @@
         </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-15" value="克占卜迴避" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-18" value="會說話" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-21" target="lDFzEVMhnL8tlW_JRsLL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-21" value="&lt;div&gt;失憶&lt;/div&gt;前世記憶" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-24" value="委託找尋過去" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-26" value="這個世界沒有石油" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
