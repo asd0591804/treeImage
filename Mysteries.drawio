@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T05:51:52.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="lP9K6w0yLR7GDNSCgHmM" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T05:54:59.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nrzqdgaWzAjBbuqigc9l" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="2637" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1791,8 +1791,20 @@
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-7" value="教堂演講" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-10" target="lDFzEVMhnL8tlW_JRsLL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-10" value="風暴之主信徒&lt;div&gt;大男子主義&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-12" target="lDFzEVMhnL8tlW_JRsLL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-12" value="&lt;div&gt;離開&lt;/div&gt;占卜當天事情" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-15" value="克占卜迴避" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="-570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
