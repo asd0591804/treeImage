@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T08:21:49.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="25HGxo37jA4kXTaxq0IY" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T08:45:50.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JMFzo6UJwdh8aFcvOI6r" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="2894" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4823" dy="4100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1938,6 +1938,9 @@
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-55" value="占卜找出線索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1260" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-59" target="lDFzEVMhnL8tlW_JRsLL-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-59" value="特莉絲" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1590" y="2100" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1946,6 +1949,33 @@
         </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-62" value="找隊長" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-65" target="lDFzEVMhnL8tlW_JRsLL-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-65" value="逃竄&lt;div&gt;阻止儀式&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-67" target="lDFzEVMhnL8tlW_JRsLL-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-67" value="占卜&lt;div&gt;找尋相關線索&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="2270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-69" target="lDFzEVMhnL8tlW_JRsLL-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-69" value="倫納德&lt;div&gt;初次懷疑魔女轉性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-71" target="lDFzEVMhnL8tlW_JRsLL-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-71" value="回家，灰霧，占卜&lt;div&gt;特莉絲搭火車&lt;/div&gt;&lt;div&gt;忽略線索&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-73" value="占卜不是萬能的&lt;div&gt;消化魔藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
