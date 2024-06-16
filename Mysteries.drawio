@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T08:45:50.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JMFzo6UJwdh8aFcvOI6r" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T12:19:10.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kuaeevrBdLhnzaj6lf70" version="24.5.4" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="4823" dy="4100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2710" dy="2925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1804,6 +1804,9 @@
         <mxCell id="ITFPo8uvCiRg6orZuz35-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ITFPo8uvCiRg6orZuz35-30" target="ITFPo8uvCiRg6orZuz35-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITFPo8uvCiRg6orZuz35-30" target="lDFzEVMhnL8tlW_JRsLL-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ITFPo8uvCiRg6orZuz35-30" value="佛爾思。沃爾" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="2420" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1976,6 +1979,21 @@
         </mxCell>
         <mxCell id="lDFzEVMhnL8tlW_JRsLL-73" value="占卜不是萬能的&lt;div&gt;消化魔藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1590" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-75" target="lDFzEVMhnL8tlW_JRsLL-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-75" value="休。迪爾查" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDFzEVMhnL8tlW_JRsLL-77" target="lDFzEVMhnL8tlW_JRsLL-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-77" value="友善說服" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDFzEVMhnL8tlW_JRsLL-79" value="A先生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
