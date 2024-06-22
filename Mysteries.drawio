@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T17:07:27.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="TfU19pz4wcCaaANq3GoU" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T17:36:24.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="GmX-eHs1YJ2tOIuysoES" version="24.5.5" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="3982" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3345" dy="2819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-56" target="_m64BonnHY6n9VVR-yjz-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-510" y="3310" />
+              <mxPoint x="2320" y="3310" />
+              <mxPoint x="2320" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QZMvVKYSNkP1_T-2Btj6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IismxTwG9UXXeM0H7G9D-1" target="QZMvVKYSNkP1_T-2Btj6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -378,6 +387,9 @@
               <mxPoint x="1190" y="2690" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-KHmR-dtGEfEEJEGf6L-8" target="4UQqcibiUeHoVGvLV-2C-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K-KHmR-dtGEfEEJEGf6L-8" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="1295" width="120" height="80" as="geometry" />
@@ -2285,6 +2297,9 @@
         <mxCell id="4UQqcibiUeHoVGvLV-2C-18" value="分享扮演法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="2730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-20" target="4UQqcibiUeHoVGvLV-2C-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-20" value="似乎真的出了問題&lt;div&gt;扮演瘋子&lt;/div&gt;&lt;div&gt;違反心理醫生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-840" y="2730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2336,6 +2351,9 @@
         <mxCell id="4UQqcibiUeHoVGvLV-2C-43" value="骨劍啟誓&lt;div&gt;通過考核&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="2900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-45" target="4UQqcibiUeHoVGvLV-2C-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-45" value="晉升小丑" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2350,6 +2368,15 @@
         </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-52" value="銅哨信使" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3530" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-54" value="新任務&lt;div&gt;梅納德議員&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-56" value="埃爾&lt;div&gt;(馬甲)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="2720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-59" value="哥哥&lt;div&gt;南大路&lt;/div&gt;&lt;div&gt;拜朗帝國&lt;/div&gt;&lt;div&gt;死神信想&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="3360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
