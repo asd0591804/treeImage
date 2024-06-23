@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T17:05:39.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="5Q9Yj0QypzfsgoB2_THk" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T17:37:22.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="HxSCcm0NXNHkZCpwlNvD" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="2489" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2460" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-28" target="7DpO6OtDRpA7r7ypcZXY-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="240" />
+              <mxPoint x="-570" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-28" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="40" width="120" height="80" as="geometry" />
         </mxCell>
@@ -126,6 +134,9 @@
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-29" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-30" target="7DpO6OtDRpA7r7ypcZXY-140">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-30" value="戴里克" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="400" width="120" height="80" as="geometry" />
@@ -230,8 +241,14 @@
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-69" target="7DpO6OtDRpA7r7ypcZXY-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-69" target="7DpO6OtDRpA7r7ypcZXY-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-69" value="查拉圖拜訪" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-71" target="7DpO6OtDRpA7r7ypcZXY-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-71" value="殞落白楓宮" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1780" width="120" height="60" as="geometry" />
@@ -393,6 +410,21 @@
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-134" value="簽合同" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-136" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-138" value="序列2&lt;div&gt;奇蹟師&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-140" target="7DpO6OtDRpA7r7ypcZXY-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-140" value="巨龍途徑&lt;div&gt;祈光人&lt;/div&gt;&lt;div&gt;交易&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-143" value="空想之龍&lt;div&gt;噩夢之龍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
