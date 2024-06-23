@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T15:23:13.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gZw7x5E4P_k2IehHrn5G" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T16:27:26.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VH1YGPRRs_l-Yc4UyXou" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="1801" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,8 +319,14 @@
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-111" value="&lt;div&gt;一片狼藉&lt;/div&gt;紙飛刀擊殺" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1189" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-113" target="7DpO6OtDRpA7r7ypcZXY-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-113" value="異國大使" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="1189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-115" value="報警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1329" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
