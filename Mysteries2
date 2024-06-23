@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T13:37:16.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="AdHtyjwiCGj2YTBFsZm7" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T13:42:25.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="FjY4U4DPPTMFlvpewzhL" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="1775" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2407" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,8 +158,20 @@
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-58" value="非凡特性守恆定律" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-140" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-61" target="7DpO6OtDRpA7r7ypcZXY-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-61" value="&lt;div&gt;眾神紀元後&lt;/div&gt;神靈不再降臨" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-63" target="7DpO6OtDRpA7r7ypcZXY-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-63" value="天文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DpO6OtDRpA7r7ypcZXY-65" value="格林&lt;div&gt;死在迷霧海&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
