@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T05:32:14.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="c9brygvH1tmj3kKu8Ppt" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T05:55:53.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="sk5kE-EZRuCv5m4UtBHm" version="24.5.5" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="3721" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2255,6 +2255,9 @@
         <mxCell id="4UQqcibiUeHoVGvLV-2C-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X3NbyrnViqMhwQlR859I-3" target="4UQqcibiUeHoVGvLV-2C-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X3NbyrnViqMhwQlR859I-3" target="4UQqcibiUeHoVGvLV-2C-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X3NbyrnViqMhwQlR859I-3" value="扮演法交流&lt;div&gt;嘴巴靈魂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1740" y="35" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2416,6 +2419,21 @@
         </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-71" value="通知颶風中將&lt;div&gt;愚者眷者&lt;/div&gt;&lt;div&gt;獻祭知識&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3602" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-73" target="4UQqcibiUeHoVGvLV-2C-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-73" value="詢問通靈學" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-75" target="4UQqcibiUeHoVGvLV-2C-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-75" value="申請面見胡德&lt;div&gt;通靈&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-77" value="&lt;div&gt;心靈&lt;/div&gt;真實造物主?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
