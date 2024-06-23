@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T07:55:57.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="-yLZAH919m6sar6mhqoB" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T08:21:30.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V2v5ECdcRYA5D51PNJci" version="24.5.5" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
     <mxGraphModel dx="3907" dy="3131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2492,8 +2492,20 @@
         <mxCell id="4UQqcibiUeHoVGvLV-2C-95" value="&lt;div&gt;起因&lt;/div&gt;高序列途徑互換" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-97" target="4UQqcibiUeHoVGvLV-2C-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-97" value="發現蘭爾烏斯潛居&lt;div&gt;隱藏的邀請函&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2140" y="-385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-99" target="4UQqcibiUeHoVGvLV-2C-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-99" value="梅高歐斯&lt;div&gt;孩子&lt;/div&gt;&lt;div&gt;邪神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-101" value="暴風雨前的寧靜" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-665" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
