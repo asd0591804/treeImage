@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T12:07:24.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="RMeG7ZDmqE9rQrHUfZ9B" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T12:15:25.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ENeotFMN6b1E37yWWo5m" version="24.5.5" type="github">
   <diagram name="第 1 页" id="l93Pntk4si56_7tl0GaE">
-    <mxGraphModel dx="3115" dy="2690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3721" dy="3028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2530,11 +2530,29 @@
         <mxCell id="4UQqcibiUeHoVGvLV-2C-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-107" target="4UQqcibiUeHoVGvLV-2C-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-107" target="4UQqcibiUeHoVGvLV-2C-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-107" target="4UQqcibiUeHoVGvLV-2C-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-107" value="因斯&lt;div&gt;目的取得骨灰晉升&lt;/div&gt;&lt;div&gt;008安排巧合&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2140" y="-766" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4UQqcibiUeHoVGvLV-2C-109" target="4UQqcibiUeHoVGvLV-2C-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4UQqcibiUeHoVGvLV-2C-109" value="擊殺克萊恩&lt;div&gt;不穩定因素&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2340" y="-766" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-111" value="鄧恩死亡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-906" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-113" value="克萊恩復活" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="-906" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4UQqcibiUeHoVGvLV-2C-115" value="倫納德申請加入紅手套" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1970" y="-906" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
