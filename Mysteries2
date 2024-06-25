@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T05:01:13.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="POo4y2Q9dm892-D_IE10" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T05:05:47.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H2lhOwVoatcj60YJ1OjG" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="2638" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -453,6 +453,9 @@
         <mxCell id="1VQiFFm0zL5QXFXKmRoM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1VQiFFm0zL5QXFXKmRoM-3" target="1VQiFFm0zL5QXFXKmRoM-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1VQiFFm0zL5QXFXKmRoM-3" target="MBLwQns5EEnNVV9tlkVC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1VQiFFm0zL5QXFXKmRoM-3" value="販賣獵人非凡特性&lt;div&gt;委託 無&lt;/div&gt;&lt;div&gt;購買傾聽者異常物品&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
@@ -566,6 +569,9 @@
         </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-3" value="藥師" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-5" value="黑蛇&lt;div&gt;販賣者死在下水道&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
