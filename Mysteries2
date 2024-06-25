@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T05:18:17.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8Ym-OWnSnt3O20Uw8C0t" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T08:24:39.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0FGRA1OOsLsizlb8dA6k" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="2638" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -591,11 +591,23 @@
         <mxCell id="MBLwQns5EEnNVV9tlkVC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-11" target="MBLwQns5EEnNVV9tlkVC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-11" target="MBLwQns5EEnNVV9tlkVC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-11" value="智慧之眼先生&lt;div&gt;疑是通識者&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-13" target="MBLwQns5EEnNVV9tlkVC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-13" value="2-081" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-15" value="血輪眼&lt;div&gt;代價&lt;/div&gt;&lt;div&gt;腦袋不停高速運轉&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-17" value="胸針&lt;div&gt;帽子&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
