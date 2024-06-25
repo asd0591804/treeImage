@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T16:04:09.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="0s5nMrg-f08IbvGkD7mf" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T16:12:25.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3PYv4aUE9DOORFC33w3x" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="3080" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,8 +636,14 @@
         <mxCell id="gTW15P6aFhbonuOT8bAh-14" value="蛇&lt;div&gt;第四紀元建築&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gTW15P6aFhbonuOT8bAh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTW15P6aFhbonuOT8bAh-16" target="gTW15P6aFhbonuOT8bAh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gTW15P6aFhbonuOT8bAh-16" value="不對稱設計" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gTW15P6aFhbonuOT8bAh-18" value="&lt;div&gt;雙王座&lt;/div&gt;2.1.4扇門&lt;div&gt;黑夜女神雕像&lt;/div&gt;&lt;div&gt;是否還沒成神&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
