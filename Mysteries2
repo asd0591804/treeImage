@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T16:01:49.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="6txLhkZ2K6lDvirrGO97" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T16:04:09.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="0s5nMrg-f08IbvGkD7mf" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="3080" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,9 +247,6 @@
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-69" value="查拉圖拜訪" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DpO6OtDRpA7r7ypcZXY-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7DpO6OtDRpA7r7ypcZXY-71" target="7DpO6OtDRpA7r7ypcZXY-136" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-71" value="殞落白楓宮" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -426,9 +423,6 @@
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-134" value="簽合同" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7DpO6OtDRpA7r7ypcZXY-136" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1920" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-138" value="序列2&lt;div&gt;奇蹟師&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-130" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
@@ -562,16 +556,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kQWRXUt27Sm_I2Dk1g7G-22" value="擊殺羅薩戈&lt;div&gt;拖延&lt;br&gt;&lt;div&gt;汙穢之語&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="706" y="1950" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0v2BYIyEnUGq0YM4jQZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kQWRXUt27Sm_I2Dk1g7G-24" target="R0v2BYIyEnUGq0YM4jQZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kQWRXUt27Sm_I2Dk1g7G-24" value="獲得&lt;div&gt;序列7.6.5占卜配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="706" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R0v2BYIyEnUGq0YM4jQZ-1" value="非凡聚合定律" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="906" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-1" value="拍照完成" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="506" y="1550" width="120" height="60" as="geometry" />
@@ -636,8 +630,14 @@
         <mxCell id="gTW15P6aFhbonuOT8bAh-12" value="家中有隱藏的洞穴" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gTW15P6aFhbonuOT8bAh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTW15P6aFhbonuOT8bAh-14" target="gTW15P6aFhbonuOT8bAh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gTW15P6aFhbonuOT8bAh-14" value="蛇&lt;div&gt;第四紀元建築&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gTW15P6aFhbonuOT8bAh-16" value="不對稱設計" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
