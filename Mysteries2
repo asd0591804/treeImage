@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T05:09:08.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8LyoU1sS5TUTE7U7wKYE" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T05:18:17.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8Ym-OWnSnt3O20Uw8C0t" version="24.6.2" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="2638" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,6 +447,9 @@
         <mxCell id="MBLwQns5EEnNVV9tlkVC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1VQiFFm0zL5QXFXKmRoM-1" target="MBLwQns5EEnNVV9tlkVC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1VQiFFm0zL5QXFXKmRoM-1" target="MBLwQns5EEnNVV9tlkVC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1VQiFFm0zL5QXFXKmRoM-1" value="非凡者聚會" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -576,8 +579,23 @@
         <mxCell id="MBLwQns5EEnNVV9tlkVC-5" value="黑蛇&lt;div&gt;販賣者死在下水道&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-7" target="MBLwQns5EEnNVV9tlkVC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-7" value="藥店學徒？&lt;div&gt;生命學派(擁有藥師和怪物)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1520" y="880" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-9" value="購買鎮靜劑&lt;div&gt;假裝受到瘋狂影響&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-11" target="MBLwQns5EEnNVV9tlkVC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-11" value="智慧之眼先生&lt;div&gt;疑是通識者&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MBLwQns5EEnNVV9tlkVC-13" value="2-081" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
