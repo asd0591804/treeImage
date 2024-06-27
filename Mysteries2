@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T07:51:30.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="50OqRxuegmatq563Bpxb" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T08:41:28.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3yWfyXukiK0D637AXPcF" version="24.6.3" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="2638" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-69" value="查拉圖拜訪" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="egPcSCVPVm3IbphIv77A-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-71" target="egPcSCVPVm3IbphIv77A-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-71" value="殞落白楓宮" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1780" width="120" height="60" as="geometry" />
@@ -695,6 +698,9 @@
         </mxCell>
         <mxCell id="egPcSCVPVm3IbphIv77A-1" value="&lt;div&gt;全黑之眼&lt;/div&gt;塔羅會&lt;div&gt;世界&lt;/div&gt;&lt;div&gt;分身&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="egPcSCVPVm3IbphIv77A-3" value="貝爾納黛" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
