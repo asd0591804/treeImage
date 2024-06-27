@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T16:25:15.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="r_e0lb9WxKtZIGZFBeFt" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T17:00:55.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="iCv1LXnwZOstJGH0LjV8" version="24.6.3" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="3080" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,6 +556,9 @@
         <mxCell id="kQWRXUt27Sm_I2Dk1g7G-7" value="入會&lt;div&gt;靈性提醒惡意&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="706" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQWRXUt27Sm_I2Dk1g7G-9" target="NvC1_x-HqkT9O56_Rqpc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kQWRXUt27Sm_I2Dk1g7G-9" value="莎倫" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1280" width="120" height="80" as="geometry" />
         </mxCell>
@@ -775,6 +778,13 @@
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-16" value="委託查詢落魄貴族&lt;div&gt;地下洞穴&lt;/div&gt;&lt;div&gt;索倫測試太陽反映&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvC1_x-HqkT9O56_Rqpc-18" target="NvC1_x-HqkT9O56_Rqpc-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1540" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-18" value="&lt;div&gt;考察&lt;/div&gt;調查蘭爾烏斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -800,8 +810,20 @@
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-28" value="妓院疑雲&lt;div&gt;卡平&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="2310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-33" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvC1_x-HqkT9O56_Rqpc-30" target="NvC1_x-HqkT9O56_Rqpc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-30" value="艾辛格。斯坦頓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="2450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-32" value="接受過前面休的諮詢" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-34" value="可能被追查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvC1_x-HqkT9O56_Rqpc-36" value="威廉姆斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1840" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
