@@ -1,9 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T17:10:24.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="cf1EDD3pEnOTjIWrRkJm" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T17:44:34.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dMrrIqSpcTJmcIz02T_e" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="4323" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5067" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kqtz16iXs8j6hP90sMHc-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;curved=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-83" target="kqtz16iXs8j6hP90sMHc-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2080" y="2370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=2;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-3" target="kqtz16iXs8j6hP90sMHc-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -453,6 +460,13 @@
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-119" target="kqtz16iXs8j6hP90sMHc-66">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-119" target="kqtz16iXs8j6hP90sMHc-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="-490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-119" value="佛爾思" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-420" width="120" height="80" as="geometry" />
@@ -1041,6 +1055,14 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-18" target="kqtz16iXs8j6hP90sMHc-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-18" target="kqtz16iXs8j6hP90sMHc-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="2910" />
+              <mxPoint x="270" y="3240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-18" value="連環殺人案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1086,6 +1108,9 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-34" value="詢問鑰匙來源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2365" y="989" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-36" target="kqtz16iXs8j6hP90sMHc-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-36" value="吸血鬼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2365" y="849" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1117,6 +1142,9 @@
           <mxGeometry x="940" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-49" target="kqtz16iXs8j6hP90sMHc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-49" target="kqtz16iXs8j6hP90sMHc-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-49" value="疑似厄運布偶" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -1161,6 +1189,9 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-66" value="&lt;div&gt;廢棄醫院&lt;/div&gt;心理煉金聚會&lt;div&gt;觀眾魔藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3050" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-70" target="kqtz16iXs8j6hP90sMHc-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-70" value="被跟蹤" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3250" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1172,6 +1203,24 @@
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-77" value="亞伯拉罕家族&lt;div&gt;獲得學徒9~7&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2365" y="1129" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-81" value="埃姆林。懷特" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-83" value="獎金&lt;div&gt;尋人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-87" value="接觸心理煉金會考察" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3250" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-89" target="kqtz16iXs8j6hP90sMHc-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-89" value="過去" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-91" value="老奶奶&lt;div&gt;遺留學徒&lt;/div&gt;&lt;div&gt;滿月囈語&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
