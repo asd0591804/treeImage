@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T04:20:51.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="HMBJXXkUPS-U19v-1i__" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T04:35:50.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="q1wzrQ_ExxwNlGsJMqXd" version="24.6.3" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="3537" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -875,8 +875,20 @@
         <mxCell id="XYLIveI4dFZj5HQMamto-5" value="碰巧遇上警察巡邏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XYLIveI4dFZj5HQMamto-7" value="蘭爾烏斯&lt;div&gt;過激反應&lt;/div&gt;&lt;div&gt;小克前往&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XYLIveI4dFZj5HQMamto-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYLIveI4dFZj5HQMamto-7" target="XYLIveI4dFZj5HQMamto-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-7" value="&lt;div&gt;正義反應&lt;/div&gt;蘭爾烏斯&lt;span style=&quot;background-color: initial;&quot;&gt;過激&lt;/span&gt;&lt;div&gt;小克前往&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYLIveI4dFZj5HQMamto-9" target="XYLIveI4dFZj5HQMamto-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-9" value="找到線索&lt;div&gt;畫面傳遞正義&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-11" value="流浪漢&lt;div&gt;採訪&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2440" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
