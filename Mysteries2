@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T17:58:23.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="PG1IlbhgJxryf-TpgGKU" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T17:58:51.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="mCU5fOW4p_sngz2lYW5r" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="5067" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4159" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1093,6 +1093,9 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-29" value="和世界交換&lt;div&gt;守護者和惡魔&lt;/div&gt;&lt;div&gt;真造情報&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2700" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-32" target="kqtz16iXs8j6hP90sMHc-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-32" value="詢問大家七大神" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3050" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1221,6 +1224,9 @@
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-91" value="老奶奶&lt;div&gt;遺留學徒&lt;/div&gt;&lt;div&gt;滿月囈語&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-93" value="探索神廟&lt;div&gt;洛薇雅長老&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3250" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
