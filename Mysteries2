@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T11:15:30.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2iMzMn_AmH_SD3e1pi9j" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T11:29:53.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pW0Pcwf7-a_jX0g_k29i" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="5091" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -639,6 +639,9 @@
         <mxCell id="MBLwQns5EEnNVV9tlkVC-7" value="藥店學徒？&lt;div&gt;生命學派(擁有藥師和怪物)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1520" y="880" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MBLwQns5EEnNVV9tlkVC-9" target="kqtz16iXs8j6hP90sMHc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MBLwQns5EEnNVV9tlkVC-9" value="購買鎮靜劑&lt;div&gt;假裝受到瘋狂影響&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1765" y="880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -999,6 +1002,15 @@
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-18" value="連環殺人案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-21" target="kqtz16iXs8j6hP90sMHc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-21" value="販買結晶&lt;div&gt;換藥師消息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-23" value="大地母神主教&lt;div&gt;任務:殺了他&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="989" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
