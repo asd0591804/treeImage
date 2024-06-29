@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T05:20:09.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="J14ZGXKUz1meRDCrhKvJ" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T05:30:13.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="06TuwFF_rObC3SAcbomm" version="24.6.3" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="4364" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -899,8 +899,20 @@
         <mxCell id="XYLIveI4dFZj5HQMamto-15" value="記者採訪&lt;div&gt;確認本人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYLIveI4dFZj5HQMamto-17" target="XYLIveI4dFZj5HQMamto-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XYLIveI4dFZj5HQMamto-17" value="觀戰黑夜女神教會&lt;div&gt;真實造物主神性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2610" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYLIveI4dFZj5HQMamto-19" target="XYLIveI4dFZj5HQMamto-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-19" value="真實造物主想藉體降臨&lt;div&gt;因此蘭爾烏斯瘋狂是為了引起注意&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2645" y="-530" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-22" value="女神和真造中和&lt;div&gt;蘭爾烏斯逃離&lt;/div&gt;&lt;div&gt;小克擊殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2610" y="-670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
