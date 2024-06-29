@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T11:12:02.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_GOfr7Jhr5vfCXRPbhGy" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T11:15:30.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2iMzMn_AmH_SD3e1pi9j" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="5091" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -835,6 +835,9 @@
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-33" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NvC1_x-HqkT9O56_Rqpc-30" target="NvC1_x-HqkT9O56_Rqpc-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvC1_x-HqkT9O56_Rqpc-30" target="kqtz16iXs8j6hP90sMHc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-30" value="艾辛格。斯坦頓" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="2450" width="120" height="80" as="geometry" />
         </mxCell>
@@ -955,6 +958,9 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-4" target="kqtz16iXs8j6hP90sMHc-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-4" target="kqtz16iXs8j6hP90sMHc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-4" value="保護洛戈孩子" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="2540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -989,7 +995,10 @@
           <mxGeometry x="986" y="3013" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-16" value="銅哨&lt;div&gt;目前使用有危險&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="986" y="3153" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="3013" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-18" value="連環殺人案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
