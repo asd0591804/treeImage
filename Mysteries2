@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T06:43:39.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="w7AtT763U_lNLiajtfXZ" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T06:51:09.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="X3Ml8_8Iek5JEfrDjm31" version="24.6.3" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="4496" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -929,8 +929,14 @@
         <mxCell id="XYLIveI4dFZj5HQMamto-26" value="白銀城出現真造神廟" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1760" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYLIveI4dFZj5HQMamto-28" target="XYLIveI4dFZj5HQMamto-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XYLIveI4dFZj5HQMamto-28" value="從倒吊人及太陽獲得材料晉升魔術師" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3010" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYLIveI4dFZj5HQMamto-30" value="紅色滿月出現&lt;div&gt;無序&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3010" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
