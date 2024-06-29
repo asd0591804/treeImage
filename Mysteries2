@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T11:29:53.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pW0Pcwf7-a_jX0g_k29i" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T12:43:21.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YxN-cHsusFHIwlAUjS0Z" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="5091" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4666" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XYLIveI4dFZj5HQMamto-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7DpO6OtDRpA7r7ypcZXY-30" target="XYLIveI4dFZj5HQMamto-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-30" target="kqtz16iXs8j6hP90sMHc-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-30" value="戴里克" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -462,6 +465,9 @@
           <mxGeometry x="-130" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7DpO6OtDRpA7r7ypcZXY-140" target="7DpO6OtDRpA7r7ypcZXY-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7DpO6OtDRpA7r7ypcZXY-140" target="kqtz16iXs8j6hP90sMHc-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7DpO6OtDRpA7r7ypcZXY-140" value="巨龍途徑&lt;div&gt;祈光人&lt;/div&gt;&lt;div&gt;交易&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1009,8 +1015,38 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-21" value="販買結晶&lt;div&gt;換藥師消息&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1765" y="989" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-23" target="kqtz16iXs8j6hP90sMHc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-23" value="大地母神主教&lt;div&gt;任務:殺了他&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1965" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-25" target="kqtz16iXs8j6hP90sMHc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-25" target="kqtz16iXs8j6hP90sMHc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-25" value="心靈蠟燭&lt;div&gt;任務成功&lt;/div&gt;&lt;div&gt;萬能鑰匙&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-27" value="有準備的魔術師" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1129" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-29" value="和世界交換&lt;div&gt;守護者和惡魔&lt;/div&gt;&lt;div&gt;真造情報&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-32" value="詢問大家七大神" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3050" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-34" target="kqtz16iXs8j6hP90sMHc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-34" value="詢問鑰匙來源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-36" value="吸血鬼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="849" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
