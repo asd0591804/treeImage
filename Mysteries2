@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T16:18:14.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="29pJmGdR0uIOYHf5rB8g" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T17:10:24.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="cf1EDD3pEnOTjIWrRkJm" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="4323" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1080,6 +1080,9 @@
         <mxCell id="kqtz16iXs8j6hP90sMHc-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-34" target="kqtz16iXs8j6hP90sMHc-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-34" target="kqtz16iXs8j6hP90sMHc-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-34" value="詢問鑰匙來源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2365" y="989" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1166,6 +1169,9 @@
         </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-75" value="詭異幽魂&lt;div&gt;清除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2565" y="989" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqtz16iXs8j6hP90sMHc-77" value="亞伯拉罕家族&lt;div&gt;獲得學徒9~7&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="1129" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
