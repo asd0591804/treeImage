@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T07:50:55.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="wDuTTwu-yT_B4oLYhvCb" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T08:37:44.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3rDF3zXrYh9PYXfBUF90" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="5601" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5190" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,6 +823,9 @@
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-3" value="推翻稱帝刺殺" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NvC1_x-HqkT9O56_Rqpc-5" target="x-1bNSPJrs7p0bT-7jdt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-5" value="每條途徑都有序列0&lt;div&gt;成神&lt;/div&gt;&lt;div&gt;唯一&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1279,6 +1282,12 @@
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-9" value="老科勒" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="3340" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x-1bNSPJrs7p0bT-7jdt-11" target="x-1bNSPJrs7p0bT-7jdt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x-1bNSPJrs7p0bT-7jdt-11" target="x-1bNSPJrs7p0bT-7jdt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-11" value="阿蒙" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3650" y="260" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1287,6 +1296,15 @@
         </mxCell>
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-12" value="老爺爺" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3650" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-15" value="疑似發現灰霧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3850" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-17" value="1143年穿越起點&lt;div&gt;黃濤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x-1bNSPJrs7p0bT-7jdt-19" value="控制太陽" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3850" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
