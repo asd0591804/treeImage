@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T14:38:31.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="67cqpHDcjq2s1SCYD10z" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T15:11:15.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ngPqoVoqzpI4ayNIjB1k" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="4742" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1357,8 +1357,26 @@
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-6" value="或許扮演法可根據內心的想像，不同人有不同扮演法，&lt;div&gt;也就有正反兩種方向&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1150" y="3210" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-8" target="RHYoimEZAXbWXUgWO0Lb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-8" target="RHYoimEZAXbWXUgWO0Lb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-8" value="附身男子&lt;div&gt;祈禱愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="3350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1175" y="3350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-10" target="RHYoimEZAXbWXUgWO0Lb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-10" value="赫拉斯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="3460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-12" value="仲裁" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="3470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-14" value="表演結束&lt;div&gt;轉移焦點&lt;/div&gt;&lt;div&gt;爆炸&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
