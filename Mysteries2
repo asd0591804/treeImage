@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T15:37:09.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lfbfAo8_vGlPYIE5HJGK" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T18:15:09.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Z_STCKTBQXCo6zIh0_gL" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="4696" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1405,8 +1405,20 @@
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-22" value="塔羅牌&lt;div&gt;塔羅會出現&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="3210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-24" target="RHYoimEZAXbWXUgWO0Lb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-24" value="&lt;div&gt;委託&lt;/div&gt;探查命運小孩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="3630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-26" target="RHYoimEZAXbWXUgWO0Lb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-26" value="左腿&lt;div&gt;環形異物&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="3630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-28" value="&amp;nbsp;醫生&lt;div&gt;夢中&lt;/div&gt;&lt;div&gt;水銀之蛇&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
