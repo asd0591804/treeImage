@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T15:30:48.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="mIJhaSbL0-dfDhaZiNYX" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T15:37:09.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lfbfAo8_vGlPYIE5HJGK" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="4840" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4696" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1321,6 +1321,9 @@
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-19" value="控制太陽" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3850" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdKPngn7waRtAu20RvdS-1" target="RHYoimEZAXbWXUgWO0Lb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TdKPngn7waRtAu20RvdS-1" value="新委託&lt;div&gt;恐嚇信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="3490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1401,6 +1404,9 @@
         </mxCell>
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-22" value="塔羅牌&lt;div&gt;塔羅會出現&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="3210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RHYoimEZAXbWXUgWO0Lb-24" value="&lt;div&gt;委託&lt;/div&gt;探查命運小孩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
