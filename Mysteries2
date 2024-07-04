@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T03:05:55.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0WUWhedUnkbKCSQarkI4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T03:53:14.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="S8GbmO-vLC0i3pNIaGBa" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="5946" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1442,11 +1442,23 @@
         <mxCell id="gYRdZHXzrKz4yQw-EjO_-1" value="戲法大師配方&lt;div&gt;靈界傳聞&lt;/div&gt;&lt;div&gt;得知治安官配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3410" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gYRdZHXzrKz4yQw-EjO_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYRdZHXzrKz4yQw-EjO_-3" target="gYRdZHXzrKz4yQw-EjO_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gYRdZHXzrKz4yQw-EjO_-3" value="白銀城監視&lt;div&gt;全黑之眼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4250" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gYRdZHXzrKz4yQw-EjO_-5" value="末日預言&lt;div&gt;門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3410" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gYRdZHXzrKz4yQw-EjO_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gYRdZHXzrKz4yQw-EjO_-7" target="gYRdZHXzrKz4yQw-EjO_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYRdZHXzrKz4yQw-EjO_-7" value="達克" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4250" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gYRdZHXzrKz4yQw-EjO_-9" value="真造污染" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
