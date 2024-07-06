@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T16:25:37.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="dlM0KI2Z4XcHsgiZV9gx" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T19:09:12.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3589JQT6GR7nEinOkf3o" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6640" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6150" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1359,6 +1359,13 @@
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TdKPngn7waRtAu20RvdS-9" target="RHYoimEZAXbWXUgWO0Lb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdKPngn7waRtAu20RvdS-9" target="21vmMnUR29QEXGJAnJjJ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3350" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TdKPngn7waRtAu20RvdS-9" value="遇到亞伯拉罕家族" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3410" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1428,6 +1435,9 @@
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RHYoimEZAXbWXUgWO0Lb-24" target="RHYoimEZAXbWXUgWO0Lb-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RHYoimEZAXbWXUgWO0Lb-24" target="21vmMnUR29QEXGJAnJjJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RHYoimEZAXbWXUgWO0Lb-24" value="&lt;div&gt;委託&lt;/div&gt;探查命運小孩" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="3630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1484,6 +1494,27 @@
         </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-5" value="白銀城內會&lt;div&gt;造成死亡異變&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4250" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21vmMnUR29QEXGJAnJjJ-8" target="21vmMnUR29QEXGJAnJjJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-8" value="又做新夢" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="3820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-10" value="墓園發現屍體" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="3820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21vmMnUR29QEXGJAnJjJ-12" target="21vmMnUR29QEXGJAnJjJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-12" value="倫納德" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-13" value="加入紅手套&lt;div&gt;前往貝克蘭德&lt;/div&gt;&lt;div&gt;調查惡魔事件&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-15" value="墓園巧遇" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
