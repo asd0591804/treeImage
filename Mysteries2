@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T14:55:16.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="DaTCff2gxaGt6zT7zZql" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T15:08:10.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="CGtakK6iAapWLxdUo4uh" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="5913" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6059" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1614,11 +1614,17 @@
         <mxCell id="21vmMnUR29QEXGJAnJjJ-45" value="斯坦頓出現&lt;div&gt;謀劃&lt;/div&gt;&lt;div&gt;序列6 模擬能力戒指&lt;/div&gt;&lt;div&gt;2-081&lt;/div&gt;&lt;div&gt;慾望使徒&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;引爆&lt;/span&gt;卡山蒂娜種子&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="965" y="4170" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21vmMnUR29QEXGJAnJjJ-47" target="21vmMnUR29QEXGJAnJjJ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-47" value="阿斯德羅&lt;div&gt;鏡子&lt;/div&gt;&lt;div&gt;惡魔長相&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1005" y="4370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-50" value="&lt;div&gt;天使解控&lt;/div&gt;通過考察&lt;div&gt;適度透漏已是觀眾&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3450" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-52" value="&lt;div&gt;心願&lt;/div&gt;有線索" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="4370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
