@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T06:36:29.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="cQzu4Mc7t8g9PkSl2YB5" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T06:48:13.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="0Bd5mfUi8EOrMLlEQGaH" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6320" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7814" dy="2755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -850,6 +850,15 @@
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-12" value="世界委託魔術師材料" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NvC1_x-HqkT9O56_Rqpc-16" target="21vmMnUR29QEXGJAnJjJ-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4650" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4680" y="240" />
+              <mxPoint x="-4680" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NvC1_x-HqkT9O56_Rqpc-16" value="委託查詢落魄貴族&lt;div&gt;地下洞穴&lt;/div&gt;&lt;div&gt;索倫測試太陽反映&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1542,11 +1551,20 @@
         <mxCell id="21vmMnUR29QEXGJAnJjJ-19" value="急迫性&lt;div&gt;尋找購買材料辦法&lt;/div&gt;&lt;div&gt;吸血鬼&lt;/div&gt;&lt;div&gt;大地母神教堂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3810" y="-550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21vmMnUR29QEXGJAnJjJ-22" target="21vmMnUR29QEXGJAnJjJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-22" value="前往漁港&lt;div&gt;交付遺物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3960" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-26" value="新委託&lt;div&gt;探查塔羅會&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="3990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-28" value="幫忙販售狼人特性&lt;div&gt;佛爾思晉升材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4820" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21vmMnUR29QEXGJAnJjJ-30" value="保持聯絡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4160" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
