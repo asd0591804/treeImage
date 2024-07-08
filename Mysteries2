@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T03:21:56.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LcubweIhepOxvZtX33Zi" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T05:12:27.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="N5qOBA1mb57OCC1csjFB" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6055" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1249,6 +1249,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uzn4Kup01qvdBjDIMu-i-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqtz16iXs8j6hP90sMHc-81" target="Uzn4Kup01qvdBjDIMu-i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kqtz16iXs8j6hP90sMHc-81" value="埃姆林。懷特" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2365" y="700" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1629,8 +1632,17 @@
         <mxCell id="21vmMnUR29QEXGJAnJjJ-52" value="&lt;div&gt;心願&lt;/div&gt;有線索" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1205" y="4370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Uzn4Kup01qvdBjDIMu-i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uzn4Kup01qvdBjDIMu-i-1" target="Uzn4Kup01qvdBjDIMu-i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uzn4Kup01qvdBjDIMu-i-1" value="貝利亞家族&lt;div&gt;惡魔&lt;/div&gt;&lt;div&gt;拜血教&lt;/div&gt;&lt;div&gt;宇宙暗面&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1205" y="4510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uzn4Kup01qvdBjDIMu-i-3" value="冷血&lt;div&gt;復仇疑慮&lt;/div&gt;&lt;div&gt;各自分散搜尋線索&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="4510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uzn4Kup01qvdBjDIMu-i-7" value="&lt;div&gt;無面人&lt;/div&gt;第一個魔藥材料&lt;div&gt;2450磅&lt;/div&gt;&lt;div&gt;2300+150&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2565" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
