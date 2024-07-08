@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T14:39:56.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gsN3kuIt2F0xFuC7Ly4f" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T14:47:56.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_ofhNbMkaf4hkNL6CpI7" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6388" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1536,6 +1536,9 @@
         <mxCell id="21vmMnUR29QEXGJAnJjJ-8" value="又做新夢" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="21vmMnUR29QEXGJAnJjJ-10" target="z7gnAKEZ2QOXV_5RcyCF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="21vmMnUR29QEXGJAnJjJ-10" value="墓園發現屍體" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1647,8 +1650,17 @@
         <mxCell id="Uzn4Kup01qvdBjDIMu-i-7" value="&lt;div&gt;無面人&lt;/div&gt;第一個魔藥材料&lt;div&gt;2450磅&lt;/div&gt;&lt;div&gt;2300+150&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2565" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7gnAKEZ2QOXV_5RcyCF-1" target="z7gnAKEZ2QOXV_5RcyCF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-1" value="缺錢&lt;div&gt;獲得手帕&lt;br&gt;&lt;div&gt;占卜惡魔位置&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2765" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-3" value="有人皮偽裝" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2965" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-5" value="妻子懷孕" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
