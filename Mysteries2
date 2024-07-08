@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T15:18:55.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="i7jo8zcF1k8Es_qkXO67" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T15:39:52.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="4vVLiDBqNakijn2NRccZ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6388" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1680,6 +1680,9 @@
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7gnAKEZ2QOXV_5RcyCF-11" target="z7gnAKEZ2QOXV_5RcyCF-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7gnAKEZ2QOXV_5RcyCF-11" target="z7gnAKEZ2QOXV_5RcyCF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-11" value="女神教會封印物1-42&lt;div&gt;重傷惡魔&lt;/div&gt;&lt;div&gt;黑皇帝&lt;span style=&quot;background-color: initial;&quot;&gt;克靈體&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;跟上&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3165" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1689,8 +1692,17 @@
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-13" value="報酬褻瀆之牌&lt;div&gt;大帝背後的組織&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3165" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7gnAKEZ2QOXV_5RcyCF-15" target="z7gnAKEZ2QOXV_5RcyCF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-15" value="黃昏隱士會" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="3350" y="1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-17" value="喚醒最初造物主" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-19" value="魔術師消化" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3365" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
