@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T15:07:59.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="z9SrT_NclFsmq13jJsM1" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T15:13:05.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2dCxI4q6Oj4ATBZEEA8u" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6388" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1671,8 +1671,14 @@
         <mxCell id="z7gnAKEZ2QOXV_5RcyCF-7" value="疑似逃離&lt;div&gt;尼根公爵刺殺案&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2965" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-9" value="魔女引走主教&lt;div&gt;魔鬼刺殺尼根成功&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z7gnAKEZ2QOXV_5RcyCF-9" target="z7gnAKEZ2QOXV_5RcyCF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-9" value="魔女引走主教&lt;div&gt;惡魔刺殺尼根成功&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3165" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gnAKEZ2QOXV_5RcyCF-11" value="女神教會封印物1-42&lt;div&gt;重傷惡魔&lt;/div&gt;&lt;div&gt;黑皇帝&lt;span style=&quot;background-color: initial;&quot;&gt;克靈體&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;跟上&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3165" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
