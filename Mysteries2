@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T12:18:57.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Bpd2ivVYVIn6GdftR0Dp" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T12:41:40.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="PUNFAuTdj_bJQtO-Bjkp" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6640" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5777" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1367,6 +1367,9 @@
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-15" value="疑似發現灰霧" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3850" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x-1bNSPJrs7p0bT-7jdt-17" target="KipQykQwBdMqusMEonNd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x-1bNSPJrs7p0bT-7jdt-17" value="1143年穿越起點&lt;div&gt;黃濤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1762,8 +1765,23 @@
         <mxCell id="KipQykQwBdMqusMEonNd-16" value="通知機械之心" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KipQykQwBdMqusMEonNd-19" target="KipQykQwBdMqusMEonNd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KipQykQwBdMqusMEonNd-19" value="馬術教師&lt;div&gt;詛咒&lt;/div&gt;&lt;div&gt;王室&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="4590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-21" value="王子內鬥" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="4590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KipQykQwBdMqusMEonNd-23" target="KipQykQwBdMqusMEonNd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-23" value="門先生&lt;div&gt;天使家族&lt;/div&gt;&lt;div&gt;月亮無序列0&lt;/div&gt;&lt;div&gt;黑夜是星星&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KipQykQwBdMqusMEonNd-25" value="原初女神&lt;div&gt;奇克&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
