@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T03:17:18.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="5tYG_mqcBJ57twAR8s5p" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T03:20:51.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NBXc5eL7y8WYWMaNM8EJ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="cKjmFq1ro7v9W7NVSlEp">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_3XOcMyE5nI33qXO2iN1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3XOcMyE5nI33qXO2iN1-1" target="_3XOcMyE5nI33qXO2iN1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3XOcMyE5nI33qXO2iN1-1" value="clickup" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_3XOcMyE5nI33qXO2iN1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_3XOcMyE5nI33qXO2iN1-2" target="_3XOcMyE5nI33qXO2iN1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_3XOcMyE5nI33qXO2iN1-2" value="&lt;div&gt;Task&lt;/div&gt;dependency" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_3XOcMyE5nI33qXO2iN1-4" value="當事件有前後順序&lt;div&gt;可以提供標示&lt;/div&gt;&lt;div&gt;必須前者先完成&lt;/div&gt;&lt;div&gt;後者才能進行&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
