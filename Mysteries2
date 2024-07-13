@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T04:27:52.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="iNVywenZtqoH-pGub6Ny" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T04:28:17.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="mBqET3Dv3Of8_3VwHWAg" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6386" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1846,11 +1846,17 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-20" target="Z75xHMkHeymuzujcXDtb-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-20" target="Z75xHMkHeymuzujcXDtb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-20" value="上次墓園遇到之女子&lt;div&gt;兇手&lt;/div&gt;&lt;div&gt;疑似平民之女&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="4730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-22" value="想見克" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="4870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-24" value="占卜&lt;div&gt;0級封印物&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="4730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
