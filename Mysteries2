@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T14:14:07.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fCjN-ndT5ftn4jlJLdGQ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T03:29:14.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lp14x8ZiXIp0LCNH4Xum" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6388" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1792,8 +1792,14 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-1" value="火力探索&lt;div&gt;阿斯德羅傳播&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2380" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-3" target="Z75xHMkHeymuzujcXDtb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-3" value="阿蒙畫像" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-5" value="真實造物主&lt;div&gt;天使圍繞&lt;br&gt;&lt;div&gt;孩子&lt;/div&gt;&lt;div&gt;亞當，阿蒙&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="2020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
