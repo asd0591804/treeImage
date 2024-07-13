@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T06:05:53.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="IztJ_gk13WJDAhjY-joU" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T06:30:53.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="GaCA0EXPC6xD8X0lnZCQ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6478" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6399" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1900,6 +1900,9 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-34" value="挖掘地下陵墓&lt;div&gt;合作崛起&lt;/div&gt;&lt;div&gt;惡靈現身&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="4570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-36" target="Z75xHMkHeymuzujcXDtb-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-36" value="重置時間" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4890" y="550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1911,6 +1914,9 @@
         </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-42" value="&lt;div&gt;查拉圖&lt;/div&gt;奇蹟&lt;div&gt;死而復生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="3120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-44" value="真造座下天使&lt;div&gt;命運天使&lt;/div&gt;&lt;div&gt;烏洛流斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4890" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
