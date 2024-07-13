@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T10:13:20.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.4" etag="Kk9dMC-cSzeM3a83My18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T10:15:31.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ySoPek3HqlcOFAdFQJmK" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel>
+    <mxGraphModel dx="3732" dy="3127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-1" value="克萊恩．莫雷蒂" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-2" value="戴里克" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-3" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-4" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-5" value="休" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="-310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-6" value="佛爾思" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="-310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-7" value="倫納德" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-8" value="埃姆林。懷特" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
