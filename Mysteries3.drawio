@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T16:54:44.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="AZyJiJQ_gpE5Ez02erO-" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T17:13:36.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="RLt2aUR-afYYdofrpKuM" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2328" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-5" value="休" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="-310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-6" target="j9CWRaIW-mdHpUaHe9Zq-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-6" value="佛爾思" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="-310" width="120" height="80" as="geometry" />
@@ -94,6 +97,9 @@
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-21" value="自曝血族&lt;div&gt;準備購買晉升材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-23" target="j9CWRaIW-mdHpUaHe9Zq-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-23" value="脫離循環&lt;div&gt;準備交易&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="590" width="120" height="60" as="geometry" />
@@ -223,6 +229,12 @@
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-72" value="無面人面具&lt;div&gt;操火，移傷，變幻&lt;/div&gt;&lt;div&gt;5500*15%&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-75" value="懷疑首席發現命運" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-77" value="獲得戲法大師" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
