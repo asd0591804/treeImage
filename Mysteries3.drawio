@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T10:19:54.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Jpgp9F-7D2bwEOks5qrG" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T10:25:31.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ew7CjDbQ9O9b1ApZHQQ6" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2194" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,14 @@
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-11" value="莎倫" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="-100" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-12" target="j9CWRaIW-mdHpUaHe9Zq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-12" value="新身分&lt;div&gt;格爾曼。斯帕羅&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-15" value="解放手套裡的無面人&lt;div&gt;獲得占卜家資訊&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
