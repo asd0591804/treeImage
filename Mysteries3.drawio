@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T12:22:17.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fN6OHALq6N9tCKNYlU_L" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T13:24:50.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="hi8rv_r4q36XLpk6ixtw" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="1934" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,6 +73,9 @@
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-19" value="赫密斯&lt;div&gt;紅祭司&lt;/div&gt;&lt;div&gt;戰爭&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-21" target="j9CWRaIW-mdHpUaHe9Zq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-21" value="自曝血族&lt;div&gt;準備購買晉升材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="860" width="120" height="60" as="geometry" />
         </mxCell>
@@ -91,8 +94,35 @@
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-29" value="普立茲港" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-31" target="j9CWRaIW-mdHpUaHe9Zq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-31" target="j9CWRaIW-mdHpUaHe9Zq-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-31" value="船上風光&lt;div&gt;魚人&lt;/div&gt;&lt;div&gt;海上寶藏&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-33" target="j9CWRaIW-mdHpUaHe9Zq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-33" value="血族歷史" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-35" value="威曼迪" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-37" value="死神鑰匙&lt;div&gt;通知阿茲克&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-39" target="j9CWRaIW-mdHpUaHe9Zq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-39" value="上岸&lt;div&gt;確立人設&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-41" value="白鯊&lt;div&gt;海盜中介&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
