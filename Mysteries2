@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T07:46:22.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="IZwOQi-LqMIm0jSFuK3f" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T07:52:32.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="wJ505OnJj_5icfOPLWIc" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
     <mxGraphModel dx="6478" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1936,6 +1936,9 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-50" target="Z75xHMkHeymuzujcXDtb-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-50" target="Z75xHMkHeymuzujcXDtb-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-50" value="正義通報&lt;div&gt;阿茲克救火&lt;/div&gt;&lt;div&gt;遭遇因斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="5010" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1963,11 +1966,23 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-58" target="Z75xHMkHeymuzujcXDtb-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-58" target="Z75xHMkHeymuzujcXDtb-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-58" value="A先生追殺" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1530" y="5150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-60" value="抹除A先生" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1730" y="5150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-63" value="阿茲克帶著逃離&lt;div&gt;獲得蠕動的飢餓&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="5290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-65" target="Z75xHMkHeymuzujcXDtb-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-65" value="放逐&lt;div&gt;隱藏秘密&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="5150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
