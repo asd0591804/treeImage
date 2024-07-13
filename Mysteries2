@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:48:22.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qzp79X8P15aixuyA9PpP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T06:05:53.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="IztJ_gk13WJDAhjY-joU" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6526" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6478" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1801,6 +1801,9 @@
         <mxCell id="KipQykQwBdMqusMEonNd-23" value="門先生&lt;div&gt;天使家族&lt;/div&gt;&lt;div&gt;月亮無序列0&lt;/div&gt;&lt;div&gt;黑夜是星星&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KipQykQwBdMqusMEonNd-25" target="Z75xHMkHeymuzujcXDtb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KipQykQwBdMqusMEonNd-25" value="原初女神&lt;div&gt;奇克&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="2890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1905,6 +1908,9 @@
         </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-40" value="0-08&lt;div&gt;避免女子和克接觸&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="4730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-42" value="&lt;div&gt;查拉圖&lt;/div&gt;奇蹟&lt;div&gt;死而復生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="3120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
