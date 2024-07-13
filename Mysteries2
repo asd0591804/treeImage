@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T05:04:31.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gN2ypPZHfGBmMUQnuWPv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T05:40:57.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="uGDdyboYbsk2s-6FzuIw" version="24.6.4" type="github">
   <diagram name="第 1 页" id="9nCjKaxwTqnOV4gP1KLE">
-    <mxGraphModel dx="6526" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7731" dy="2593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1750,6 +1750,9 @@
         <mxCell id="KipQykQwBdMqusMEonNd-3" value="想藉助愚者&lt;div&gt;擺脫心理暗示&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3165" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KipQykQwBdMqusMEonNd-5" target="Z75xHMkHeymuzujcXDtb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KipQykQwBdMqusMEonNd-5" value="懷疑月亮" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3165" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1882,11 +1885,20 @@
         <mxCell id="Z75xHMkHeymuzujcXDtb-30" value="再次探索神廟" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4690" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z75xHMkHeymuzujcXDtb-32" target="Z75xHMkHeymuzujcXDtb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-32" value="真造與圍繞邪神&lt;div&gt;尋找神棄之地父子&lt;/div&gt;&lt;div&gt;傑克&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-4890" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z75xHMkHeymuzujcXDtb-34" value="挖掘地下陵墓&lt;div&gt;合作崛起&lt;/div&gt;&lt;div&gt;惡靈現身&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1820" y="4570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-36" value="重置時間" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4890" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z75xHMkHeymuzujcXDtb-38" value="高等血&lt;span style=&quot;background-color: initial;&quot;&gt;族&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;啟示&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;祈禱愚者&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3165" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
