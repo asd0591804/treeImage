@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T10:32:52.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="d45l68NeCTf4hj9r2lPo" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T11:27:08.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="4jI5JbbF_3qTVhqY7Hld" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="2194" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3151" dy="2735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,20 @@
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-1" value="克萊恩．莫雷蒂" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-2" target="j9CWRaIW-mdHpUaHe9Zq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-2" value="戴里克" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-130" y="490" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-3" target="j9CWRaIW-mdHpUaHe9Zq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-3" value="阿爾傑。威爾遜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-4" target="j9CWRaIW-mdHpUaHe9Zq-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-4" value="奧黛莉。霍爾" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-100" width="120" height="80" as="geometry" />
@@ -30,6 +39,9 @@
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-7" value="倫納德" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j9CWRaIW-mdHpUaHe9Zq-8" target="j9CWRaIW-mdHpUaHe9Zq-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-8" value="埃姆林。懷特" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="720" width="120" height="80" as="geometry" />
@@ -57,6 +69,18 @@
         </mxCell>
         <mxCell id="j9CWRaIW-mdHpUaHe9Zq-19" value="赫密斯&lt;div&gt;紅祭司&lt;/div&gt;&lt;div&gt;戰爭&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-21" value="自曝血族&lt;div&gt;準備購買晉升材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-23" value="脫離循環&lt;div&gt;準備交易&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-25" value="準備催眠整船人&lt;div&gt;幫交易無面人&lt;/div&gt;&lt;div&gt;正義收購物品&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CWRaIW-mdHpUaHe9Zq-27" value="貝克蘭德資訊&lt;div&gt;購買心理醫生材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
