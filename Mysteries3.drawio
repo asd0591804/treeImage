@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T08:30:51.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="t4NRFGOm35w6NYraECjd" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T08:45:06.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vGgV_uu7F045r82Gn0Pv" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="3238" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,6 +403,9 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-44" target="hBhCFTlkptKnWpYRVbFi-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-44" target="hBhCFTlkptKnWpYRVbFi-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-44" value="&lt;div&gt;電報機&lt;/div&gt;阿羅德斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -411,6 +414,15 @@
         </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-48" value="夢中探詢&lt;div&gt;集體潛意識&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-50" target="hBhCFTlkptKnWpYRVbFi-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-50" value="尋找信使" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-52" value="靈界搜尋&lt;div&gt;遭遇納斯特&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
