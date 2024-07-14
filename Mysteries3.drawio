@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T08:45:06.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vGgV_uu7F045r82Gn0Pv" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T08:50:45.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vjhAB3zLO9B5AVzbGVbi" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="3238" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -421,8 +421,14 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-50" value="尋找信使" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-52" target="hBhCFTlkptKnWpYRVbFi-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-52" value="靈界搜尋&lt;div&gt;遭遇納斯特&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-54" value="無法進入靈界&lt;div&gt;改用儀式&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
