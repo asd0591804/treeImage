@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T14:21:04.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="PiJJzGW2L0Ws4Rpz7W-b" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T15:31:18.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OsfAJ0sTOJFR0-kgikEk" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3332" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8784" dy="5134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,11 +502,17 @@
         <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-23" value="吸血鬼特性&lt;div&gt;4500-300&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KzsJVUK8Ep1AKC-Nxfg-26" target="-KzsJVUK8Ep1AKC-Nxfg-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-26" value="疾病中將&lt;div&gt;特蕾茜&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3930" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-29" value="愚者保佑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-29" value="&lt;div&gt;夢中祈禱&lt;/div&gt;愚者保佑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-890" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-31" value="面見冰山&lt;div&gt;買票&lt;span style=&quot;background-color: initial;&quot;&gt;釣魚&lt;/span&gt;&lt;/div&gt;&lt;div&gt;搭船&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4270" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
