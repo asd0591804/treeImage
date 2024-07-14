@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T07:07:58.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="BGgy6WTkhyOcakBqgWoN" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T08:25:14.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="cBicpv-b31H5Y2IIzhSq" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="4247" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3238" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,8 +373,38 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-34" value="海神&lt;div&gt;精靈遺跡&lt;/div&gt;&lt;div&gt;雙綁&lt;/div&gt;&lt;div&gt;天災之書&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2820" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-36" target="hBhCFTlkptKnWpYRVbFi-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-36" value="渴望灰霧&lt;div&gt;獻祭&lt;/div&gt;&lt;div&gt;找尋藏身地點&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3020" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-38" target="hBhCFTlkptKnWpYRVbFi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-38" value="找到&lt;div&gt;祭司守衛&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-40" target="hBhCFTlkptKnWpYRVbFi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-40" value="海神權杖" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-42" target="hBhCFTlkptKnWpYRVbFi-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-42" value="狩獵血之上將" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-44" target="hBhCFTlkptKnWpYRVbFi-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-44" value="&lt;div&gt;電報機&lt;/div&gt;阿羅德斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-46" value="美人魚&lt;div&gt;入侵風險&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
