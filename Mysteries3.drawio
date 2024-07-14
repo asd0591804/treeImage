@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T05:37:08.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VP7pVREfcCiyVDErK_0w" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T05:57:18.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="mPC1wth2A4b31bLm6DUW" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3155" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6407" dy="3812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,6 +284,12 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-3" value="扮演死去的&lt;div&gt;完成遺願&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-6" target="hBhCFTlkptKnWpYRVbFi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-6" target="hBhCFTlkptKnWpYRVbFi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-6" value="夢&lt;div&gt;冒險家&lt;/div&gt;&lt;div&gt;惡靈&lt;/div&gt;&lt;div&gt;跟隨&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -293,8 +299,43 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-8" value="冰山&lt;div&gt;入夢&lt;/div&gt;&lt;div&gt;模擬&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-10" target="hBhCFTlkptKnWpYRVbFi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-10" target="hBhCFTlkptKnWpYRVbFi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-10" value="符咒&lt;div&gt;夢中會唔&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-12" target="hBhCFTlkptKnWpYRVbFi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-12" value="摩斯苦修會" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="-160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-13" target="hBhCFTlkptKnWpYRVbFi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-13" value="要素黎明" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="-320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-16" value="隱匿賢者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-18" target="hBhCFTlkptKnWpYRVbFi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-21" value="仇視" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hBhCFTlkptKnWpYRVbFi-20">
+          <mxGeometry x="-0.1012" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-18" value="貝爾納黛" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="-320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-23" value="前往聚會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
