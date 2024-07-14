@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T12:22:28.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YWE4tuwii5GbBXR0ZJ_7" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T12:46:04.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="JRMQQ3gh7YcvA_f40JyQ" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3238" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4823" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,7 +329,7 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="hBhCFTlkptKnWpYRVbFi-18" target="hBhCFTlkptKnWpYRVbFi-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hBhCFTlkptKnWpYRVbFi-21" value="仇視" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hBhCFTlkptKnWpYRVbFi-20" vertex="1" connectable="0">
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-21" value="對抗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hBhCFTlkptKnWpYRVbFi-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1012" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -391,6 +391,9 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hBhCFTlkptKnWpYRVbFi-40" target="hBhCFTlkptKnWpYRVbFi-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-40" target="-KzsJVUK8Ep1AKC-Nxfg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-40" value="海神權杖" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3220" y="740" width="120" height="60" as="geometry" />
         </mxCell>
@@ -441,6 +444,27 @@
         </mxCell>
         <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-5" value="聚會&lt;div&gt;輔助材料&lt;/div&gt;&lt;div&gt;搜尋伊蓮&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3730" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KzsJVUK8Ep1AKC-Nxfg-7" target="-KzsJVUK8Ep1AKC-Nxfg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-7" value="劈死詐欺犯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KzsJVUK8Ep1AKC-Nxfg-9" target="-KzsJVUK8Ep1AKC-Nxfg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-9" value="新人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KzsJVUK8Ep1AKC-Nxfg-13" target="-KzsJVUK8Ep1AKC-Nxfg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-13" value="嘉德麗雅" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4020" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-15" value="塔羅會&lt;div&gt;隱者&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
