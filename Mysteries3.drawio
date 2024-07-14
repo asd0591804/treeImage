@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T06:04:27.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="sqGhs7vmzUWlZpQ2YPPd" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T06:20:43.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="z7KJYzLdCm4fHgodxsvT" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2795" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,8 +343,20 @@
         <mxCell id="hBhCFTlkptKnWpYRVbFi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-25" target="hBhCFTlkptKnWpYRVbFi-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-25" target="hBhCFTlkptKnWpYRVbFi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBhCFTlkptKnWpYRVbFi-25" value="海神信仰&lt;div&gt;搜尋任務&lt;/div&gt;&lt;div&gt;詭異物品&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2620" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBhCFTlkptKnWpYRVbFi-28" target="hBhCFTlkptKnWpYRVbFi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-28" value="海神將消&lt;div&gt;做出異舉&lt;/div&gt;&lt;div&gt;雷聲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBhCFTlkptKnWpYRVbFi-30" value="亞恩。考特曼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
