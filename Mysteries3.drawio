@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T14:20:32.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ekYdhfJdBxRNtaksK6mT" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T14:28:54.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="TkiHgeg81zDtAII2DlmI" version="24.6.5" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2921" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -505,6 +505,9 @@
         <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-21" value="所羅門帝國&lt;div&gt;真造盟友&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KzsJVUK8Ep1AKC-Nxfg-23" target="OivnAyIA5k1C7lh1Dy9Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-KzsJVUK8Ep1AKC-Nxfg-23" value="吸血鬼特性&lt;div&gt;4500-300&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1090" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -647,8 +650,23 @@
         <mxCell id="OivnAyIA5k1C7lh1Dy9Y-9" value="不老魔女&lt;div&gt;死亡執政官&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OivnAyIA5k1C7lh1Dy9Y-11" target="OivnAyIA5k1C7lh1Dy9Y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OivnAyIA5k1C7lh1Dy9Y-11" value="詢問魔鏡&lt;div&gt;遊記，空龍消失之後&lt;/div&gt;&lt;div&gt;人物下落&lt;/div&gt;&lt;div&gt;生命學派被獵殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5450" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OivnAyIA5k1C7lh1Dy9Y-13" target="OivnAyIA5k1C7lh1Dy9Y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-13" value="紙鶴通靈&lt;div&gt;夢中交流&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5650" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-15" value="藥師&lt;div&gt;交付委託&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5650" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OivnAyIA5k1C7lh1Dy9Y-17" value="狩獵藍鷹隼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
