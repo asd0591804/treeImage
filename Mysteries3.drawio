@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T17:58:09.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9TMBnRDPNVsEcH5ZqAmd" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T16:29:22.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="t41V1DeJUDXm2VAh75a3" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2815" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,6 +692,13 @@
         <mxCell id="OivnAyIA5k1C7lh1Dy9Y-21" value="晉升&lt;div&gt;去除特性汙染方法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3kcoJ0-ats731Hyuas-U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OivnAyIA5k1C7lh1Dy9Y-23" target="3kcoJ0-ats731Hyuas-U-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5910" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OivnAyIA5k1C7lh1Dy9Y-23" value="藥師&lt;div&gt;救老師&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5850" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -733,6 +740,9 @@
         </mxCell>
         <mxCell id="3kcoJ0-ats731Hyuas-U-5" value="戰士&lt;div&gt;格鬥家主藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6050" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kcoJ0-ats731Hyuas-U-7" value="運氣骰子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
