@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T16:44:44.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Cx5Gag1ziD98JXpZcwfO" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T16:48:32.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="TrU4y3DdsCnEEAIKiyjK" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2815" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -741,8 +741,14 @@
         <mxCell id="3kcoJ0-ats731Hyuas-U-5" value="戰士&lt;div&gt;格鬥家主藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6050" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3kcoJ0-ats731Hyuas-U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3kcoJ0-ats731Hyuas-U-7" target="3kcoJ0-ats731Hyuas-U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3kcoJ0-ats731Hyuas-U-7" value="運氣骰子" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kcoJ0-ats731Hyuas-U-9" value="老師被出賣&lt;div&gt;危險&lt;/div&gt;&lt;div&gt;雇傭保鑣&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
