@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T12:44:38.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OAXD4bnF1EjlBFJ0eAca" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T12:57:58.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lML_1lcwwUWDPOMsKLoy" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="2842" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="2791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -865,6 +865,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-30" value="&lt;div&gt;休&lt;/div&gt;通知教會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-68" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-32" target="D1Atexr_Dmi5lukZRB_q-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-32" value="兩大教會抓捕間諜" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
@@ -940,8 +943,17 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-61" value="&lt;div&gt;支助基金會&lt;/div&gt;魔鏡占卜" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-63" target="D1Atexr_Dmi5lukZRB_q-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-63" value="路遇不死之王" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6910" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-65" value="飛船&lt;div&gt;到達目的&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7110" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-67" value="&lt;div&gt;老師&lt;/div&gt;&lt;div&gt;敵人&lt;/div&gt;&lt;div&gt;維恩&lt;/div&gt;紀錄官書籍" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-1210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
