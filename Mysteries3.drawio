@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T15:06:41.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Yl3heayTEJz8Sty1SnLJ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T15:43:21.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="g-ca-vY4CJfnPJt0Z8Q3" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2795" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -991,8 +991,20 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-77" value="休憩&lt;div&gt;最強獵人 安德森&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7510" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-80" target="D1Atexr_Dmi5lukZRB_q-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-80" value="夢中&lt;div&gt;牢獄&lt;/div&gt;&lt;div&gt;黑暗騎士&lt;/div&gt;&lt;div&gt;鏡子 邪惡面&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7710" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-82" target="D1Atexr_Dmi5lukZRB_q-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-82" value="大地母神氣息&lt;div&gt;灰暗怪物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7710" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-84" value="地獄上將&lt;div&gt;獨自前往&lt;/div&gt;&lt;div&gt;銅哨引敵&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7710" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
