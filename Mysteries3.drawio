@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T15:43:21.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="g-ca-vY4CJfnPJt0Z8Q3" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T16:06:58.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="0e0eGtJIGHFmPyPq-Te-" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="2795" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -994,6 +994,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-80" target="D1Atexr_Dmi5lukZRB_q-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-80" target="D1Atexr_Dmi5lukZRB_q-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-80" value="夢中&lt;div&gt;牢獄&lt;/div&gt;&lt;div&gt;黑暗騎士&lt;/div&gt;&lt;div&gt;鏡子 邪惡面&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7710" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1003,8 +1006,17 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-82" value="大地母神氣息&lt;div&gt;灰暗怪物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7710" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-84" target="D1Atexr_Dmi5lukZRB_q-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-84" value="地獄上將&lt;div&gt;獨自前往&lt;/div&gt;&lt;div&gt;銅哨引敵&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7710" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-86" value="無面人消化" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="7710" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-88" value="神秘女王&lt;div&gt;猜測黑皇帝&lt;/div&gt;&lt;div&gt;褻瀆之牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7910" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
