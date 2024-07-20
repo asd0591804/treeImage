@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T10:06:29.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lA-okE-Or3pgwg2jzsPx" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T10:25:37.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="QBYBWgYRDKdORkYdXHUW" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3238" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2710" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,11 +847,29 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-26" value="工匠&lt;div&gt;魚人&lt;/div&gt;&lt;div&gt;戒指&lt;/div&gt;&lt;div&gt;招喚信使物品&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6240" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-28" target="D1Atexr_Dmi5lukZRB_q-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-28" value="委託扮演大人物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6440" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-30" target="D1Atexr_Dmi5lukZRB_q-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-30" value="&lt;div&gt;休&lt;/div&gt;通知教會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-32" value="兩大教會抓捕間諜" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-34" target="D1Atexr_Dmi5lukZRB_q-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-34" value="上將" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-36" value="辛西亞&lt;div&gt;慾望母樹&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="6640" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
