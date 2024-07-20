@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T12:12:57.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="OIPOh6k4a5gwBrSswY7_" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T12:27:23.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lJ6tngO_1_eRkZPvRn8R" version="24.7.1" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="2950" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2795" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -892,6 +892,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-41" value="疑似針對克布局" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6840" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-58" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-43" target="D1Atexr_Dmi5lukZRB_q-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-43" value="催眠師&lt;div&gt;魔藥配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
@@ -913,11 +916,20 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;弗蘭克。李&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6850" y="-240" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-53" target="D1Atexr_Dmi5lukZRB_q-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-53" value="路過海底遺跡&lt;div&gt;探查&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6640" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-55" value="考驗&lt;div&gt;獵殺原始月亮信徒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-57" value="教授&lt;div&gt;參觀收藏&lt;/div&gt;&lt;div&gt;購書&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D1Atexr_Dmi5lukZRB_q-59" value="船頭陰影" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6710" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
