@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T06:03:48.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="xVH8mgmiKja9pNYroeVb" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T06:36:56.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jVYK1rvNiZaEQwk057r-" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="6555" dy="4604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3531" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1057,6 +1057,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D1Atexr_Dmi5lukZRB_q-98" target="D1Atexr_Dmi5lukZRB_q-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-98" target="aMdbFf17swxrSpcvhmdA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-98" value="祭壇洩漏" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2000" y="750" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1095,6 +1098,15 @@
         </mxCell>
         <mxCell id="aMdbFf17swxrSpcvhmdA-3" value="委託原始月亮線索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-980" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aMdbFf17swxrSpcvhmdA-6" target="aMdbFf17swxrSpcvhmdA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-6" value="世界&lt;div&gt;三天之內&lt;/div&gt;&lt;div&gt;公證人配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2170" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-8" value="&lt;div&gt;擊殺黑道&lt;/div&gt;擊殺不死之王二副" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2370" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
