@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T13:02:57.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Cyahos5NaVUu8KUwoS8_" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T13:26:09.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="YKG5ZwlLAYdhX1hneGqc" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3537" dy="2925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3006" dy="2671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1153,6 +1153,9 @@
         <mxCell id="iY4HJW0iRKqfNXPj60hp-1" value="達尼茲誦念愚者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8140" y="1894" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-3" target="iY4HJW0iRKqfNXPj60hp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-3" value="離開&lt;div&gt;逝去&lt;/div&gt;&lt;div&gt;嘆息&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8540" y="2174" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1161,6 +1164,9 @@
         </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-9" value="委託伊恩(莎倫)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-11" value="左輪&lt;div&gt;喪鐘&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8380" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
