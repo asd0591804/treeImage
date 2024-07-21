@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T17:38:47.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="88xF0LykOVFr1BWY0OYB" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T17:53:00.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="sx90MM-oUB1eJSeCTUps" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3395" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3252" dy="2827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1195,6 +1195,9 @@
         <mxCell id="iY4HJW0iRKqfNXPj60hp-15" value="占卜危險&lt;div&gt;海神遠遠偷襲&lt;/div&gt;&lt;div&gt;海王前來&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8550" y="2850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-17" target="iY4HJW0iRKqfNXPj60hp-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-17" value="述職&lt;div&gt;調查瘋船長死因相關&lt;/div&gt;&lt;div&gt;世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1780" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1264,11 +1267,20 @@
         <mxCell id="iY4HJW0iRKqfNXPj60hp-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-43" target="iY4HJW0iRKqfNXPj60hp-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-43" target="iY4HJW0iRKqfNXPj60hp-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-43" value="格羅賽爾遊記&lt;div&gt;抓捕血之上將&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8520" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-45" value="死神銅哨&lt;div&gt;血種 真造&lt;/div&gt;&lt;div&gt;信史帶飛&lt;/div&gt;&lt;div&gt;阿茲克帶飛&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8520" y="4150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-47" value="獲得秘偶" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-49" value="班西&lt;div&gt;因斯&lt;/div&gt;&lt;div&gt;梅迪奇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
