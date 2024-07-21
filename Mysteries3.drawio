@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T07:56:48.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="XNqEfAc-Rdmgn94-5E9v" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T08:03:08.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="t27xIBl2f0L5ju3Alh2q" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="3731" dy="3093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1129,8 +1129,14 @@
         <mxCell id="aMdbFf17swxrSpcvhmdA-14" value="格羅賽爾遊記" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8340" y="1894" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aMdbFf17swxrSpcvhmdA-16" target="aMdbFf17swxrSpcvhmdA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aMdbFf17swxrSpcvhmdA-16" value="進入&lt;div&gt;主角群&lt;/div&gt;&lt;div&gt;歷史&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8540" y="1894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-18" value="暗天使&amp;nbsp;&lt;div&gt;天使之王首領&lt;/div&gt;&lt;div&gt;空想天使 亞當&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8540" y="2034" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
