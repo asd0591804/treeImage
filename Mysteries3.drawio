@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T06:36:56.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jVYK1rvNiZaEQwk057r-" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T07:10:02.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="voG9DU6tG10pbThP5Fd-" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="3531" dy="2972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1090,6 +1090,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-108" value="&lt;div&gt;詢問蛇&lt;/div&gt;&lt;div&gt;運氣&lt;/div&gt;詭法師" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8290" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-110" target="aMdbFf17swxrSpcvhmdA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-110" value="三條獲取路徑&lt;div&gt;查拉圖&lt;/div&gt;&lt;div&gt;女神教會&lt;/div&gt;&lt;div&gt;霍納奇斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8490" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1105,8 +1108,11 @@
         <mxCell id="aMdbFf17swxrSpcvhmdA-6" value="世界&lt;div&gt;三天之內&lt;/div&gt;&lt;div&gt;公證人配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2170" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aMdbFf17swxrSpcvhmdA-8" value="&lt;div&gt;擊殺黑道&lt;/div&gt;擊殺不死之王二副" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aMdbFf17swxrSpcvhmdA-8" value="&lt;div&gt;靈體之線&lt;br&gt;擊殺黑道&lt;/div&gt;擊殺不死之王二副" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2370" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aMdbFf17swxrSpcvhmdA-10" value="幫安德森解除厄運&lt;div&gt;換取左輪訊息&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8040" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
