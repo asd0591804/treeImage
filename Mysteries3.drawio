@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T14:19:56.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Pa07du556vm_G2mfKbpZ" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T14:29:21.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="g2sUCFNCUeyUODWyGg-D" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
-    <mxGraphModel dx="3167" dy="2773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3852" dy="3208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,6 +838,9 @@
         <mxCell id="D1Atexr_Dmi5lukZRB_q-16" value="探索深淵&lt;div&gt;撤離&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D1Atexr_Dmi5lukZRB_q-18" target="iY4HJW0iRKqfNXPj60hp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D1Atexr_Dmi5lukZRB_q-18" value="腦海中銀牌&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;可能序列錯誤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1191,6 +1194,9 @@
         </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-19" value="詢問阿羅德斯&lt;div&gt;查拉圖晉升失控假象&lt;/div&gt;&lt;div&gt;安提哥努斯筆記&lt;/div&gt;&lt;div&gt;霍納奇斯山脈&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8370" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-21" value="蒸氣控制孩子&lt;div&gt;想轉序列 秘祈人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
