@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T16:59:28.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fkPpGKHG7D8JC8x1YaTN" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T17:10:16.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="LYRcmyoZSje7V_wCwtWs" version="24.7.2" type="github">
   <diagram name="第 1 页" id="vnNiOUNzti1CzOlkC276">
     <mxGraphModel dx="3395" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1237,8 +1237,20 @@
         <mxCell id="iY4HJW0iRKqfNXPj60hp-33" value="小心慾望母樹" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8720" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-35" target="iY4HJW0iRKqfNXPj60hp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY4HJW0iRKqfNXPj60hp-35" target="iY4HJW0iRKqfNXPj60hp-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iY4HJW0iRKqfNXPj60hp-35" value="特意提醒的用意&lt;div&gt;呼叫幫手&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8520" y="3590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-37" value="天亮逃離&lt;div&gt;樹葉包圍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8520" y="3730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY4HJW0iRKqfNXPj60hp-39" value="&lt;div&gt;電報驚嚇&lt;/div&gt;斯厄阿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
