@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T12:49:21.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="DAdcpNjOAwpYTdRlSEq1" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T12:59:30.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="LQ-KOH9lGkE8Xd1r1VGx" version="24.7.1" type="github">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="4706" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8931" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,43 +11,46 @@
           <mxGeometry x="140" y="1230" width="500" height="333.33" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;佛爾思&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-1030" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="1800" y="100" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-22" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;休&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="-1010" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="1230" y="120" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-23" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;阿爾傑。威爾遜&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="-339.99999999999994" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-1430" y="970" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-24" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;倫納德&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2870" y="766.67" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-2900" y="2076.67" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-25" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;奧黛莉。霍爾&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="-720" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-850" y="590" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-26" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;戴里克&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-1900" y="70" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-1930" y="1380" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-27" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;埃姆林。懷特&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2340" y="499.99999999999994" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-2370" y="1810" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-28" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;達尼茲&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-3340" y="1210" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="-3370" y="2520" width="400" height="266.67" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-29" target="zdxnAoie6iFbp6U6E5QI-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-29" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;莎倫&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-730" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="2390" y="400" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;蕾妮特。緹尼科爾&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="-720" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="3080" y="410" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-31" target="zdxnAoie6iFbp6U6E5QI-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-31" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;嘉德麗雅&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2067" y="-149.99999999999994" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="3557" y="980" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-32" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;貝爾納黛&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2827" y="-146.65999999999997" width="400" height="266.67" as="geometry" />
+          <mxGeometry x="4317" y="983.34" width="400" height="266.67" as="geometry" />
         </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-35" target="zdxnAoie6iFbp6U6E5QI-37">
           <mxGeometry relative="1" as="geometry" />
@@ -55,8 +58,26 @@
         <mxCell id="zdxnAoie6iFbp6U6E5QI-35" value="&lt;div&gt;道恩。唐泰斯&lt;/div&gt;腳踏車廣泛" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="1779.995" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-37" target="zdxnAoie6iFbp6U6E5QI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zdxnAoie6iFbp6U6E5QI-37" value="規劃接近女神教會&lt;div&gt;偷竊安提哥努斯筆記&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1919.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-39" target="zdxnAoie6iFbp6U6E5QI-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=60;fontColor=default;" edge="1" parent="1" source="zdxnAoie6iFbp6U6E5QI-39" target="zdxnAoie6iFbp6U6E5QI-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-39" value="拜訪艾辛格" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-41" value="幫忙販賣股份&lt;div&gt;以還錢和扮演&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdxnAoie6iFbp6U6E5QI-45" value="勇敢者酒吧&lt;div&gt;聯絡&lt;/div&gt;&lt;div&gt;特性和道具 運氣和毒素&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="2190" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
