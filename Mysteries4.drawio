@@ -418,8 +418,14 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-58" value="王室展覽館&lt;div&gt;管家舊識&lt;/div&gt;&lt;div&gt;威廉。賽克斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="5080" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-60" target="93xcWQ4XHfooCtSUR69i-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-60" value="王子&lt;div&gt;賽克斯死亡&lt;br&gt;&lt;div&gt;特莉絲&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-62" value="輕度合作&lt;div&gt;調查王室背後&lt;/div&gt;&lt;div&gt;斯特福德子爵&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="5080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
