@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T05:47:35.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3CoKzFtD7-oKokxVavCH" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T05:54:33.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="jbmdXP9vNKP14AfaTQeZ" version="24.7.1" type="github">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
     <mxGraphModel dx="5758" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,16 +183,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-16" value="&lt;div&gt;神秘女王&lt;/div&gt;&lt;div&gt;隱者&lt;/div&gt;日記" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-18" target="ZuZjGfqFqingZc7rvV7j-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-18" value="大地晚年瘋狂&lt;div&gt;門先生&lt;/div&gt;&lt;div&gt;黑皇帝復活方式&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-20" value="語錄&lt;div&gt;吸收序列1特性&lt;/div&gt;&lt;div&gt;六神支持夜皇&lt;/div&gt;&lt;div&gt;血皇帝硬轉瘋狂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-22" target="ZuZjGfqFqingZc7rvV7j-24">
           <mxGeometry relative="1" as="geometry" />
@@ -215,8 +215,8 @@
         <mxCell id="ZuZjGfqFqingZc7rvV7j-28" value="倒吊人&lt;div&gt;海怪線索&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="3040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZuZjGfqFqingZc7rvV7j-30" value="跟隨&lt;div&gt;月亮木偶問題&lt;/div&gt;&lt;div&gt;愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="3130" width="120" height="60" as="geometry" />
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-30" value="跟隨&lt;div&gt;月亮木偶問題&lt;/div&gt;&lt;div&gt;愚者&lt;/div&gt;&lt;div&gt;血月&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="3130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
