@@ -296,11 +296,22 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-17" target="93xcWQ4XHfooCtSUR69i-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-17" target="93xcWQ4XHfooCtSUR69i-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-60" y="4240" />
+              <mxPoint x="140" y="4240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-17" value="禮儀老師&lt;div&gt;困難&lt;/div&gt;&lt;div&gt;調查&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="4150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-19" value="休&lt;div&gt;解決&lt;/div&gt;&lt;div&gt;名聲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="4150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-21" value="舞會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
