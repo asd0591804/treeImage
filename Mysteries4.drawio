@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5414" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5688" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-29" value="回到老巢一鍋端&lt;div&gt;永生會&lt;/div&gt;&lt;div&gt;黑骷髏&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="4410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-31" target="93xcWQ4XHfooCtSUR69i-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-31" value="委託世界&lt;div&gt;狩獵X先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="4410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -364,11 +367,26 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-38" value="太陽&lt;div&gt;公證人&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="4530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="93xcWQ4XHfooCtSUR69i-40" value="月亮&lt;div&gt;月亮使者&lt;/div&gt;&lt;div&gt;祈禱愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="93xcWQ4XHfooCtSUR69i-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-40" target="93xcWQ4XHfooCtSUR69i-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-40" value="月亮&lt;div&gt;月亮使者&lt;/div&gt;&lt;div&gt;祈禱愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="4530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-42" target="93xcWQ4XHfooCtSUR69i-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-42" value="腳踏車股份&lt;div&gt;偵探傳遞消息&lt;br&gt;&lt;div&gt;有人監視&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="4700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-44" value="&lt;div&gt;神秘女王&lt;/div&gt;亞伯拉罕家族的調查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="4530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-46" value="貓咪秘偶&lt;div&gt;獻祭自己&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="4700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-48" value="X先生聚會時間&lt;div&gt;運氣壞之人&lt;/div&gt;&lt;div&gt;通知世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="4820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
