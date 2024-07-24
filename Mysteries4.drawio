@@ -397,6 +397,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-51" target="93xcWQ4XHfooCtSUR69i-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-51" target="93xcWQ4XHfooCtSUR69i-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-51" value="命運之蛇&lt;div&gt;烏洛琉斯尋找&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="4890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -426,6 +429,15 @@
         </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-62" value="輕度合作&lt;div&gt;調查王室背後&lt;/div&gt;&lt;div&gt;斯特福德子爵&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-850" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-64" target="93xcWQ4XHfooCtSUR69i-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-64" value="紀錄書&lt;div&gt;魔鏡幻覺&lt;/div&gt;&lt;div&gt;格爾曼出發&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-66" value="秘偶大師操控&lt;div&gt;怨魂控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
