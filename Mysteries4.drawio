@@ -433,11 +433,23 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-64" target="93xcWQ4XHfooCtSUR69i-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-64" target="93xcWQ4XHfooCtSUR69i-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-64" value="紀錄書&lt;div&gt;魔鏡幻覺&lt;/div&gt;&lt;div&gt;格爾曼出發&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-66" target="93xcWQ4XHfooCtSUR69i-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-66" value="秘偶大師操控&lt;div&gt;怨魂控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="5180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-68" value="石頭脫離&lt;div&gt;天使擾亂占卜&lt;/div&gt;&lt;div&gt;回到旅館&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="5180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-70" value="主教來訪" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
