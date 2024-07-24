@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T04:32:49.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="moXN9mjKp3Xt2qOMQ9jG" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T05:02:27.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="HVddFbAXURItZPCnNM2B" version="24.7.1" type="github">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="7612" dy="2237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5567" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,9 @@
         <mxCell id="ZuZjGfqFqingZc7rvV7j-1" value="月亮信徒&lt;div&gt;其中之一&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-3" target="ZuZjGfqFqingZc7rvV7j-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-3" value="阿羅德斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="2760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -163,6 +166,27 @@
         </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-12" value="女管家與眾多僕役" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-14" target="ZuZjGfqFqingZc7rvV7j-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-14" value="塔羅會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-16" target="ZuZjGfqFqingZc7rvV7j-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-16" value="&lt;div&gt;神秘女王&lt;/div&gt;&lt;div&gt;隱者&lt;/div&gt;日記" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-18" target="ZuZjGfqFqingZc7rvV7j-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-18" value="大地晚年瘋狂&lt;div&gt;門先生&lt;/div&gt;&lt;div&gt;黑皇帝復活方式&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="2910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuZjGfqFqingZc7rvV7j-20" value="語錄&lt;div&gt;吸收序列1特性&lt;/div&gt;&lt;div&gt;六神支持夜皇&lt;/div&gt;&lt;div&gt;血皇帝硬轉瘋狂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="2910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
