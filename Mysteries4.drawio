@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5118" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6172" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,9 @@
         <mxCell id="ZuZjGfqFqingZc7rvV7j-36" value="教堂祈禱&lt;div&gt;看守人&lt;/div&gt;&lt;div&gt;偶遇倫納德&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="3270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuZjGfqFqingZc7rvV7j-38" target="93xcWQ4XHfooCtSUR69i-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZuZjGfqFqingZc7rvV7j-38" value="休&lt;div&gt;新非凡者聚會&lt;/div&gt;&lt;div&gt;可能極光會神使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1540" y="3270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -325,6 +328,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-24" target="93xcWQ4XHfooCtSUR69i-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-24" target="93xcWQ4XHfooCtSUR69i-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-24" value="入侵&lt;div&gt;海柔爾打暈&lt;/div&gt;&lt;div&gt;血將附身處理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="4410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -333,6 +339,18 @@
         </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-29" value="回到老巢一鍋端&lt;div&gt;永生會&lt;/div&gt;&lt;div&gt;黑骷髏&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="4410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-31" value="委託世界&lt;div&gt;狩獵X先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="4410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-34" target="93xcWQ4XHfooCtSUR69i-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-34" value="塔羅會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="4530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-36" value="日記&lt;div&gt;天使之王 唯一性或*2&lt;/div&gt;&lt;div&gt;月亮背後&lt;/div&gt;&lt;div&gt;神性與人性爭奪&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="4530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
