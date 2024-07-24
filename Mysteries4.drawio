@@ -442,6 +442,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-66" target="93xcWQ4XHfooCtSUR69i-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-66" target="93xcWQ4XHfooCtSUR69i-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-66" value="秘偶大師操控&lt;div&gt;怨魂控制&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -450,6 +453,9 @@
         </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-70" value="主教來訪" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="5180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-72" value="放牧&lt;div&gt;旅行家之門&lt;/div&gt;&lt;div&gt;開門&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="5320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
