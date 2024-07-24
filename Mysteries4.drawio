@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5091" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5118" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,6 +290,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-13" value="調查偵探&lt;div&gt;醫生&lt;/div&gt;&lt;div&gt;命運之蛇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="4032" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-15" target="93xcWQ4XHfooCtSUR69i-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-15" value="男僕秘密" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
@@ -310,8 +313,26 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-19" value="休&lt;div&gt;解決&lt;/div&gt;&lt;div&gt;名聲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="4150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-21" target="93xcWQ4XHfooCtSUR69i-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-21" value="舞會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="4290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-24" target="93xcWQ4XHfooCtSUR69i-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-24" target="93xcWQ4XHfooCtSUR69i-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-24" value="入侵&lt;div&gt;海柔爾打暈&lt;/div&gt;&lt;div&gt;血將附身處理&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="4410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-27" value="靈教團&lt;div&gt;死神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="4010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-29" value="回到老巢一鍋端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="4410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
