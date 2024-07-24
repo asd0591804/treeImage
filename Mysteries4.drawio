@@ -376,6 +376,9 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-42" target="93xcWQ4XHfooCtSUR69i-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-42" target="93xcWQ4XHfooCtSUR69i-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-42" value="腳踏車股份&lt;div&gt;偵探傳遞消息&lt;br&gt;&lt;div&gt;有人監視&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
@@ -385,8 +388,20 @@
         <mxCell id="93xcWQ4XHfooCtSUR69i-46" value="貓咪秘偶&lt;div&gt;獻祭自己&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-48" target="93xcWQ4XHfooCtSUR69i-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="93xcWQ4XHfooCtSUR69i-48" value="X先生聚會時間&lt;div&gt;運氣壞之人&lt;/div&gt;&lt;div&gt;通知世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="4820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93xcWQ4XHfooCtSUR69i-51" target="93xcWQ4XHfooCtSUR69i-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-51" value="命運之蛇&lt;div&gt;烏洛琉斯尋找&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93xcWQ4XHfooCtSUR69i-54" value="刺殺危險&lt;div&gt;等到天使離開&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="4890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
