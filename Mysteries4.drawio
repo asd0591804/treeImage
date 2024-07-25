@@ -537,8 +537,14 @@
         <mxCell id="f7OSAWGf6JHT6S-5ugBK-10" value="日記" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="5970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f7OSAWGf6JHT6S-5ugBK-12" target="f7OSAWGf6JHT6S-5ugBK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f7OSAWGf6JHT6S-5ugBK-12" value="大帝轉黑皇帝" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="5970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-14" value="還有穿越者&lt;div&gt;小心月亮&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
