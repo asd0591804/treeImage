@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5441" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5813" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -643,11 +643,23 @@
         <mxCell id="f7OSAWGf6JHT6S-5ugBK-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f7OSAWGf6JHT6S-5ugBK-43" target="f7OSAWGf6JHT6S-5ugBK-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f7OSAWGf6JHT6S-5ugBK-43" target="f7OSAWGf6JHT6S-5ugBK-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f7OSAWGf6JHT6S-5ugBK-43" value="倒吊人&lt;div&gt;會合&lt;/div&gt;&lt;div&gt;探索島嶼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="6610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f7OSAWGf6JHT6S-5ugBK-45" value="半神羽蛇" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="6610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f7OSAWGf6JHT6S-5ugBK-47" target="f7OSAWGf6JHT6S-5ugBK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-47" value="黑皇帝 序列5 狒狒&lt;div&gt;辦神魔女石化&lt;/div&gt;&lt;div&gt;進入危險區域 教堂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="6750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7OSAWGf6JHT6S-5ugBK-49" value="遠古太陽神 壁畫" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="6750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
