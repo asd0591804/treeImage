@@ -911,8 +911,20 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-80" value="魔女背棄後吊死&lt;div&gt;A先生種蘑菇&lt;/div&gt;&lt;div&gt;門後王座&lt;/div&gt;&lt;div&gt;愚者褻瀆之牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="9200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-82" target="97jwhYzhJoAWxoUMN-Xa-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-82" target="97jwhYzhJoAWxoUMN-Xa-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-82" value="&lt;div&gt;魚肉&lt;/div&gt;&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;融合&lt;/div&gt;&lt;div&gt;蠕動的飢餓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="9200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-84" value="筆記徽章&lt;div&gt;查拉圖徽章&lt;/div&gt;&lt;div&gt;愚者&lt;/div&gt;&lt;div&gt;女神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="9340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-86" value="查拉圖骨灰消失" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="9200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
