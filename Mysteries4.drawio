@@ -893,8 +893,14 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-74" value="老人&lt;div&gt;歷史縫隙&lt;/div&gt;&lt;div&gt;查拉圖&lt;/div&gt;&lt;div&gt;帶走骨灰&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="8920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-76" target="97jwhYzhJoAWxoUMN-Xa-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-76" value="黑曜石&lt;div&gt;絕望魔女&lt;/div&gt;&lt;div&gt;假裝貪婪&lt;/div&gt;&lt;div&gt;詭法師配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="9060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-78" value="假意和魔女合作&lt;div&gt;利用瘋狂與理智&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="9060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
