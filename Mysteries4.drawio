@@ -782,8 +782,26 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-37" value="心靈巨龍習俗&lt;div&gt;眾神傳教&lt;/div&gt;&lt;div&gt;壁畫分食&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="7730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-39" target="97jwhYzhJoAWxoUMN-Xa-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-39" value="斷指&lt;div&gt;炸藥&lt;/div&gt;&lt;div&gt;竊夢&lt;/div&gt;&lt;div&gt;斷尾求生 老鼠&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="7930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-41" target="97jwhYzhJoAWxoUMN-Xa-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-41" target="97jwhYzhJoAWxoUMN-Xa-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-41" value="蛇&lt;div&gt;命運之輪牌&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;短時間恢復力量 O&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="8040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-43" value="有人造訪夢境&lt;div&gt;調查炸藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="8140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-45" value="貝爾納黛&lt;div&gt;交易&lt;/div&gt;&lt;div&gt;秘偶偽裝教會侵蝕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="8240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
