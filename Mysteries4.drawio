@@ -863,8 +863,14 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-64" value="紅月阻止" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="8660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-66" target="97jwhYzhJoAWxoUMN-Xa-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-66" value="開門&lt;div&gt;教堂&lt;/div&gt;&lt;div&gt;瘟疫?&lt;span style=&quot;background-color: initial;&quot;&gt;隱藏危害&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="8660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-68" value="A先生&lt;div&gt;牧羊人對蠕動的飢餓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="8780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
