@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="4950" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5813" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,6 +836,11 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-54" value="扮演守門人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="8380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="97jwhYzhJoAWxoUMN-Xa-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="8410.058823529413" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-56" value="倫納德" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="8380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -920,11 +925,26 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-82" value="&lt;div&gt;魚肉&lt;/div&gt;&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;融合&lt;/div&gt;&lt;div&gt;蠕動的飢餓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="9200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-84" target="97jwhYzhJoAWxoUMN-Xa-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-84" value="筆記徽章&lt;div&gt;查拉圖徽章&lt;/div&gt;&lt;div&gt;愚者&lt;/div&gt;&lt;div&gt;女神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="9340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-86" value="查拉圖骨灰消失" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="9200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-88" target="97jwhYzhJoAWxoUMN-Xa-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-88" value="離開&lt;div&gt;蠕動飢餓進化&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="9340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-90" value="心理治療" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="9480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-92" value="調查夏洛克" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="9480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
