@@ -730,8 +730,24 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-21" value="提供夢境意見" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="7270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-23" target="97jwhYzhJoAWxoUMN-Xa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-23" target="97jwhYzhJoAWxoUMN-Xa-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="7190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-23" value="準備配方&lt;div&gt;東區被跟蹤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="7270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-25" value="夢境般回憶&lt;div&gt;調查子爵周邊&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="7270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-27" value="&lt;div&gt;魔女&lt;/div&gt;&lt;div&gt;自願轉性&lt;/div&gt;特曼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="7160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
