@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.4">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5493" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5191" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -694,7 +694,7 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-7" value="大廳深處嘆息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="7030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="97jwhYzhJoAWxoUMN-Xa-9" value="島消失" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-9" value="島消失&lt;div&gt;黃昏隱士會&lt;/div&gt;&lt;div&gt;觀眾&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="7030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-11" target="97jwhYzhJoAWxoUMN-Xa-15">
@@ -770,8 +770,20 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-33" value="高序列非凡&lt;div&gt;具有精神烙印&lt;/div&gt;&lt;div&gt;越相似越容易&lt;/div&gt;&lt;div&gt;復活&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="7450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-35" target="97jwhYzhJoAWxoUMN-Xa-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-35" value="&lt;div&gt;海洋歌者 製作&lt;/div&gt;特性販賣&lt;div&gt;黑皇帝 序列5&lt;/div&gt;&lt;div&gt;耕種者 序列5&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="7590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-37" target="97jwhYzhJoAWxoUMN-Xa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-37" value="心靈巨龍習俗&lt;div&gt;眾神傳教&lt;/div&gt;&lt;div&gt;壁畫分食&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="7730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-39" value="斷指&lt;div&gt;炸藥&lt;/div&gt;&lt;div&gt;竊夢&lt;/div&gt;&lt;div&gt;斷尾求生 老鼠&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="7930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
