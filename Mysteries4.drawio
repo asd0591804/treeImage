@@ -1000,11 +1000,17 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-108" value="保鑣&lt;div&gt;休&lt;/div&gt;&lt;div&gt;佛爾思&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="9680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-110" target="97jwhYzhJoAWxoUMN-Xa-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-110" value="捐出股份&lt;div&gt;女神教會&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="9960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-112" value="新版蘑菇" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="9960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-114" value="罵赫特&lt;div&gt;遭遇刺殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="10120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
