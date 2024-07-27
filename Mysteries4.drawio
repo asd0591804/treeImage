@@ -703,6 +703,9 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-11" value="戴莉關注" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="7160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-13" target="97jwhYzhJoAWxoUMN-Xa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-13" value="歸還旅遊筆記&lt;div&gt;休&lt;/div&gt;&lt;div&gt;審訊者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="7030" width="120" height="60" as="geometry" />
         </mxCell>
@@ -718,8 +721,17 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-17" value="小蛇&lt;div&gt;遭遇天使&lt;/div&gt;&lt;div&gt;命運偏移&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="7270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-19" target="97jwhYzhJoAWxoUMN-Xa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-19" value="海柔爾&lt;div&gt;夢境&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="7270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-21" value="提供夢境意見" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="7270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-23" value="準備配方&lt;div&gt;東區被跟蹤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="7270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
