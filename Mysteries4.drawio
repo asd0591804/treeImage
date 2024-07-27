@@ -881,8 +881,14 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-70" value="蘑菇&lt;div&gt;逃離&lt;/div&gt;&lt;div&gt;瘟疫&lt;/div&gt;&lt;div&gt;教堂&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="8920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="97jwhYzhJoAWxoUMN-Xa-72" value="霍納奇斯囈語&lt;div&gt;靈體之線控制&lt;/div&gt;&lt;div&gt;黑夜魔狼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-72" target="97jwhYzhJoAWxoUMN-Xa-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-72" value="霍納奇斯囈語&lt;div&gt;靈體之線控制&lt;/div&gt;&lt;div&gt;黑夜魔狼&lt;/div&gt;&lt;div&gt;橡皮擦天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="8920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-74" value="老人&lt;div&gt;歷史縫隙&lt;/div&gt;&lt;div&gt;查拉圖&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="8920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
