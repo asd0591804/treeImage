@@ -943,8 +943,20 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-90" value="心理治療" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="9480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-92" target="97jwhYzhJoAWxoUMN-Xa-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-92" value="調查夏洛克" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="9480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-94" target="97jwhYzhJoAWxoUMN-Xa-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-94" value="時間上比對&lt;div&gt;無面人&lt;/div&gt;&lt;div&gt;格爾曼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="9620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97jwhYzhJoAWxoUMN-Xa-96" value="克萊恩" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="9620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
