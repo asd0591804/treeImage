@@ -1370,8 +1370,14 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-84" value="怪物途徑&lt;div&gt;看自己一眼&lt;/div&gt;&lt;div&gt;青灰大門&lt;/div&gt;&lt;div&gt;光球&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="13180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-86" target="ixyULEbXFuD9kOxlATH3-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-86" value="阿茲克前來" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="13320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-88" value="地獄上將&lt;div&gt;臣服&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="13460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
