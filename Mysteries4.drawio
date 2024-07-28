@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5049" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5426" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1349,6 +1349,9 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-74" target="ixyULEbXFuD9kOxlATH3-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-74" target="ixyULEbXFuD9kOxlATH3-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-74" value="靈教團&lt;div&gt;任務&lt;/div&gt;&lt;div&gt;抓捕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="12880" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1400,8 +1403,17 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-94" value="多世記憶&lt;div&gt;對抗瘋狂的錨&lt;/div&gt;&lt;div&gt;羽蛇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="13720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-96" target="ixyULEbXFuD9kOxlATH3-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-96" value="不可遏止的融合&lt;div&gt;克 命運&lt;br&gt;&lt;div&gt;女神出手&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="13720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-98" value="阿茲克休眠&lt;div&gt;整理&lt;/div&gt;&lt;div&gt;前往&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="13720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-100" value="猜測&lt;div&gt;阿茲克&lt;br&gt;&lt;div&gt;塔羅會 死神&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="13790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
