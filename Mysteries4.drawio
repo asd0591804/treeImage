@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5323" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6512" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1253,6 +1253,9 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-37" target="ixyULEbXFuD9kOxlATH3-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-37" target="ixyULEbXFuD9kOxlATH3-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-37" value="巧遇紅手套" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="12190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1325,8 +1328,44 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-65" value="聯絡&lt;div&gt;變形者&lt;/div&gt;&lt;div&gt;功勳積累&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="12880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-68" target="ixyULEbXFuD9kOxlATH3-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-68" value="中途&lt;div&gt;獵人半神追殺&lt;/div&gt;&lt;div&gt;因斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="12740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-70" target="ixyULEbXFuD9kOxlATH3-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-70" value="通知倫納德&lt;div&gt;凡有言&lt;span style=&quot;background-color: initial;&quot;&gt;必被知&lt;/span&gt;&lt;/div&gt;&lt;div&gt;加快扮演進度&lt;/div&gt;&lt;div&gt;目標秘偶*2&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="12740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-72" target="ixyULEbXFuD9kOxlATH3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-72" value="翻譯秘偶" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="12880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-74" target="ixyULEbXFuD9kOxlATH3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-74" value="靈教團&lt;div&gt;任務&lt;/div&gt;&lt;div&gt;抓捕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="12880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-76" value="恩佐" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="13050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-81" target="ixyULEbXFuD9kOxlATH3-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-81" value="新秘偶" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="13180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-76" target="ixyULEbXFuD9kOxlATH3-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-84" value="怪物途徑&lt;div&gt;看自己一眼&lt;/div&gt;&lt;div&gt;青灰大門&lt;/div&gt;&lt;div&gt;光球&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="13180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
