@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="6512" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5073" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1358,6 +1358,9 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-81" target="ixyULEbXFuD9kOxlATH3-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-81" target="ixyULEbXFuD9kOxlATH3-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-81" value="新秘偶" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="13180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1366,6 +1369,9 @@
         </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-84" value="怪物途徑&lt;div&gt;看自己一眼&lt;/div&gt;&lt;div&gt;青灰大門&lt;/div&gt;&lt;div&gt;光球&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="13180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-86" value="阿茲克前來" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="13320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
