@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="6512" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5813" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1060,6 +1060,15 @@
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="97jwhYzhJoAWxoUMN-Xa-127" target="97jwhYzhJoAWxoUMN-Xa-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="97jwhYzhJoAWxoUMN-Xa-127" target="ixyULEbXFuD9kOxlATH3-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1040" y="10740" />
+              <mxPoint x="-1040" y="12660" />
+              <mxPoint x="-1320" y="12660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="97jwhYzhJoAWxoUMN-Xa-127" value="太陽 序列5配方&lt;div&gt;月亮 序列5特性&lt;/div&gt;&lt;div&gt;世界 5000&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="10680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1253,6 +1262,9 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-39" value="戴莉試探" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="12330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-41" target="ixyULEbXFuD9kOxlATH3-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-41" value="交流方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="12210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1289,11 +1301,26 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-53" value="擺渡人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="12660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-55" target="ixyULEbXFuD9kOxlATH3-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-55" value="解決前任首席&lt;div&gt;阻止洛的黑影&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="12770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-59" target="ixyULEbXFuD9kOxlATH3-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-59" value="確認工匠問題" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2590" y="12710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-61" value="知識教會&lt;div&gt;船長&lt;/div&gt;&lt;div&gt;安德森書單&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="12730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-63" value="通知隱者&lt;div&gt;尋求幫助&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2590" y="12850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-65" value="聯絡&lt;div&gt;變形者&lt;/div&gt;&lt;div&gt;功勳積累&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="12880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
