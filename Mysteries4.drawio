@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5813" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5323" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1292,6 +1292,9 @@
         <mxCell id="ixyULEbXFuD9kOxlATH3-49" value="給蠕動飢餓找食物&lt;div&gt;狂暴海異常&lt;/div&gt;&lt;div&gt;死神&lt;/div&gt;&lt;div&gt;銅哨&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="12500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-51" target="ixyULEbXFuD9kOxlATH3-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-51" value="黑皇帝號徵招&lt;div&gt;海盜自薦食物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="12610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1321,6 +1324,9 @@
         </mxCell>
         <mxCell id="ixyULEbXFuD9kOxlATH3-65" value="聯絡&lt;div&gt;變形者&lt;/div&gt;&lt;div&gt;功勳積累&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="12880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixyULEbXFuD9kOxlATH3-68" value="中途&lt;div&gt;獵人半神追殺&lt;/div&gt;&lt;div&gt;因斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="12740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
