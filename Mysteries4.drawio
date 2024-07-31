@@ -1471,8 +1471,26 @@
         <mxCell id="hwKcEmE9Cfns-qhynnCT-7" value="先探索&lt;div&gt;做好準備&lt;/div&gt;&lt;div&gt;暴君牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="14280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-9" target="hwKcEmE9Cfns-qhynnCT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-9" value="靜默&lt;div&gt;鏡面中人&lt;/div&gt;&lt;div&gt;黑克&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="14280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-11" target="hwKcEmE9Cfns-qhynnCT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-11" value="揮槌巨人&lt;div&gt;靈界掠奪者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="14420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-13" target="hwKcEmE9Cfns-qhynnCT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-13" value="唱歌&lt;div&gt;祈禱&lt;/div&gt;&lt;div&gt;雷電風暴&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="14420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-15" value="歐洲人躲過&lt;div&gt;克制掠奪者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="14420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
