@@ -1511,14 +1511,29 @@
         <mxCell id="hwKcEmE9Cfns-qhynnCT-17" value="魯莽&lt;div&gt;偽裝撤離&lt;/div&gt;&lt;div&gt;不幸&lt;/div&gt;&lt;div&gt;竊運&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="14560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-19" target="hwKcEmE9Cfns-qhynnCT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-19" value="獵殺&lt;div&gt;烏洛琉斯前來&lt;/div&gt;&lt;div&gt;回歸&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="14650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hwKcEmE9Cfns-qhynnCT-21" value="因斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-21" target="hwKcEmE9Cfns-qhynnCT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-21" value="因斯&lt;div&gt;人造死神派系合作&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="14580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-23" value="&lt;div&gt;小心極光&lt;/div&gt;安德森&lt;div&gt;鐵血十字&lt;/div&gt;&lt;div&gt;真實造物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="14570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-26" target="hwKcEmE9Cfns-qhynnCT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-26" value="&lt;div&gt;信&lt;/div&gt;偷偷調查因斯&lt;div&gt;借助女神獲得唯一性&lt;/div&gt;&lt;div&gt;詢問因斯目的&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="14650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-29" value="惡靈附身" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="14790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
