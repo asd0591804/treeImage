@@ -1538,8 +1538,14 @@
         <mxCell id="hwKcEmE9Cfns-qhynnCT-29" value="惡靈附身" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="14790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-31" target="hwKcEmE9Cfns-qhynnCT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-31" value="回信&lt;div&gt;&lt;div&gt;時之蟲&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="14870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hwKcEmE9Cfns-qhynnCT-33" value="戴莉&lt;div&gt;詢問惡靈&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="14870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
