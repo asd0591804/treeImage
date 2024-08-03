@@ -1596,6 +1596,9 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-8" value="首席帶領&lt;div&gt;探索詭術邪眼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="15110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-10" target="rqSDlELv5kQokKQ-Q4qe-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-10" value="獵人惡靈線索&lt;div&gt;安魂師特性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="15220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1632,6 +1635,9 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-22" value="符咒&lt;div&gt;黑夜女神祈求&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-24" target="rqSDlELv5kQokKQ-Q4qe-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-24" value="魔狼地盤&lt;div&gt;弗雷格拉&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="15250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1640,6 +1646,12 @@
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-28" value="斑西&lt;div&gt;詭異&lt;/div&gt;&lt;div&gt;薔薇&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2940" y="14920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-30" value="紅手套會議&lt;div&gt;0-08 發現&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="15360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-32" value="異常&lt;div&gt;牧羊人提議&lt;/div&gt;&lt;div&gt;探索周圍入口&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="15250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
