@@ -1743,7 +1743,10 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-61" target="rqSDlELv5kQokKQ-Q4qe-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqSDlELv5kQokKQ-Q4qe-61" value="克現身&lt;div&gt;擊殺因斯&lt;/div&gt;&lt;div&gt;隊長與戴莉之舞&lt;/div&gt;&lt;div&gt;晉升&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-61" target="rqSDlELv5kQokKQ-Q4qe-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-61" value="克現身&lt;div&gt;擊殺因斯&lt;/div&gt;&lt;div&gt;隊長與戴莉之舞&lt;/div&gt;&lt;div&gt;亞當幫助晉升&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="16000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-63" target="rqSDlELv5kQokKQ-Q4qe-61">
@@ -1754,6 +1757,9 @@
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-66" value="詭法師&lt;div&gt;秘偶不死就不會死&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="16140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-68" value="命運餽贈" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="16000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
