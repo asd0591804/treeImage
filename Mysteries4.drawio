@@ -1713,8 +1713,14 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-51" value="謀求0-08&lt;div&gt;因斯絕對會來&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="15720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-53" target="rqSDlELv5kQokKQ-Q4qe-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-53" value="舉報&lt;div&gt;傳信&lt;/div&gt;&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;冠冕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="15720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-55" value="秘偶分離紅天使往靈界&lt;div&gt;雷電壟罩神話生物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="15860" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
