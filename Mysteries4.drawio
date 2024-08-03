@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5191" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6036" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1466,7 +1466,7 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-1" target="rqSDlELv5kQokKQ-Q4qe-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rqSDlELv5kQokKQ-Q4qe-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rqSDlELv5kQokKQ-Q4qe-28">
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ixyULEbXFuD9kOxlATH3-102" target="rqSDlELv5kQokKQ-Q4qe-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2680" y="13870" as="sourcePoint" />
           </mxGeometry>
@@ -1533,6 +1533,9 @@
         </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-21" value="因斯&lt;div&gt;人造死神派系合作&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="14580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hwKcEmE9Cfns-qhynnCT-23" target="rqSDlELv5kQokKQ-Q4qe-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hwKcEmE9Cfns-qhynnCT-23" value="&lt;div&gt;小心極光&lt;/div&gt;安德森&lt;div&gt;鐵血十字&lt;/div&gt;&lt;div&gt;真實造物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2020" y="14570" width="120" height="60" as="geometry" />
@@ -1647,11 +1650,41 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-28" value="斑西&lt;div&gt;詭異&lt;/div&gt;&lt;div&gt;薔薇&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2940" y="14920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-30" target="rqSDlELv5kQokKQ-Q4qe-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-30" value="紅手套會議&lt;div&gt;0-08 發現&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="15360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-32" target="rqSDlELv5kQokKQ-Q4qe-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-32" value="異常&lt;div&gt;牧羊人提議&lt;/div&gt;&lt;div&gt;探索周圍入口&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="15250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-34" value="誘餌吸引&lt;div&gt;擊殺&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="15390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-36" target="rqSDlELv5kQokKQ-Q4qe-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-36" value="調查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="15360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-38" target="rqSDlELv5kQokKQ-Q4qe-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-38" value="因斯&lt;div&gt;真實目的偽裝&lt;/div&gt;&lt;div&gt;獵殺高級執事晉升&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="15530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-40" target="rqSDlELv5kQokKQ-Q4qe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-40" value="巧遇&lt;div&gt;獵人特性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="15530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-43" value="亞當" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="15670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
