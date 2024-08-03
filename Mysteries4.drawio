@@ -1722,11 +1722,17 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-53" value="舉報&lt;div&gt;傳信&lt;/div&gt;&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;冠冕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="15720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-55" target="rqSDlELv5kQokKQ-Q4qe-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-55" value="秘偶分離紅天使往靈界&lt;div&gt;雷電壟罩神話生物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="15860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-57" value="0-08&lt;div&gt;命運天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="15720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-59" value="戴莉通靈阻止因斯逃逸&lt;div&gt;倫納德祈禱竊運擊殺因斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="16000" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
