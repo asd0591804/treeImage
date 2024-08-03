@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="6172" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5493" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1857,8 +1857,20 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-101" value="探索城堡異常&lt;div&gt;防禦類&lt;/div&gt;&lt;div&gt;陰冷&lt;/div&gt;&lt;div&gt;青銅大門&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3070" y="3890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-103" target="rqSDlELv5kQokKQ-Q4qe-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-103" value="解決怨魂&lt;div&gt;門後聲響&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3070" y="4030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-106" target="rqSDlELv5kQokKQ-Q4qe-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-106" value="門侵蝕&lt;div&gt;休入會&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2870" y="4030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-108" value="審判" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="4030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
