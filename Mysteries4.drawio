@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="6036" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5055" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1635,6 +1635,9 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-20" value="神話生物血液交易&lt;div&gt;愚者權柄&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-22" target="rqSDlELv5kQokKQ-Q4qe-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-22" value="符咒&lt;div&gt;黑夜女神祈求&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1685,6 +1688,33 @@
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-43" value="亞當" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="15670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-45" target="rqSDlELv5kQokKQ-Q4qe-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-45" value="躲避0-08方法" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="15440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-47" target="rqSDlELv5kQokKQ-Q4qe-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-47" value="思考都在灰霧&lt;div&gt;現實靠冥想&lt;/div&gt;&lt;div&gt;既定行動&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="15580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-49" target="rqSDlELv5kQokKQ-Q4qe-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-49" value="輝務上觀察到達尼茲&lt;div&gt;發現亞當&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="15580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-51" target="rqSDlELv5kQokKQ-Q4qe-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-51" value="謀求0-08&lt;div&gt;因斯絕對會來&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="15720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rqSDlELv5kQokKQ-Q4qe-53" value="舉報&lt;div&gt;傳信&lt;/div&gt;&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;冠冕&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="15720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
