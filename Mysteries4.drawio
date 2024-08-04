@@ -1896,11 +1896,29 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-1" value="阿爾弗雷德&lt;div&gt;奧黛莉二哥出場&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4207" y="4390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-3" target="GVTVMTRKH3OsFvYoC9AE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-3" target="GVTVMTRKH3OsFvYoC9AE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-3" value="回貝克蘭德&lt;div&gt;解決火車上邪教祭祀&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4340" y="4616" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-5" value="技術學院招生&lt;div&gt;克萊恩兄妹&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4800" y="4616" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-8" target="GVTVMTRKH3OsFvYoC9AE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-8" value="月亮&lt;div&gt;布偶&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="4616" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-10" value="紅月&lt;div&gt;木偶&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3940" y="4616" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-12" value="原始月亮祭祀&lt;div&gt;巫王&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="4740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
