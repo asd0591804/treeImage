@@ -2415,6 +2415,9 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-170" value="1天使3聖者&lt;div&gt;探索遺跡&lt;/div&gt;&lt;div&gt;沒有異常&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4620" y="9730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-174" target="GVTVMTRKH3OsFvYoC9AE-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-174" value="&lt;div&gt;心理煉金&lt;/div&gt;黃昏隱士會&lt;div&gt;高層&lt;/div&gt;&lt;div&gt;亞當空想&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4620" y="9870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2426,6 +2429,21 @@
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-178" value="造物主" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4750" y="10000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-180" target="GVTVMTRKH3OsFvYoC9AE-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-180" value="開會" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="10030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-182" target="GVTVMTRKH3OsFvYoC9AE-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-182" value="日記" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="10030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-186" value="第二塊褻瀆不完整" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="10170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
