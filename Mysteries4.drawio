@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5276" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5813" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1824,6 +1824,12 @@
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-81" value="心理藥劑" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4207" y="3400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-84" target="GVTVMTRKH3OsFvYoC9AE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-84" target="GVTVMTRKH3OsFvYoC9AE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-84" value="血族大人物" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3957" y="3553" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1861,6 +1867,9 @@
           <mxGeometry x="2860" y="3760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rqSDlELv5kQokKQ-Q4qe-101" target="rqSDlELv5kQokKQ-Q4qe-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rqSDlELv5kQokKQ-Q4qe-101" target="GVTVMTRKH3OsFvYoC9AE-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rqSDlELv5kQokKQ-Q4qe-101" value="探索城堡異常&lt;div&gt;防禦類&lt;/div&gt;&lt;div&gt;陰冷&lt;/div&gt;&lt;div&gt;青銅大門&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -1919,6 +1928,12 @@
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-12" value="原始月亮祭祀&lt;div&gt;巫王&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4340" y="4740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-14" value="公爵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="4740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-16" value="情報缺失&lt;div&gt;故意&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="3890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
