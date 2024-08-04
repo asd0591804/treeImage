@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5719" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8209" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2182,6 +2182,9 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-89" value="詢問任務&lt;div&gt;魔女線人&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2920" y="6900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-91" target="GVTVMTRKH3OsFvYoC9AE-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-91" value="&lt;div&gt;異常&lt;/div&gt;上門拜訪&lt;div&gt;拉上船&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="6890" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2196,6 +2199,11 @@
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-97" value="莎倫&lt;div&gt;月亮懷特 探索玫瑰學派&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4490" y="6820" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-100" target="GVTVMTRKH3OsFvYoC9AE-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3340" y="7079.997619047618" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-100" value="馬里奇合作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3340" y="6920" width="120" height="60" as="geometry" />
@@ -2274,6 +2282,12 @@
         </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-126" value="分贓" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3280" y="7750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-130" value="蘑菇進展&lt;div&gt;嘉嘉半神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="7450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-132" value="準備開始" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="7889.95" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
