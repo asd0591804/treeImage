@@ -1929,11 +1929,23 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-12" value="原始月亮祭祀&lt;div&gt;巫王&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4340" y="4740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-14" target="GVTVMTRKH3OsFvYoC9AE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-14" value="公爵" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3630" y="4740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-16" target="GVTVMTRKH3OsFvYoC9AE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-16" value="情報缺失&lt;div&gt;故意&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3430" y="3890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-19" value="跟蹤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="4830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-21" value="查出玫瑰學派&lt;div&gt;聖物&lt;/div&gt;&lt;div&gt;原始月亮&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="4880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
