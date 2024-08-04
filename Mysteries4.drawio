@@ -1998,8 +1998,14 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-37" value="回到貝克蘭德" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4570" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-39" target="GVTVMTRKH3OsFvYoC9AE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-39" value="靈教團&lt;div&gt;人造死神副產物半神&lt;/div&gt;&lt;div&gt;女神唯一性神諭&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4370" y="5180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-41" value="幫助女神獲得唯一性&lt;div&gt;假扮死亡執政官學生&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4170" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
