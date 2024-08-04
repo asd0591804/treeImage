@@ -2442,8 +2442,14 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-182" value="日記" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4140" y="10030" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-186" target="GVTVMTRKH3OsFvYoC9AE-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-186" value="第二塊褻瀆不完整" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4140" y="10170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GVTVMTRKH3OsFvYoC9AE-188" value="觀眾成神&lt;div&gt;預想時代潮流&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="10310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
