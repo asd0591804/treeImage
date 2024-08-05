@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5383" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5143" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2385,6 +2385,9 @@
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-157" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;子爵效忠國王&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4750" y="9210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GVTVMTRKH3OsFvYoC9AE-159" target="89glx6pWwwN4Ob_SqI9B-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVTVMTRKH3OsFvYoC9AE-159" value="大霧埋事件幕後" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4950" y="9210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2469,6 +2472,9 @@
         <mxCell id="89glx6pWwwN4Ob_SqI9B-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-1" target="89glx6pWwwN4Ob_SqI9B-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-1" target="89glx6pWwwN4Ob_SqI9B-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-1" value="莎倫&lt;div&gt;寄信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4390" y="10660" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2492,6 +2498,18 @@
         </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-9" value="月亮&lt;div&gt;招開會議&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4390" y="10910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-11" target="89glx6pWwwN4Ob_SqI9B-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-11" value="特莉絲&lt;div&gt;寄信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4780" y="10820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-13" value="軍情九處&lt;div&gt;疑點&lt;/div&gt;&lt;div&gt;聯絡世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="11030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-15" value="驚嚇" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4940" y="10820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
