@@ -2592,8 +2592,20 @@
         <mxCell id="89glx6pWwwN4Ob_SqI9B-42" value="十字分離" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4510" y="11770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-44" target="89glx6pWwwN4Ob_SqI9B-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-44" value="收信&lt;div&gt;莎倫&lt;/div&gt;&lt;div&gt;今晚行動&lt;/div&gt;&lt;div&gt;釣魚&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4910" y="11920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-46" target="89glx6pWwwN4Ob_SqI9B-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-46" value="預知危險&lt;div&gt;行動錯失&lt;/div&gt;&lt;div&gt;紅月照射&lt;/div&gt;&lt;div&gt;占卜失效&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5110" y="11920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-48" value="慾望母樹&lt;div&gt;暗中&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5310" y="11920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
