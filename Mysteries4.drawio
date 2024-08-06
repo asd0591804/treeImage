@@ -2505,11 +2505,35 @@
         <mxCell id="89glx6pWwwN4Ob_SqI9B-11" value="特莉絲&lt;div&gt;寄信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4780" y="10820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-13" target="89glx6pWwwN4Ob_SqI9B-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-13" value="軍情九處&lt;div&gt;疑點&lt;/div&gt;&lt;div&gt;聯絡世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5080" y="11030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-15" value="驚嚇" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4940" y="10820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-17" target="89glx6pWwwN4Ob_SqI9B-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-17" value="夢中調查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4900" y="11150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-19" target="89glx6pWwwN4Ob_SqI9B-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-19" target="89glx6pWwwN4Ob_SqI9B-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-19" value="正義&lt;div&gt;催眠&lt;/div&gt;&lt;div&gt;蘇茜提醒&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="11260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;亞當&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;十字&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;示好警告&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4510" y="11260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-23" value="道恩&lt;div&gt;世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4710" y="11400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
