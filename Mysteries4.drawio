@@ -2580,6 +2580,9 @@
         <mxCell id="89glx6pWwwN4Ob_SqI9B-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-37" target="89glx6pWwwN4Ob_SqI9B-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="89glx6pWwwN4Ob_SqI9B-37" target="89glx6pWwwN4Ob_SqI9B-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-37" value="解決&lt;div&gt;解除秘偶&lt;/div&gt;&lt;div&gt;魔藥&lt;/div&gt;&lt;div&gt;非凡物品&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4710" y="11770" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2588,6 +2591,9 @@
         </mxCell>
         <mxCell id="89glx6pWwwN4Ob_SqI9B-42" value="十字分離" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4510" y="11770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89glx6pWwwN4Ob_SqI9B-44" value="收信&lt;div&gt;莎倫&lt;/div&gt;&lt;div&gt;今晚行動&lt;/div&gt;&lt;div&gt;釣魚&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="11920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
