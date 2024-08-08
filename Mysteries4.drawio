@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5611" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5437" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2738,8 +2738,20 @@
         <mxCell id="Mr59qnu_rJyo48WlEImD-19" value="旅行家魔藥&lt;div&gt;配方&lt;/div&gt;&lt;div&gt;主材&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3260" y="13070" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Mr59qnu_rJyo48WlEImD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mr59qnu_rJyo48WlEImD-21" target="Mr59qnu_rJyo48WlEImD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mr59qnu_rJyo48WlEImD-21" value="隱密路徑&lt;div&gt;換取心靈材料&lt;/div&gt;&lt;div&gt;封印物&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5490" y="12820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr59qnu_rJyo48WlEImD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Mr59qnu_rJyo48WlEImD-24" target="Mr59qnu_rJyo48WlEImD-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr59qnu_rJyo48WlEImD-24" value="&lt;div&gt;靈界注意事項&lt;/div&gt;秘之聖者" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5490" y="12960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr59qnu_rJyo48WlEImD-26" value="休&lt;div&gt;軍方&lt;/div&gt;&lt;div&gt;配方換金鎊&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5740" y="12960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
