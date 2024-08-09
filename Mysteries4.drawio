@@ -2819,11 +2819,23 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-17" value="兄妹聚" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5780" y="13480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-19" target="OsTOqyS3f5mLtN8YxH8r-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-19" value="宣戰" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5980" y="13620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-21" value="&lt;div&gt;教會&lt;/div&gt;正義安撫" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6180" y="13480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-23" target="OsTOqyS3f5mLtN8YxH8r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-23" value="戰神&lt;div&gt;女神&lt;/div&gt;&lt;div&gt;相鄰途徑&lt;/div&gt;&lt;div&gt;阻止消化唯一性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5980" y="13760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-25" value="紅天使&lt;div&gt;賣情報&lt;br&gt;&lt;div&gt;查拉圖&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6180" y="13760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
