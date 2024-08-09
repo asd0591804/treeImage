@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5104" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="11562" dy="5220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2717,6 +2717,9 @@
         <mxCell id="Mr59qnu_rJyo48WlEImD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mr59qnu_rJyo48WlEImD-11" target="Mr59qnu_rJyo48WlEImD-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mr59qnu_rJyo48WlEImD-11" target="OsTOqyS3f5mLtN8YxH8r-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mr59qnu_rJyo48WlEImD-11" value="王座下的封印&lt;div&gt;返回&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4607" y="12520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2753,7 +2756,7 @@
         <mxCell id="Mr59qnu_rJyo48WlEImD-24" value="&lt;div&gt;靈界注意事項&lt;/div&gt;秘之聖者" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5250" y="12820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsTOqyS3f5mLtN8YxH8r-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OsTOqyS3f5mLtN8YxH8r-44">
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mr59qnu_rJyo48WlEImD-26" target="OsTOqyS3f5mLtN8YxH8r-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5299.999999999998" y="12550" as="sourcePoint" />
           </mxGeometry>
@@ -2905,7 +2908,7 @@
           <mxGeometry x="7000" y="14380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-44" value="2500&lt;div&gt;買特性&lt;/div&gt;&lt;div&gt;記錄扮演&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5305" y="14350" width="120" height="60" as="geometry" />
+          <mxGeometry x="5250" y="14340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-46" target="OsTOqyS3f5mLtN8YxH8r-48">
           <mxGeometry relative="1" as="geometry" />
@@ -2925,11 +2928,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-52" target="OsTOqyS3f5mLtN8YxH8r-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-52" target="OsTOqyS3f5mLtN8YxH8r-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-52" value="軍火交易&lt;div&gt;知識半神 神話型態&lt;/div&gt;&lt;div&gt;費內波特起戰端&lt;/div&gt;&lt;div&gt;大地母神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6730" y="14610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-54" value="正義&lt;div&gt;治療&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6530" y="14610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-56" value="地底汙染&lt;div&gt;序列越高越危險&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6730" y="14750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-58" value="紅手套&lt;div&gt;留守貝克蘭德&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4450" y="14340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
