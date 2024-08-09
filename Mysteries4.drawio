@@ -2987,8 +2987,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-69" value="旅行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6000" y="15290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-73" target="OsTOqyS3f5mLtN8YxH8r-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-73" value="&lt;div&gt;疾病&lt;/div&gt;出現" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5590" y="15290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-75" target="OsTOqyS3f5mLtN8YxH8r-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-75" value="取血&lt;div&gt;占卜&lt;/div&gt;&lt;div&gt;貝克&lt;/div&gt;&lt;div&gt;搜尋&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5390" y="15290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-77" value="通知紅天使&lt;div&gt;偽裝阿蒙&lt;/div&gt;&lt;div&gt;驚嚇&lt;/div&gt;&lt;div&gt;扮演&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5390" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
