@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5528" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5446" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2916,6 +2916,9 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-46" target="OsTOqyS3f5mLtN8YxH8r-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-46" target="OsTOqyS3f5mLtN8YxH8r-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-46" value="達尼茲&lt;div&gt;發現疾病中將位置&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5920" y="14450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2983,6 +2986,9 @@
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-69" value="旅行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6000" y="15290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-73" value="&lt;div&gt;疾病&lt;/div&gt;出現" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5590" y="15290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
