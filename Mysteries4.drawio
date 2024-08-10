@@ -3315,11 +3315,17 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-184" target="OsTOqyS3f5mLtN8YxH8r-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-184" target="OsTOqyS3f5mLtN8YxH8r-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-184" value="&lt;div&gt;前往神棄之地&lt;/div&gt;神戰遺跡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7650" y="17440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OsTOqyS3f5mLtN8YxH8r-186" value="阿蒙&lt;div&gt;序列0 錯誤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-186" value="&lt;div&gt;序列0 錯誤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7850" y="17440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-188" value="借助夢境跳躍" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7650" y="17300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
