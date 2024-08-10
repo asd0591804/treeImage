@@ -3119,6 +3119,9 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-116" value="祈求女神&lt;div&gt;古代學者材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5800" y="15830" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-118" target="OsTOqyS3f5mLtN8YxH8r-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-118" value="福跟之犬&lt;div&gt;服從&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5800" y="15970" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3133,6 +3136,15 @@
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-126" value="保護性關押&lt;div&gt;大地母神神父&lt;/div&gt;&lt;div&gt;月亮&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4450" y="15680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-128" target="OsTOqyS3f5mLtN8YxH8r-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-128" value="特莉絲&lt;div&gt;邀請&lt;/div&gt;&lt;div&gt;破壞儀式&lt;/div&gt;&lt;div&gt;門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6010" y="16090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-130" value="弗蘭克&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;成果&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5610" y="16230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
