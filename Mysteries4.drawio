@@ -3097,8 +3097,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-110" value="回來修整&lt;div&gt;寫小說&lt;/div&gt;&lt;div&gt;消化詭法師&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5900" y="15540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-112" target="OsTOqyS3f5mLtN8YxH8r-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-112" value="小蛇&lt;div&gt;幫助容納唯一性&lt;/div&gt;&lt;div&gt;太遲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6170" y="15690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-114" target="OsTOqyS3f5mLtN8YxH8r-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-114" value="晉身契機" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="15690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-116" value="祈求女神&lt;div&gt;古代學者材料&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5800" y="15830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
