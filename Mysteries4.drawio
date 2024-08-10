@@ -3169,14 +3169,34 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-134" target="OsTOqyS3f5mLtN8YxH8r-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OsTOqyS3f5mLtN8YxH8r-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5900" y="16350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-134" value="塔羅會&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;太陽探索&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5840" y="16330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-136" target="OsTOqyS3f5mLtN8YxH8r-141">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-136" value="特莉絲&lt;div&gt;祈求門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6100" y="16410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-139" value="找女神匯報&lt;div&gt;特莉絲&lt;/div&gt;&lt;div&gt;祈禱紅天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5610" y="16510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-141" target="OsTOqyS3f5mLtN8YxH8r-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-141" value="門先生&lt;div&gt;進入陵墓方法&lt;/div&gt;&lt;div&gt;解放門先生方法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6100" y="16550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-143" value="蒐集所有途徑血液" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6300" y="16550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-145" value="試驗蘑菇&lt;div&gt;希望&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5840" y="16710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
