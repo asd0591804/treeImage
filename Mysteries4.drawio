@@ -2907,6 +2907,11 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-40" value="合作&lt;div&gt;阻止三世&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6530" y="14350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OsTOqyS3f5mLtN8YxH8r-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7090" y="13940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-42" value="牧羊人長老&lt;div&gt;發現十字&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7000" y="14380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3013,6 +3018,9 @@
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-81" value="詐唬&lt;div&gt;陰謀能力&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5590" y="15440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-83" value="探索巨人王庭&lt;div&gt;正門 雙白騎士&lt;/div&gt;&lt;div&gt;繞路&lt;/div&gt;&lt;div&gt;十字領頭 祈禱&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7010" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
