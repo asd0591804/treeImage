@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5726" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4903" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3086,11 +3086,14 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-106" target="OsTOqyS3f5mLtN8YxH8r-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-106" target="OsTOqyS3f5mLtN8YxH8r-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-106" value="持續探索&lt;div&gt;門後&lt;/div&gt;&lt;div&gt;大海&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6800" y="16000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-108" value="王庭追獵者&lt;div&gt;暗天使 薩斯利爾&lt;/div&gt;&lt;div&gt;沉睡之地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7000" y="16000" width="120" height="60" as="geometry" />
+          <mxGeometry x="7000" y="16140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-110" target="OsTOqyS3f5mLtN8YxH8r-112">
           <mxGeometry relative="1" as="geometry" />
@@ -3145,6 +3148,9 @@
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-130" value="弗蘭克&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;成果&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5610" y="16230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-132" value="始祖&lt;div&gt;人類&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6800" y="16140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
