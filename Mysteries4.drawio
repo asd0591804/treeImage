@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5446" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5063" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3019,8 +3019,68 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-81" value="詐唬&lt;div&gt;陰謀能力&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5590" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-83" target="OsTOqyS3f5mLtN8YxH8r-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-83" value="探索巨人王庭&lt;div&gt;正門 雙白騎士&lt;/div&gt;&lt;div&gt;繞路&lt;/div&gt;&lt;div&gt;十字領頭 祈禱&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7010" y="15440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-85" target="OsTOqyS3f5mLtN8YxH8r-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-85" value="十字發光&lt;div&gt;解除路上巨人精神烙印&lt;/div&gt;&lt;div&gt;棺材&lt;/div&gt;&lt;div&gt;人形&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6790" y="15440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-87" target="OsTOqyS3f5mLtN8YxH8r-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-87" value="探索宮殿&lt;div&gt;異常&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6800" y="15580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-89" target="OsTOqyS3f5mLtN8YxH8r-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-89" target="OsTOqyS3f5mLtN8YxH8r-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-89" value="&lt;div&gt;墮落力量&lt;/div&gt;隱密力量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6600" y="15580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-91" target="OsTOqyS3f5mLtN8YxH8r-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-91" value="高腳桌椅" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6600" y="15720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-93" value="真造" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6400" y="15580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-95" target="OsTOqyS3f5mLtN8YxH8r-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-95" target="OsTOqyS3f5mLtN8YxH8r-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-95" value="天使與真神&lt;div&gt;真名&lt;/div&gt;&lt;div&gt;女神 阿曼妮西斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6600" y="15860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-97" target="OsTOqyS3f5mLtN8YxH8r-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-97" value="&lt;div&gt;女神&lt;/div&gt;謀劃&lt;div&gt;遠古太陽神殞落&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6600" y="16000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-99" value="亞當謀劃&lt;div&gt;吸收唯一性&lt;/div&gt;&lt;div&gt;無法出手?&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6400" y="16000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-101" target="OsTOqyS3f5mLtN8YxH8r-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-101" value="首席震驚" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="6800" y="15860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-106" value="持續探索&lt;div&gt;門後&lt;/div&gt;&lt;div&gt;大海&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6800" y="16000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
