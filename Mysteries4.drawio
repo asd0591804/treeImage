@@ -3270,8 +3270,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-168" value="源堡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6500" y="17680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-170" target="OsTOqyS3f5mLtN8YxH8r-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-170" value="黛莉絲&lt;div&gt;奇克&lt;/div&gt;&lt;div&gt;神降&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6700" y="17540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-172" target="OsTOqyS3f5mLtN8YxH8r-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-172" value="逃離&lt;div&gt;歷史孔隙&lt;br&gt;&lt;div&gt;&lt;div&gt;落入查拉圖陷阱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6900" y="17800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-174" value="遊記&lt;div&gt;誠實大廳&lt;br&gt;&lt;div&gt;亞當&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7100" y="17800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
