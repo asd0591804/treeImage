@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5726" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5446" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3125,7 +3125,7 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-118" target="OsTOqyS3f5mLtN8YxH8r-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OsTOqyS3f5mLtN8YxH8r-118" value="福跟之犬&lt;div&gt;服從&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-118" value="福跟之犬&lt;div&gt;服從&lt;/div&gt;&lt;div&gt;源堡&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5800" y="15970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-120" value="第一版初稿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3143,6 +3143,14 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-128" target="OsTOqyS3f5mLtN8YxH8r-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-128" target="OsTOqyS3f5mLtN8YxH8r-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6270" y="16120" />
+              <mxPoint x="6270" y="16440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-128" value="特莉絲&lt;div&gt;邀請&lt;/div&gt;&lt;div&gt;破壞儀式&lt;/div&gt;&lt;div&gt;門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6010" y="16090" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3155,8 +3163,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-132" value="始祖&lt;div&gt;人類&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6800" y="16140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-134" target="OsTOqyS3f5mLtN8YxH8r-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-134" target="OsTOqyS3f5mLtN8YxH8r-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-134" value="塔羅會&lt;div&gt;蘑菇&lt;/div&gt;&lt;div&gt;太陽探索&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5840" y="16330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-136" value="特莉絲&lt;div&gt;祈求門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6100" y="16410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-139" value="找女神匯報&lt;div&gt;特莉絲&lt;/div&gt;&lt;div&gt;祈禱紅天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5610" y="16510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
