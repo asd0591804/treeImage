@@ -3372,8 +3372,20 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-202" value="切爾諾貝利" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7900" y="16720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-204" target="OsTOqyS3f5mLtN8YxH8r-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-204" value="古代學者消化&lt;div&gt;可以直接回到源堡&lt;/div&gt;&lt;div&gt;阿蒙竊取&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="8100" y="16720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-206" target="OsTOqyS3f5mLtN8YxH8r-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-206" value="女神&lt;div&gt;死神&lt;/div&gt;&lt;div&gt;阻止阿蒙&lt;/div&gt;&lt;div&gt;回到灰霧 殺肉體&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8100" y="16580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-208" value="照常招開塔羅會" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7900" y="16520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
