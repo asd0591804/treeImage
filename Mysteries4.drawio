@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5063" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5196" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2989,6 +2989,9 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-67" value="星空汙染&lt;div&gt;最後一座陵墓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6210" y="15150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-69" target="OsTOqyS3f5mLtN8YxH8r-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-69" value="旅行" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6000" y="15290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3079,8 +3082,23 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-101" value="首席震驚" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6800" y="15860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-106" target="OsTOqyS3f5mLtN8YxH8r-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-106" value="持續探索&lt;div&gt;門後&lt;/div&gt;&lt;div&gt;大海&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6800" y="16000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-108" value="王庭追獵者&lt;div&gt;暗天使 薩斯利爾&lt;/div&gt;&lt;div&gt;沉睡之地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7000" y="16000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-110" target="OsTOqyS3f5mLtN8YxH8r-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-110" value="回來修整&lt;div&gt;寫小說&lt;/div&gt;&lt;div&gt;消化詭法師&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5900" y="15540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-112" value="小蛇&lt;div&gt;幫助容納唯一性&lt;/div&gt;&lt;div&gt;太遲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6170" y="15690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
