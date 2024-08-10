@@ -3282,8 +3282,14 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-172" value="逃離&lt;div&gt;歷史孔隙&lt;br&gt;&lt;div&gt;&lt;div&gt;落入查拉圖陷阱&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6900" y="17800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-174" target="OsTOqyS3f5mLtN8YxH8r-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-174" value="遊記&lt;div&gt;誠實大廳&lt;br&gt;&lt;div&gt;亞當&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7100" y="17800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsTOqyS3f5mLtN8YxH8r-176" value="躲入歷史孔隙&lt;div&gt;阿里安娜女士前來&lt;/div&gt;&lt;div&gt;傳送離開&lt;/div&gt;&lt;div&gt;阿蒙抓到密偶追蹤&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7100" y="17940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
