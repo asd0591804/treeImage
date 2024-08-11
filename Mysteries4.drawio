@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5620" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5528" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3502,6 +3502,13 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-31" value="接受約定&lt;div&gt;獲得特性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7750" y="15660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-33" target="mvEeCTM1te3_kf-y9W5S-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8740" y="15240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-33" value="嘉嘉離開船&lt;div&gt;弗蘭克&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8670" y="15730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3523,11 +3530,26 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-38" value="招喚世界&lt;div&gt;口琴&lt;/div&gt;&lt;div&gt;女神祈禱&lt;/div&gt;&lt;div&gt;風暴雷劈&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8160" y="15530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-40" target="mvEeCTM1te3_kf-y9W5S-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-40" value="晉升 旅行家" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="7960" y="15530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mvEeCTM1te3_kf-y9W5S-42" value="冬禮日&lt;div&gt;晉升&lt;/div&gt;&lt;div&gt;序列 4&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-42" target="mvEeCTM1te3_kf-y9W5S-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-42" value="冬禮日&lt;div&gt;晉升&lt;/div&gt;&lt;div&gt;序列 4&amp;nbsp; 操縱師&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="8400" y="15590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-44" target="mvEeCTM1te3_kf-y9W5S-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-44" value="商議&lt;div&gt;狩獵布提斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8350" y="15210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-48" value="隱者主攻&lt;div&gt;正義控制&lt;br&gt;&lt;div&gt;0級封印物&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8350" y="14970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
