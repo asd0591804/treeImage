@@ -3408,6 +3408,11 @@
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-214" value="&lt;div&gt;第一個穿越者&lt;/div&gt;&lt;div&gt;與占卜家途徑有關&lt;/div&gt;&lt;div&gt;女神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7700" y="16540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsTOqyS3f5mLtN8YxH8r-216" target="mvEeCTM1te3_kf-y9W5S-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8290" y="16460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OsTOqyS3f5mLtN8YxH8r-216" value="占卜&lt;div&gt;奇蹟師&lt;/div&gt;&lt;div&gt;詭密侍者&lt;/div&gt;&lt;div&gt;配方&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8100" y="16440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3441,11 +3446,38 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-9" value="交付正義紙鶴&lt;div&gt;詢問奇蹟師主材&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7710" y="16150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-11" target="mvEeCTM1te3_kf-y9W5S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-11" value="&lt;div&gt;查拉圖&lt;/div&gt;&lt;div&gt;安提哥努斯&lt;/div&gt;教會封印物&lt;div&gt;神棄之地&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7530" y="16040" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-13" target="mvEeCTM1te3_kf-y9W5S-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-13" value="佛爾思&lt;div&gt;魔鏡&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7760" y="16000" width="120" height="60" as="geometry" />
+          <mxGeometry x="7820" y="16010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-15" value="委託塔羅會眾人&lt;div&gt;狩獵密之聖者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="16170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-19" target="mvEeCTM1te3_kf-y9W5S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-19" value="探索&lt;div&gt;疑是奇蹟魔狼&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7530" y="15900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-21" target="mvEeCTM1te3_kf-y9W5S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-21" value="&lt;div&gt;真造&lt;/div&gt;聖言天使&lt;div&gt;&quot;列奧德羅&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="15900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-23" value="阿蒙&lt;div&gt;遊戲&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7330" y="15760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-27" value="記錄&lt;div&gt;古代學者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8000" y="15810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
