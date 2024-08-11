@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5918" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5154" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3632,6 +3632,9 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-73" value="儀式&lt;div&gt;誦唸&lt;br&gt;&lt;div&gt;福生玄黃天尊&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8570" y="13960" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-75" target="mvEeCTM1te3_kf-y9W5S-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-75" value="&lt;div&gt;漣漪&lt;/div&gt;還未到時候" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8570" y="13820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3639,6 +3642,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-77" target="mvEeCTM1te3_kf-y9W5S-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-77" target="mvEeCTM1te3_kf-y9W5S-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-77" value="塔羅會" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -3655,6 +3661,24 @@
         </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-86" value="倒吊人&lt;div&gt;災難主祭&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8040" y="13770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-88" target="mvEeCTM1te3_kf-y9W5S-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-88" value="傳教&lt;div&gt;蘑菇&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8770" y="13750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-90" target="mvEeCTM1te3_kf-y9W5S-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-90" value="發現魔狼線索" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8770" y="13610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-92" value="月亮&lt;div&gt;伯爵&lt;br&gt;&lt;div&gt;巫王&lt;/div&gt;&lt;/div&gt;&lt;div&gt;玫瑰學派&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7700" y="13730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-94" value="幕布&lt;div&gt;詭密侍者特性&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8940" y="13500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
