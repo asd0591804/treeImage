@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5528" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5918" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3499,6 +3499,9 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-29" value="倒吊人&lt;div&gt;高希娜姆&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7750" y="15800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-31" target="mvEeCTM1te3_kf-y9W5S-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-31" value="接受約定&lt;div&gt;獲得特性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7750" y="15660" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3557,10 +3560,16 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-50" target="mvEeCTM1te3_kf-y9W5S-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-50" target="mvEeCTM1te3_kf-y9W5S-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-50" value="獻祭&lt;div&gt;舊日之盒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8350" y="14830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-52" target="mvEeCTM1te3_kf-y9W5S-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-52" target="mvEeCTM1te3_kf-y9W5S-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-52" value="貝克各大半神到來" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -3572,8 +3581,50 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-54" value="倫那德" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8360" y="14590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-56" target="mvEeCTM1te3_kf-y9W5S-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-56" value="帕列斯&lt;div&gt;阿蒙&lt;/div&gt;&lt;div&gt;序列1 特性&lt;/div&gt;&lt;div&gt;成神儀式&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8660" y="14460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-58" target="mvEeCTM1te3_kf-y9W5S-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-58" value="分身處復活" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8470" y="14460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-60" target="mvEeCTM1te3_kf-y9W5S-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-60" value="佛爾思&lt;div&gt;老師&lt;/div&gt;&lt;div&gt;交易&lt;/div&gt;&lt;div&gt;旅法師&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8950" y="14420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-62" target="mvEeCTM1te3_kf-y9W5S-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-62" value="兩種選擇" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8850" y="14300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-64" value="找到" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7750" y="14310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-66" value="1351 秋&lt;div&gt;魯恩退守&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8040" y="14190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-68" target="mvEeCTM1te3_kf-y9W5S-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-68" value="月城" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8370" y="14190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-70" target="mvEeCTM1te3_kf-y9W5S-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-70" value="西大陸&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;星之杖&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8570" y="14100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-73" value="儀式&lt;div&gt;誦唸&lt;br&gt;&lt;div&gt;福生玄黃天尊&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8570" y="13960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
