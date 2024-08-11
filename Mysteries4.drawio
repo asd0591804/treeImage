@@ -3623,8 +3623,14 @@
         <mxCell id="mvEeCTM1te3_kf-y9W5S-70" value="西大陸&lt;div&gt;灰霧&lt;/div&gt;&lt;div&gt;星之杖&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8570" y="14100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mvEeCTM1te3_kf-y9W5S-73" target="mvEeCTM1te3_kf-y9W5S-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mvEeCTM1te3_kf-y9W5S-73" value="儀式&lt;div&gt;誦唸&lt;br&gt;&lt;div&gt;福生玄黃天尊&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8570" y="13960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvEeCTM1te3_kf-y9W5S-75" value="&lt;div&gt;漣漪&lt;/div&gt;還未到時候" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8570" y="13820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
