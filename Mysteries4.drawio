@@ -3695,8 +3695,14 @@
         <mxCell id="UEsUEsHLqGpoOyylsNeu-3" value="詐欺&lt;div&gt;聽聞星空&lt;/div&gt;&lt;div&gt;污染&lt;/div&gt;&lt;div&gt;源堡消毒&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8380" y="13410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UEsUEsHLqGpoOyylsNeu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEsUEsHLqGpoOyylsNeu-5" target="UEsUEsHLqGpoOyylsNeu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UEsUEsHLqGpoOyylsNeu-5" value="舊日&lt;div&gt;外神&lt;/div&gt;&lt;div&gt;末日&lt;/div&gt;&lt;div&gt;源質&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8380" y="13270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEsUEsHLqGpoOyylsNeu-7" value="正義&lt;div&gt;催眠&lt;/div&gt;&lt;div&gt;開解魯恩困境&lt;/div&gt;&lt;div&gt;信徒與錨&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="13270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
