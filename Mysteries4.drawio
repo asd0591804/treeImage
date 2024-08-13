@@ -3986,11 +3986,41 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-27" value="精神瘟疫&lt;div&gt;真造汙染包容&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8180" y="10905" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-29" target="j7WNhxR29cyY7ZqgkQ4l-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-29" target="j7WNhxR29cyY7ZqgkQ4l-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-29" value="見暗天使" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8180" y="10765" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-31" target="j7WNhxR29cyY7ZqgkQ4l-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-31" value="戰場天變&lt;div&gt;神戰&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7850" y="11410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-33" value="遠古太陽神&lt;div&gt;上帝&lt;/div&gt;&lt;div&gt;原初造物主在體內甦醒&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="8165" y="10620" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-35" target="j7WNhxR29cyY7ZqgkQ4l-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-35" value="睜眼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7980" y="10765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-37" value="洛薇雅&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;首席&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;犧牲&lt;/span&gt;&lt;div&gt;竊取石板與混沌海聯繫&lt;/div&gt;&lt;div&gt;真造汙染接手&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7930" y="10490" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-41" target="j7WNhxR29cyY7ZqgkQ4l-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-41" value="女神&lt;div&gt;戰神&lt;/div&gt;&lt;div&gt;大地母神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7670" y="11270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-43" value="母神不是歐彌貝拉&lt;div&gt;莉莉思&lt;/div&gt;&lt;div&gt;背刺戰神&lt;/div&gt;&lt;div&gt;女神交易紅月&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7670" y="11130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
