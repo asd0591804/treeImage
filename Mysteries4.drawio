@@ -4031,8 +4031,14 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-45" value="第七卷&lt;div&gt;倒吊人&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="7980" y="10260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-47" target="j7WNhxR29cyY7ZqgkQ4l-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-47" value="白銀城&lt;div&gt;回到現實世界&lt;/div&gt;&lt;div&gt;晉升奇蹟師&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="7980" y="10120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-49" value="會見七光&lt;div&gt;外神&lt;/div&gt;&lt;div&gt;歷史&lt;/div&gt;&lt;div&gt;詭秘之主&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="7820" y="10000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
