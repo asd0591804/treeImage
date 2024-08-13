@@ -3876,8 +3876,20 @@
         <mxCell id="JhkuG6xLDatoIkM6jUNg-18" value="祈禱尊名&lt;div&gt;眾神尊名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8730" y="11990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-21" target="JhkuG6xLDatoIkM6jUNg-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-21" target="JhkuG6xLDatoIkM6jUNg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JhkuG6xLDatoIkM6jUNg-21" value="阿蒙&lt;div&gt;掩蓋源堡污染&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8730" y="11850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-23" value="阿蒙&lt;div&gt;延緩歷史投影&lt;/div&gt;&lt;div&gt;往朔源堡&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8530" y="11850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-25" value="追蹤魔狼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8730" y="11710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
