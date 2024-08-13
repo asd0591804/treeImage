@@ -3912,8 +3912,14 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-5" value="列奧德羅&lt;div&gt;AOE&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8530" y="11570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-7" target="j7WNhxR29cyY7ZqgkQ4l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-7" value="怨魂&lt;div&gt;人造死神羽毛&lt;/div&gt;&lt;div&gt;女神降臨&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8530" y="11430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-9" value="成也敗也&lt;div&gt;列奧德羅&lt;/div&gt;&lt;div&gt;魔狼別處復活&lt;/div&gt;&lt;div&gt;獲得幕布 序列1.2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="8530" y="11300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
