@@ -3817,8 +3817,14 @@
         <mxCell id="vjdk-4p0BqphGEj2mfZO-29" value="解除投影&lt;div&gt;離開&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7700" y="12490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-1" target="JhkuG6xLDatoIkM6jUNg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JhkuG6xLDatoIkM6jUNg-1" value="污染&lt;div&gt;分解特性&lt;/div&gt;&lt;div&gt;分戰利品&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7160" y="12450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-3" value="無瞳將軍&lt;div&gt;臣服&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6960" y="12450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
