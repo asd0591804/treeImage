@@ -3715,6 +3715,14 @@
         <mxCell id="UEsUEsHLqGpoOyylsNeu-5" value="舊日&lt;div&gt;外神&lt;/div&gt;&lt;div&gt;末日&lt;/div&gt;&lt;div&gt;源質&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8380" y="13270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UEsUEsHLqGpoOyylsNeu-7" target="j7WNhxR29cyY7ZqgkQ4l-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8240" y="13110" />
+              <mxPoint x="8460" y="13110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UEsUEsHLqGpoOyylsNeu-7" value="正義&lt;div&gt;催眠&lt;/div&gt;&lt;div&gt;開解魯恩困境&lt;/div&gt;&lt;div&gt;信徒與錨&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8180" y="13270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3735,6 +3743,9 @@
         </mxCell>
         <mxCell id="UEsUEsHLqGpoOyylsNeu-13" value="太陽&lt;div&gt;正義&lt;span style=&quot;background-color: initial;&quot;&gt;幫助&lt;/span&gt;&lt;/div&gt;&lt;div&gt;儀式&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="8080" y="13140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="vjdk-4p0BqphGEj2mfZO-1" target="j7WNhxR29cyY7ZqgkQ4l-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vjdk-4p0BqphGEj2mfZO-1" value="光" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="8080" y="13000" width="120" height="60" as="geometry" />
@@ -3918,8 +3929,23 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-7" value="怨魂&lt;div&gt;人造死神羽毛&lt;/div&gt;&lt;div&gt;女神降臨&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8530" y="11430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-9" target="j7WNhxR29cyY7ZqgkQ4l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-9" value="成也敗也&lt;div&gt;列奧德羅&lt;/div&gt;&lt;div&gt;魔狼別處復活&lt;/div&gt;&lt;div&gt;獲得幕布 序列1.2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="8530" y="11300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-11" target="j7WNhxR29cyY7ZqgkQ4l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-11" value="再次探索巨人王庭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8180" y="12080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-13" value="先行探索巨人王庭" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8330" y="11300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-16" value="&lt;div&gt;女神錨動搖&lt;/div&gt;&lt;div&gt;幫助魯恩&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8400" y="11850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
