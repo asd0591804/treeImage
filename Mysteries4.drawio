@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="6103" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4922" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3837,6 +3837,9 @@
         <mxCell id="JhkuG6xLDatoIkM6jUNg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-5" target="JhkuG6xLDatoIkM6jUNg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-5" target="JhkuG6xLDatoIkM6jUNg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JhkuG6xLDatoIkM6jUNg-5" value="根據斯厄啊推斷&lt;div&gt;魔狼&lt;/div&gt;&lt;div&gt;假設晉升序列１&lt;/div&gt;&lt;div&gt;或是掌握幕布&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8730" y="12760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3866,6 +3869,15 @@
         </mxCell>
         <mxCell id="JhkuG6xLDatoIkM6jUNg-16" value="發現不是源堡主人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8920" y="12080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JhkuG6xLDatoIkM6jUNg-18" target="JhkuG6xLDatoIkM6jUNg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-18" value="祈禱尊名&lt;div&gt;眾神尊名&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8730" y="11990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhkuG6xLDatoIkM6jUNg-21" value="阿蒙&lt;div&gt;掩蓋源堡污染&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8730" y="11850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
