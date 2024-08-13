@@ -4028,6 +4028,9 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-45" target="j7WNhxR29cyY7ZqgkQ4l-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-45" target="j7WNhxR29cyY7ZqgkQ4l-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-45" value="第七卷&lt;div&gt;倒吊人&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="7980" y="10260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4049,8 +4052,23 @@
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-51" value="阿羅德斯" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7640" y="9920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-53" target="j7WNhxR29cyY7ZqgkQ4l-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7WNhxR29cyY7ZqgkQ4l-53" value="蒸氣&lt;div&gt;天使&lt;/div&gt;&lt;div&gt;諾柏瓦&lt;/div&gt;&lt;div&gt;大帝之子&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7640" y="9780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7WNhxR29cyY7ZqgkQ4l-55" target="j7WNhxR29cyY7ZqgkQ4l-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-55" value="流浪" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="9640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-57" value="紅天使&lt;div&gt;魔女&lt;/div&gt;&lt;div&gt;回程&lt;/div&gt;&lt;div&gt;阿蒙&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8160" y="9780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7WNhxR29cyY7ZqgkQ4l-59" value="貝爾丹&lt;div&gt;阿里安娜&lt;br&gt;&lt;div&gt;奇怪規則限制&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7830" y="9510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
