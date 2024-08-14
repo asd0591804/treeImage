@@ -4097,8 +4097,20 @@
         <mxCell id="bU7WuqiXftl4TQvrIM1o-7" value="漏洞&lt;div&gt;阿羅德斯&lt;/div&gt;&lt;div&gt;懲罰&lt;/div&gt;&lt;div&gt;不算惡意傷人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7790" y="9130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bU7WuqiXftl4TQvrIM1o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bU7WuqiXftl4TQvrIM1o-9" target="bU7WuqiXftl4TQvrIM1o-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bU7WuqiXftl4TQvrIM1o-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bU7WuqiXftl4TQvrIM1o-9" target="bU7WuqiXftl4TQvrIM1o-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bU7WuqiXftl4TQvrIM1o-9" value="借助名稱&lt;div&gt;源質污染&lt;/div&gt;&lt;div&gt;反向追蹤&lt;/div&gt;&lt;div&gt;詢問大牧首&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7790" y="8990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU7WuqiXftl4TQvrIM1o-11" value="阿里安娜&lt;div&gt;打算試錯封印&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7990" y="8990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU7WuqiXftl4TQvrIM1o-13" value="神靈&lt;div&gt;唯一性&lt;/div&gt;&lt;div&gt;悖論&lt;/div&gt;&lt;div&gt;卡機&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7590" y="8990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
