@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="4714" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4977" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4148,6 +4148,9 @@
         <mxCell id="zHxSNtfnJcV8mD2gNjyo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kK6HGLZxik0NfMln0l_l-3" target="zHxSNtfnJcV8mD2gNjyo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK6HGLZxik0NfMln0l_l-3" target="pxsqQDfZST12inRGDmNi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kK6HGLZxik0NfMln0l_l-3" value="奇蹟魔術師&lt;div&gt;梅林。赫爾墨斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7590" y="8570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4181,14 +4184,26 @@
         <mxCell id="zHxSNtfnJcV8mD2gNjyo-5" value="叔伯死後回到島嶼&lt;div&gt;黑黃帝陵墓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7880" y="8340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YemBtoeKIMA4yVI1SMuu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHxSNtfnJcV8mD2gNjyo-7" target="YemBtoeKIMA4yVI1SMuu-1">
+        <mxCell id="YemBtoeKIMA4yVI1SMuu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zHxSNtfnJcV8mD2gNjyo-7" target="YemBtoeKIMA4yVI1SMuu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zHxSNtfnJcV8mD2gNjyo-7" value="進入&lt;div&gt;黑影&lt;/div&gt;&lt;div&gt;失控&lt;/div&gt;&lt;div&gt;羅賽爾回光 封印&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7880" y="8200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YemBtoeKIMA4yVI1SMuu-1" value="交流&lt;div&gt;褻瀆之牌&lt;/div&gt;&lt;div&gt;小心母親牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pxsqQDfZST12inRGDmNi-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YemBtoeKIMA4yVI1SMuu-1" target="pxsqQDfZST12inRGDmNi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YemBtoeKIMA4yVI1SMuu-1" value="交流&lt;div&gt;褻瀆之牌&lt;/div&gt;&lt;div&gt;小心母親牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8080" y="8200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-1" value="埃姆林&lt;div&gt;教會&lt;/div&gt;&lt;div&gt;神諭異常&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8080" y="8060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-3" value="自動許願機" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7430" y="8410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-5" value="正義&lt;div&gt;心理煉金&lt;/div&gt;&lt;div&gt;傲慢&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7230" y="8410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
