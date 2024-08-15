@@ -4169,8 +4169,14 @@
         <mxCell id="zHxSNtfnJcV8mD2gNjyo-1" value="奇蹟&lt;div&gt;白銀城&lt;/div&gt;&lt;div&gt;月城&lt;/div&gt;&lt;div&gt;現實世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8580" y="8600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHxSNtfnJcV8mD2gNjyo-3" target="zHxSNtfnJcV8mD2gNjyo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zHxSNtfnJcV8mD2gNjyo-3" value="貝爾納黛" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7880" y="8480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-5" value="叔伯死後回到島嶼&lt;div&gt;黑黃帝陵墓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7880" y="8340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
