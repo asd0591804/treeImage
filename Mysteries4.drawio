@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5030" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4714" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4145,7 +4145,7 @@
         <mxCell id="kK6HGLZxik0NfMln0l_l-1" value="等塞滿規則後清空&lt;div&gt;藉此傳送到安半愚&lt;/div&gt;&lt;div&gt;交換愚者褻瀆之卡&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="7590" y="8710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK6HGLZxik0NfMln0l_l-3" target="zHxSNtfnJcV8mD2gNjyo-3">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kK6HGLZxik0NfMln0l_l-3" target="zHxSNtfnJcV8mD2gNjyo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kK6HGLZxik0NfMln0l_l-3" value="奇蹟魔術師&lt;div&gt;梅林。赫爾墨斯&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4154,7 +4154,7 @@
         <mxCell id="kK6HGLZxik0NfMln0l_l-5" value="特倫索斯特黃銅書" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8190" y="9410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kK6HGLZxik0NfMln0l_l-7" target="zHxSNtfnJcV8mD2gNjyo-1">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kK6HGLZxik0NfMln0l_l-7" target="zHxSNtfnJcV8mD2gNjyo-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kK6HGLZxik0NfMln0l_l-7" value="達尼茲接&lt;div&gt;倒吊人接&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4166,23 +4166,29 @@
         <mxCell id="kK6HGLZxik0NfMln0l_l-11" value="&lt;div&gt;晉升 旅法師&lt;/div&gt;告知門先生半瘋&lt;div&gt;三份序列4儀式&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6970" y="8463.33" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-1" value="奇蹟&lt;div&gt;白銀城&lt;/div&gt;&lt;div&gt;月城&lt;/div&gt;&lt;div&gt;現實世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-1" value="奇蹟&lt;div&gt;白銀城&lt;/div&gt;&lt;div&gt;月城&lt;/div&gt;&lt;div&gt;現實世界&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8580" y="8600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHxSNtfnJcV8mD2gNjyo-3" target="zHxSNtfnJcV8mD2gNjyo-5">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zHxSNtfnJcV8mD2gNjyo-3" target="zHxSNtfnJcV8mD2gNjyo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-3" value="貝爾納黛" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-3" value="貝爾納黛" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7880" y="8480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHxSNtfnJcV8mD2gNjyo-5" target="zHxSNtfnJcV8mD2gNjyo-7">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zHxSNtfnJcV8mD2gNjyo-5" target="zHxSNtfnJcV8mD2gNjyo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-5" value="叔伯死後回到島嶼&lt;div&gt;黑黃帝陵墓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-5" value="叔伯死後回到島嶼&lt;div&gt;黑黃帝陵墓&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7880" y="8340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zHxSNtfnJcV8mD2gNjyo-7" value="進入&lt;div&gt;黑影&lt;/div&gt;&lt;div&gt;失控&lt;/div&gt;&lt;div&gt;羅賽爾回光 封印&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YemBtoeKIMA4yVI1SMuu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHxSNtfnJcV8mD2gNjyo-7" target="YemBtoeKIMA4yVI1SMuu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHxSNtfnJcV8mD2gNjyo-7" value="進入&lt;div&gt;黑影&lt;/div&gt;&lt;div&gt;失控&lt;/div&gt;&lt;div&gt;羅賽爾回光 封印&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7880" y="8200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YemBtoeKIMA4yVI1SMuu-1" value="交流&lt;div&gt;褻瀆之牌&lt;/div&gt;&lt;div&gt;小心母親牌&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8080" y="8200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
