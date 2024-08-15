@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="4977" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5276" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4202,8 +4202,14 @@
         <mxCell id="pxsqQDfZST12inRGDmNi-3" value="自動許願機" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7430" y="8410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxsqQDfZST12inRGDmNi-5" target="pxsqQDfZST12inRGDmNi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pxsqQDfZST12inRGDmNi-5" value="正義&lt;div&gt;心理煉金&lt;/div&gt;&lt;div&gt;傲慢&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7230" y="8410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxsqQDfZST12inRGDmNi-7" value="伊甸園&lt;div&gt;亞當&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7230" y="8270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
