@@ -4401,8 +4401,20 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-35" value="門先生晉升序列0&lt;div&gt;阿蒙竊取&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6620" y="6720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-37" target="JKUNp8sAswrbdF6TtYYK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-37" value="源堡復活&lt;div&gt;打查拉圖&lt;/div&gt;&lt;div&gt;列奧德羅&lt;br&gt;&lt;div&gt;晉升序列1&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8170" y="6220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-39" target="JKUNp8sAswrbdF6TtYYK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-39" value="晉升&lt;div&gt;詭密侍者&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="6080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-41" value="擊殺查拉圖&lt;div&gt;借助儀式吸收&lt;br&gt;&lt;div&gt;降低天尊影響&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7970" y="6080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
