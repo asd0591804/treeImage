@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5621" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5188" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4250,6 +4250,11 @@
         <mxCell id="47YB_nxNc621jxDlovLT-7" value="神秘女王&lt;div&gt;預言魔藥&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7320" y="7640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="47YB_nxNc621jxDlovLT-9" target="JKUNp8sAswrbdF6TtYYK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7780" y="7700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="47YB_nxNc621jxDlovLT-9" value="正義&lt;div&gt;拖延&lt;/div&gt;&lt;div&gt;探索心靈巨龍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7630" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4259,7 +4264,7 @@
         <mxCell id="47YB_nxNc621jxDlovLT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="47YB_nxNc621jxDlovLT-11" target="47YB_nxNc621jxDlovLT-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47YB_nxNc621jxDlovLT-11" target="CYYqBwclByY_O7-6FVMJ-1">
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="47YB_nxNc621jxDlovLT-11" target="CYYqBwclByY_O7-6FVMJ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="7520" y="7340" />
@@ -4273,23 +4278,56 @@
         <mxCell id="47YB_nxNc621jxDlovLT-13" value="阿蒙&lt;div&gt;敲鐘&lt;/div&gt;&lt;div&gt;時天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7660" y="7470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="47YB_nxNc621jxDlovLT-15" target="CYYqBwclByY_O7-6FVMJ-5">
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="47YB_nxNc621jxDlovLT-15" target="CYYqBwclByY_O7-6FVMJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="47YB_nxNc621jxDlovLT-15" value="亞伯拉罕家族&lt;div&gt;拯救門先生儀式&lt;/div&gt;&lt;div&gt;班西&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7220" y="7370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYYqBwclByY_O7-6FVMJ-1" target="CYYqBwclByY_O7-6FVMJ-3">
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CYYqBwclByY_O7-6FVMJ-1" target="CYYqBwclByY_O7-6FVMJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-1" value="烏托邦" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-1" value="烏托邦" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7630" y="7170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-3" value="居民外出" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYYqBwclByY_O7-6FVMJ-3" target="JKUNp8sAswrbdF6TtYYK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-3" value="居民外出" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7630" y="7030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYYqBwclByY_O7-6FVMJ-5" value="星空" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYYqBwclByY_O7-6FVMJ-5" target="JKUNp8sAswrbdF6TtYYK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYYqBwclByY_O7-6FVMJ-5" value="星空" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7020" y="7260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-1" target="JKUNp8sAswrbdF6TtYYK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-1" value="木門&lt;div&gt;班西電報局&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6820" y="7260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-3" target="JKUNp8sAswrbdF6TtYYK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-3" value="戰爭之神尊名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6820" y="7120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-5" value="紅天使&lt;div&gt;阿蒙&lt;/div&gt;&lt;div&gt;圖謀&lt;/div&gt;&lt;div&gt;門先生&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6620" y="7120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-7" target="JKUNp8sAswrbdF6TtYYK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-7" value="打獵&lt;div&gt;心靈巨龍村庄&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="7180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-9" value="出庭&lt;div&gt;烏鴉&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7440" y="6920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-11" value="&lt;div&gt;木門&lt;/div&gt;大白兔&lt;div&gt;正義拯救無辜夢中人&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7910" y="7030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
