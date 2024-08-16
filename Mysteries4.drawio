@@ -4350,6 +4350,9 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-18" target="JKUNp8sAswrbdF6TtYYK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-18" target="JKUNp8sAswrbdF6TtYYK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-18" value="亞當&lt;div&gt;阿蒙交易&lt;/div&gt;&lt;div&gt;查拉圖寧願當小&lt;/div&gt;&lt;div&gt;不願死&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7770" y="6640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4361,6 +4364,27 @@
         </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-22" value="真造知道" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7370" y="6640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-25" target="JKUNp8sAswrbdF6TtYYK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-25" value="三支柱&lt;div&gt;三外神&lt;br&gt;&lt;div&gt;源質遭遇撕裂&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7770" y="6500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-27" target="JKUNp8sAswrbdF6TtYYK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-27" value="祈禱&lt;div&gt;靈之蟲&lt;/div&gt;&lt;div&gt;碰到光點&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7770" y="6360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-29" target="JKUNp8sAswrbdF6TtYYK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-29" value="燈神交易" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7970" y="6360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-31" value="末日前送回星空&lt;div&gt;許下兩個願望&lt;br&gt;&lt;div&gt;將兩個願望歸納名下&lt;/div&gt;&lt;div&gt;晉升儀式要求完成&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="6360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
