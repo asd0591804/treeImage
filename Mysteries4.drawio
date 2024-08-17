@@ -4508,8 +4508,14 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-68" value="奧維爾。蒂蘭" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="7780" y="5520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-71" target="JKUNp8sAswrbdF6TtYYK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-71" value="班森結婚&lt;div&gt;人性穩定&lt;/div&gt;&lt;div&gt;心理治療&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8530" y="4950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-73" value="戴上&#39;傲慢&#39;&lt;div&gt;進入伊甸園&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8530" y="4810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
