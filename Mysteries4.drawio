@@ -4628,8 +4628,14 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-106" value="規則比拚&lt;div&gt;燈神&lt;/div&gt;&lt;div&gt;黃銅書&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9740" y="5110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-108" target="JKUNp8sAswrbdF6TtYYK-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-108" value="以失控天尊復甦為本&lt;div&gt;擊殺阿蒙&lt;/div&gt;&lt;div&gt;失去自我交換&lt;/div&gt;&lt;div&gt;所愛之人的安全&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9540" y="5110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-110" value="女神幫忙永眠&lt;div&gt;小蛇祝福下次&lt;/div&gt;&lt;div&gt;塔羅會&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9340" y="5110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
