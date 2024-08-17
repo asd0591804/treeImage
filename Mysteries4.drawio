@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5233" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5283" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4452,11 +4452,29 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-53" target="JKUNp8sAswrbdF6TtYYK-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-53" target="JKUNp8sAswrbdF6TtYYK-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-53" value="竊取安提哥努斯命運&lt;div&gt;晉升愚者&lt;/div&gt;&lt;div&gt;容納唯一性&lt;/div&gt;&lt;div&gt;返回命運&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8170" y="5680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-55" value="需要永眠&lt;div&gt;女神&lt;br&gt;&lt;div&gt;永暗之水&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7970" y="5680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-57" target="JKUNp8sAswrbdF6TtYYK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-57" target="JKUNp8sAswrbdF6TtYYK-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-57" value="寫信&lt;div&gt;阿茲克&lt;/div&gt;&lt;div&gt;人性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8315" y="5530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-59" value="赫密斯&lt;div&gt;給予正義選擇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8120" y="5280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-61" value="倒吊人&lt;div&gt;離開風暴&lt;/div&gt;&lt;div&gt;成為海神教皇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8530" y="5430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
