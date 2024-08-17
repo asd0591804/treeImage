@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="RJmL_7wUOp7U7_jGCte6">
-    <mxGraphModel dx="5714" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4900" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4543,11 +4543,17 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-77" value="休&lt;div&gt;信使&lt;/div&gt;&lt;div&gt;莎倫&lt;/div&gt;&lt;div&gt;交代未來喚醒愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8730" y="4440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-80" target="JKUNp8sAswrbdF6TtYYK-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-80" value="不死鳥神國&lt;div&gt;永暗之河&lt;/div&gt;&lt;div&gt;死神 薩琳格爾&lt;/div&gt;&lt;div&gt;徘徊&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8830" y="4630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-82" value="金幣&lt;div&gt;分別給四個天使&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8930" y="4300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-84" value="女神&lt;div&gt;六源質封印在西大陸&lt;/div&gt;&lt;div&gt;詭密之主必定要先出&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9000" y="4770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
