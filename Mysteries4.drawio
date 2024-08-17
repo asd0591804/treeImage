@@ -4592,8 +4592,26 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-94" value="阿蒙&lt;span style=&quot;background-color: initial;&quot;&gt;分身&lt;/span&gt;&lt;div&gt;干擾&lt;/div&gt;&lt;div&gt;失控邊緣&lt;/div&gt;&lt;div&gt;燈神 0-02&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9530" y="4550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-96" target="JKUNp8sAswrbdF6TtYYK-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-96" value="亂尚加亂&lt;div&gt;直接晉升愚者&lt;/div&gt;&lt;div&gt;本體詭秘復甦&lt;/div&gt;&lt;div&gt;分身保留安提哥努斯&lt;/div&gt;&lt;div&gt;自身意識&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9730" y="4535" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-98" target="JKUNp8sAswrbdF6TtYYK-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-98" value="眾神阻止詭秘&lt;div&gt;化為魔藥&lt;/div&gt;&lt;div&gt;克萊恩vs阿蒙&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9760" y="4720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-100" target="JKUNp8sAswrbdF6TtYYK-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-100" value="黃銅書禁止偷竊&lt;div&gt;歸還命運&lt;/div&gt;&lt;div&gt;失控&lt;/div&gt;&lt;div&gt;女神阻止克萊恩&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9540" y="4830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-102" value="隱密眾神&lt;div&gt;復活&lt;/div&gt;&lt;div&gt;晉升愚者&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9540" y="4970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
