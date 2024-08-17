@@ -4443,8 +4443,20 @@
         <mxCell id="JKUNp8sAswrbdF6TtYYK-49" value="第一塊褻瀆&lt;div&gt;抵擋墮落母神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6620" y="6580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-51" target="JKUNp8sAswrbdF6TtYYK-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JKUNp8sAswrbdF6TtYYK-51" value="愚者儀式&lt;div&gt;詢問小蛇&lt;/div&gt;&lt;div&gt;詢問女神&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8170" y="5820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JKUNp8sAswrbdF6TtYYK-53" target="JKUNp8sAswrbdF6TtYYK-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-53" value="竊取安提哥努斯命運&lt;div&gt;晉升愚者&lt;/div&gt;&lt;div&gt;容納唯一性&lt;/div&gt;&lt;div&gt;返回命運&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8170" y="5680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JKUNp8sAswrbdF6TtYYK-55" value="需要永眠&lt;div&gt;女神&lt;br&gt;&lt;div&gt;永暗之水&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7970" y="5680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
